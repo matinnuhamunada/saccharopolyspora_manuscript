@@ -410,6 +410,7 @@ NZ_FOUP01000018.1.region001 TIGR01228 {'weight': '1.0', 'relation_type': 'arts_h
 NZ_FOUP01000018.1.region001 TIGR02753 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_VIWX01000001.1.region001 BGC0000695 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0909090909090909'}
 NZ_VIWX01000001.1.region001 NZ_VIWX01000001.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_VIWX01000001.1.region001 202082 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 BGC0000695 NZ_JAGPXE010000017.1.region001 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0909090909090909'}
 BGC0000695 NZ_CP069353.1.region007 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0454545454545454'}
 BGC0000695 NZ_JABNNH010000001.1.region002 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0454545454545454'}
@@ -480,6 +481,7 @@ BGC0000269 NZ_PJNB01000001.1.region037 {'weight': '0.01', 'relation_type': 'anti
 BGC0000269 NZ_GL877879.1.region007 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0652173913043478'}
 NZ_VIWX01000001.1.region009 BGC0000519 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.4'}
 NZ_VIWX01000001.1.region009 NZ_VIWX01000001.1.region009 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_VIWX01000001.1.region009 201830 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 BGC0000519 NZ_CP069353.1.region023 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.4'}
 BGC0000519 NZ_JABNNH010000001.1.region018 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.4'}
 BGC0000519 NC_009142.1.region021 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.4'}
@@ -692,6 +694,7 @@ BGC0001214 NZ_PDBV01000001.1.region005 {'weight': '0.01', 'relation_type': 'anti
 BGC0001214 NZ_CP059557.1.region025 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.125'}
 NZ_CP069353.1.region007 NZ_CP069353.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP069353.1.region008 NZ_CP069353.1.region008 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP069353.1.region008 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP069353.1.region008 TIGR01994 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP069353.1.region008 TIGR01430 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP069353.1.region009 BGC0000994 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.1818181818181818'}
@@ -763,6 +766,7 @@ NZ_CP069353.1.region021 NZ_JABNNH010000001.1.region016 {'weight': '100.0', 'rela
 NZ_CP069353.1.region021 221454 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP069353.1.region022 BGC0000661 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '1.0'}
 NZ_CP069353.1.region022 NZ_CP069353.1.region022 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP069353.1.region022 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 BGC0000661 NZ_CP054839.1.region021 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '1.0'}
 BGC0000661 NZ_CP054839.1.region034 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '1.0'}
 BGC0000661 NZ_JABNNH010000001.1.region016 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '1.0'}
@@ -909,6 +913,7 @@ NZ_CP054839.1.region019 NZ_JABNNH010000001.1.region019 {'weight': '100.0', 'rela
 NZ_CP054839.1.region019 NC_009142.1.region022 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP054839.1.region021 NC_009142.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP054839.1.region021 NZ_JABNNH010000001.1.region016 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP054839.1.region021 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP054839.1.region022 221454 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP054839.1.region023 BGC0001918 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.2222222222222222'}
 NZ_CP054839.1.region023 NZ_PDBV01000001.1.region019 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -962,6 +967,7 @@ NZ_JABNNH010000001.1.region001 TIGR03954 {'weight': '1.0', 'relation_type': 'art
 NZ_JABNNH010000001.1.region002 NC_009142.1.region006 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JABNNH010000001.1.region003 NZ_VWPH01000008.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JABNNH010000001.1.region003 NC_009142.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JABNNH010000001.1.region003 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region003 TIGR01994 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region003 TIGR01430 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region004 NC_009142.1.region008 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -999,6 +1005,7 @@ NZ_JABNNH010000001.1.region015 NC_009142.1.region019 {'weight': '100.0', 'relati
 NZ_JABNNH010000001.1.region015 NZ_PDBV01000001.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JABNNH010000001.1.region015 221454 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region016 NC_009142.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JABNNH010000001.1.region016 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region017 NZ_JABNNH010000001.1.region017 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JABNNH010000001.1.region018 NC_009142.1.region021 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JABNNH010000001.1.region018 NZ_CP054839.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -1064,6 +1071,7 @@ NC_009142.1.region004 TIGR03356 {'weight': '1.0', 'relation_type': 'arts_hits', 
 NC_009142.1.region005 209304 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NC_009142.1.region005 TIGR03954 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NC_009142.1.region007 NZ_VWPH01000008.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NC_009142.1.region007 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NC_009142.1.region007 TIGR01994 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NC_009142.1.region007 TIGR01430 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NC_009142.1.region008 209301 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
@@ -1093,6 +1101,7 @@ NC_009142.1.region018 TIGR02157 {'weight': '1.0', 'relation_type': 'arts_hits', 
 NC_009142.1.region018 TIGR02156 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NC_009142.1.region019 NZ_PDBV01000001.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NC_009142.1.region019 221454 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NC_009142.1.region020 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NC_009142.1.region021 NZ_CP054839.1.region020 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NC_009142.1.region022 209300 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NC_009142.1.region023 202078 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
@@ -1136,6 +1145,7 @@ NZ_PDBV01000001.1.region005 209304 {'weight': '1.0', 'relation_type': 'bigfam_hi
 NZ_PDBV01000001.1.region005 TIGR03954 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region006 NZ_PDBV01000001.1.region006 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_PDBV01000001.1.region007 NZ_PDBV01000001.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_PDBV01000001.1.region007 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region007 TIGR01994 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region007 TIGR01430 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region008 NZ_PDBV01000001.1.region008 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -1163,6 +1173,7 @@ NZ_PDBV01000001.1.region018 TIGR02158 {'weight': '1.0', 'relation_type': 'arts_h
 NZ_PDBV01000001.1.region018 TIGR02157 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region018 TIGR02156 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region019 221454 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NZ_PDBV01000001.1.region020 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_PDBV01000001.1.region021 NZ_PDBV01000001.1.region021 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_PDBV01000001.1.region022 NZ_PDBV01000001.1.region022 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_PDBV01000001.1.region022 209300 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
@@ -1265,6 +1276,7 @@ NZ_JACHIV010000001.1.region003 NZ_CP059557.1.region025 {'weight': '100.0', 'rela
 NZ_JACHIV010000001.1.region003 NZ_CP059556.1.region021 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACHIV010000001.1.region003 TIGR03954 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JACHIV010000001.1.region004 NZ_CP059557.1.region024 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JACHIV010000001.1.region004 202082 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JACHIV010000001.1.region005 NZ_JADDUE010000003.1.region003 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACHIV010000001.1.region005 NZ_CP059556.1.region005 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACHIV010000001.1.region005 NZ_JACHIW010000001.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -1356,6 +1368,7 @@ NZ_CP059557.1.region011 NZ_CP059557.1.region011 {'weight': '100.0', 'relation_ty
 NZ_CP059557.1.region011 TIGR00273 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP059557.1.region012 BGC0001814 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0555555555555555'}
 NZ_CP059557.1.region012 NZ_CP059557.1.region012 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP059557.1.region012 201830 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP059557.1.region013 BGC0000081 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.0521739130434782'}
 NZ_CP059557.1.region013 NZ_CP059557.1.region013 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP059557.1.region013 TIGR00078 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
@@ -1388,6 +1401,7 @@ NZ_CP059557.1.region023 205309 {'weight': '1.0', 'relation_type': 'bigfam_hits',
 NZ_CP059557.1.region023 TIGR01980 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP059557.1.region023 TIGR01981 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP059557.1.region023 TIGR01994 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
+NZ_CP059557.1.region024 202082 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP059557.1.region025 NZ_CP059556.1.region021 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP059557.1.region025 TIGR03954 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP059556.1.region001 201767 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
@@ -1658,6 +1672,7 @@ NZ_FOME01000021.1.region001 NZ_FNVB01000003.1.region001 {'weight': '100.0', 'rel
 NZ_FOME01000021.1.region002 NZ_FNVB01000003.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_FOME01000008.1.region001 NZ_FNVB01000007.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_FOME01000019.1.region001 NZ_FNVB01000002.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_FOME01000019.1.region001 205957 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_FNVB01000003.1.region003 NZ_FNVB01000003.1.region003 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_FNVB01000003.1.region003 219912 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_FNVB01000003.1.region003 PF01039.17 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
@@ -1928,6 +1943,7 @@ NZ_CP102826.1.region005 PF00364.17 {'weight': '1.0', 'relation_type': 'arts_hits
 NZ_CP102826.1.region005 PF01039.17 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP102826.1.region005 PF03255.9 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP102826.1.region006 NZ_CP102826.1.region006 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP102826.1.region006 210179 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP102826.1.region006 RF0105 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP102826.1.region007 BGC0000712 {'weight': '0.01', 'relation_type': 'antismash_knownclusterblast', 'value': '0.05'}
 NZ_CP102826.1.region007 NZ_CP102826.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2386,6 +2402,7 @@ NZ_CP054839.1.region036 TIGR00494 {'weight': '1.0', 'relation_type': 'arts_hits'
 NZ_CP031142.1.region016 NZ_CP031142.1.region016 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP059557.1.region008 NZ_CP059557.1.region008 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP059556.1.region024 NZ_CP059556.1.region024 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP059556.1.region024 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP054839.1.region013 NZ_CP054839.1.region013 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP031142.1.region013 NZ_CP031142.1.region013 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP031142.1.region030 NZ_CP031142.1.region030 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2395,6 +2412,7 @@ NZ_PDBV01000001.1.region013 NZ_PDBV01000001.1.region013 {'weight': '100.0', 'rel
 NZ_PDBV01000001.1.region013 209305 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JACHIW010000003.1.region002 NZ_JACHIW010000003.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JAGPXE010000011.1.region002 NZ_JAGPXE010000011.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JAGPXE010000011.1.region002 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_RSAA01000007.1.region004 NZ_RSAA01000007.1.region004 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_RSAA01000007.1.region004 223006 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_RSAA01000007.1.region004 TIGR00084 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
@@ -2418,8 +2436,11 @@ NZ_GL877881.1.region001 NZ_PJNB01000001.1.region026 {'weight': '100.0', 'relatio
 NZ_GL877881.1.region001 220592 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_GL877879.1.region005 NZ_PJNB01000001.1.region035 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_GL877879.1.region005 NZ_CP061007.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_GL877879.1.region005 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_PJNB01000001.1.region035 NZ_CP061007.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_PJNB01000001.1.region035 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_PJNB01000001.1.region026 220592 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NZ_CP061007.1.region010 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP040605.1.region001 NZ_CP040605.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP040605.1.region001 TIGR00118 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JADDUE010000011.1.region001 NZ_JADDUE010000011.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2487,6 +2508,7 @@ NZ_RSAA01000007.1.region002 TIGR03997 {'weight': '1.0', 'relation_type': 'arts_h
 NZ_JACCFJ010000001.1.region004 NZ_RBXX01000002.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACCFJ010000001.1.region004 TIGR03997 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP031142.1.region018 NZ_CP040605.1.region022 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP040605.1.region022 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_GL877878.1.region002 NZ_PJNB01000001.1.region018 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_GL877878.1.region002 NZ_CP061007.1.region030 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_PJNB01000001.1.region018 NZ_CP061007.1.region030 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2497,9 +2519,11 @@ NZ_PDBV01000001.1.region026 NC_009142.1.region025 {'weight': '100.0', 'relation_
 NZ_FOZX01000004.1.region002 TIGR03997 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region023 NZ_CP069353.1.region027 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JAGPXE010000011.1.region001 NZ_JAGPXE010000011.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JAGPXE010000011.1.region001 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JACHIW010000001.1.region007 NZ_JACHIW010000001.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACHIW010000001.1.region007 218572 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP031142.1.region035 NZ_CP031142.1.region035 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP031142.1.region035 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP031142.1.region035 TIGR00615 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP031142.1.region035 TIGR00499 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP031142.1.region035 TIGR03941 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
@@ -2513,8 +2537,11 @@ NZ_CP059556.1.region007 NZ_CP059556.1.region007 {'weight': '100.0', 'relation_ty
 NZ_CP059556.1.region007 TIGR03997 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP069353.1.region010 NZ_CP069353.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JADDUE010000002.1.region001 NZ_JADDUE010000002.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JADDUE010000002.1.region001 201608 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP102826.1.region002 NZ_CP102826.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP102826.1.region002 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_VWPH01000006.1.region001 NZ_VWPH01000006.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_VWPH01000006.1.region001 202087 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP054839.1.region015 NZ_CP054839.1.region015 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JADDUE010000013.1.region001 NZ_JADDUE010000013.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP031142.1.region031 NZ_CP031142.1.region031 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2540,6 +2567,7 @@ NZ_JADDUE010000015.1.region001 218572 {'weight': '1.0', 'relation_type': 'bigfam
 NZ_JACHIV010000001.1.region007 NZ_JACHIV010000001.1.region007 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JACHIV010000001.1.region007 RF0007 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_RSAA01000010.1.region001 NZ_RSAA01000010.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_RSAA01000010.1.region001 202087 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_RSAA01000010.1.region001 PF01039.17 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_JACHIW010000001.1.region009 NZ_JACHIW010000001.1.region009 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_JAGPXE010000007.1.region001 NZ_JAGPXE010000007.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
@@ -2559,18 +2587,30 @@ NZ_GL877881.1.region004 TIGR02960 {'weight': '1.0', 'relation_type': 'arts_hits'
 NZ_PJNB01000001.1.region029 NZ_CP061007.1.region004 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_VWPH01000008.1.region001 NZ_RBXX01000002.1.region006 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_VWPH01000008.1.region001 NZ_FOUP01000009.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_VWPH01000008.1.region001 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JAGPXE010000003.1.region002 222180 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP061007.1.region022 NZ_GL877882.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP061007.1.region022 NZ_PJNB01000001.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP061007.1.region022 213140 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_GL877882.1.region001 NZ_PJNB01000001.1.region010 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_GL877882.1.region001 213140 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_RBXX01000002.1.region006 NZ_FOUP01000009.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_RBXX01000002.1.region006 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NZ_FOUP01000009.1.region001 200946 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NZ_PJNB01000001.1.region010 213140 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP061007.1.region004 TIGR02960 {'weight': '1.0', 'relation_type': 'arts_hits', 'value': 'nan'}
 NZ_CP069353.1.region039 NZ_JABNNH010000001.1.region034 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP069353.1.region039 NC_009142.1.region037 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP069353.1.region039 215277 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JABNNH010000001.1.region034 NC_009142.1.region037 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_JABNNH010000001.1.region034 215277 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
+NC_009142.1.region037 215277 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JACHIW010000002.1.region012 NZ_JACHIW010000002.1.region012 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_PDBV01000001.1.region037 NZ_PDBV01000001.1.region037 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_PDBV01000001.1.region037 215277 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_JAGPXE010000003.1.region001 NZ_JAGPXE010000003.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
 NZ_CP031142.1.region028 NZ_CP031142.1.region028 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP031142.1.region028 215277 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_CP059556.1.region002 NZ_CP059556.1.region002 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
+NZ_CP059556.1.region002 201682 {'weight': '1.0', 'relation_type': 'bigfam_hits', 'value': 'nan'}
 NZ_FOZX01000015.1.region001 NZ_FOZX01000015.1.region001 {'weight': '100.0', 'relation_type': 'bigscape_similarity', 'value': 'nan'}
