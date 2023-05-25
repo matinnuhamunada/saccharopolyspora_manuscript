@@ -1,0 +1,349 @@
+cblaster search
+===============
+NC_009142.1.region009
+=====================
+NC_009142.1
+-----------
+Cluster 1, score 11.1735:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07350  MJIAAPGN_24010  88.9      62.1      2.76e-05   34.7      9903   10011  +     
+JDNMFAPF_07360  MJIAAPGN_24020  43.9      89.9      8.88e-23   84.3      10000  10327  +     
+JDNMFAPF_07370  MJIAAPGN_24030  68        99.7      1.22e-196  547       10343  11522  +     
+JDNMFAPF_07380  MJIAAPGN_24040  64.1      97        6.93e-183  512       11548  12724  +     
+JDNMFAPF_07390  MJIAAPGN_24060  49.1      95.9      8.96e-61   189       13636  14365  +     
+JDNMFAPF_07400  MJIAAPGN_24080  45.9      98.5      1.31e-123  368       15134  16583  +     
+
+
+NZ_GL877879.1.region006
+=======================
+NZ_GL877879.1
+-------------
+Cluster 2, score 5.1028:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  GBGKCCPF_49520  39.7      96.2      2.83e-79   253       433    1789   -     
+JDNMFAPF_07370  GBGKCCPF_49600  69        99.5      1.39e-194  542       10000  11194  -     
+JDNMFAPF_07360  GBGKCCPF_49610  50.6      79.8      1.71e-23   85.5      11264  11525  -     
+JDNMFAPF_07340  GBGKCCPF_49630  43.2      92.4      4.55e-45   147       11802  12369  +     
+
+
+NZ_PDBV01000001.region009
+=========================
+NZ_PDBV01000001
+---------------
+Cluster 3, score 11.1735:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07350  IHGEIAOG_27810  88.9      62.1      2.76e-05   34.7      9903   10011  +     
+JDNMFAPF_07360  IHGEIAOG_27820  43.9      89.9      8.88e-23   84.3      10000  10327  +     
+JDNMFAPF_07370  IHGEIAOG_27830  68        99.7      1.22e-196  547       10343  11522  +     
+JDNMFAPF_07380  IHGEIAOG_27840  64.1      97        6.93e-183  512       11548  12724  +     
+JDNMFAPF_07390  IHGEIAOG_27860  49.1      95.9      8.96e-61   189       13636  14365  +     
+JDNMFAPF_07400  IHGEIAOG_27880  45.9      98.5      1.31e-123  368       15134  16583  +     
+
+
+NZ_PJNB01000001.region036
+=========================
+NZ_PJNB01000001
+---------------
+Cluster 4, score 5.1028:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  OOOGHNGE_68770  39.7      96.2      2.83e-79   253       418    1774   -     
+JDNMFAPF_07370  OOOGHNGE_68850  69        99.5      1.39e-194  542       10000  11194  -     
+JDNMFAPF_07360  OOOGHNGE_68860  50.6      79.8      1.71e-23   85.5      11264  11525  -     
+JDNMFAPF_07340  OOOGHNGE_68880  43.2      92.4      4.55e-45   147       11802  12369  +     
+
+
+NZ_RBXX01000002.region007
+=========================
+NZ_RBXX01000002
+---------------
+Cluster 5, score 7.0817:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07340  EDIHAEFF_54440  48.5      86.4      1.01e-47   156       8934   9735   -     
+JDNMFAPF_07350  EDIHAEFF_54450  93.8      55.2      5.4e-05    33.9      9899   10001  +     
+JDNMFAPF_07360  EDIHAEFF_54460  46.2      83.5      1.79e-21   80.5      10000  10273  +     
+JDNMFAPF_07370  EDIHAEFF_54470  69.9      99.2      9.61e-197  547       10288  11476  +     
+
+
+NZ_RSAA01000007.region002
+=========================
+NZ_RSAA01000007
+---------------
+Cluster 6, score 11.1333:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07390  NCKBKMME_45580  49.1      95.5      2.24e-53   170       88     748    -     
+JDNMFAPF_07400  NCKBKMME_45590  39.2      94.5      2.12e-73   237       744    2088   -     
+JDNMFAPF_07300  NCKBKMME_45600  33        94.9      1.48e-28   108       2084   2867   -     
+JDNMFAPF_07370  NCKBKMME_45670  69        99.7      3.36e-197  548       10000  11188  -     
+JDNMFAPF_07360  NCKBKMME_45680  47.2      81.7      1.55e-22   83.2      11464  11737  -     
+JDNMFAPF_07350  NCKBKMME_45690  64.3      96.6      2.72e-05   34.7      11739  11844  -     
+JDNMFAPF_07340  NCKBKMME_45700  45.7      87.4      4.41e-47   152       11977  12532  +     
+
+
+NZ_VIWX01000001.region007
+=========================
+NZ_VIWX01000001
+---------------
+Cluster 7, score 8.1010:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07390  EMDOHHMB_07770  50.5      95.5      2.04e-59   185       61     721    -     
+JDNMFAPF_07370  EMDOHHMB_07860  70.2      99.7      1.15e-199  555       10000  11182  -     
+JDNMFAPF_07360  EMDOHHMB_07870  49.4      81.7      9.77e-24   86.3      11334  11610  -     
+JDNMFAPF_07350  EMDOHHMB_07880  93.8      55.2      5.48e-05   33.9      11612  11717  -     
+JDNMFAPF_07340  EMDOHHMB_07890  42.7      89.9      4.14e-46   150       11799  12405  +     
+
+
+NZ_VWPH01000016.region001
+=========================
+NZ_VWPH01000016
+---------------
+Cluster 8, score 8.1062:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  DAABFAHA_20880  40.2      96.8      2.75e-74   239       673    2017   -     
+JDNMFAPF_07370  DAABFAHA_20960  70.7      99.2      6.15e-200  555       10000  11188  -     
+JDNMFAPF_07360  DAABFAHA_20970  46.1      81.7      5.1e-21    79.3      11203  11476  -     
+JDNMFAPF_07350  DAABFAHA_20980  93.8      55.2      5.4e-05    33.9      11475  11577  -     
+JDNMFAPF_07340  DAABFAHA_20990  44.4      90.9      3.25e-47   155       11713  12529  +     
+
+
+NZ_CP040605.1.region009
+=======================
+NZ_CP040605.1
+-------------
+Cluster 9, score 5.0651:
+Query           Subject         Identity  Coverage  E-value   Bitscore  Start  End    Strand
+JDNMFAPF_07340  DMCKNNNH_46520  44.1      94.9      3.22e-48  155       8669   9311   -     
+JDNMFAPF_07360  DMCKNNNH_46540  48.4      83.5      9.51e-24  86.3      9501   9774   +     
+JDNMFAPF_07400  DMCKNNNH_46650  40.7      94.5      1.21e-77  248       21124  22480  +     
+JDNMFAPF_07390  DMCKNNNH_46660  45.6      97.7      3.57e-50  162       22476  23217  +     
+
+
+NZ_CP040605.1.region021
+=======================
+NZ_CP040605.1
+-------------
+Cluster 10, score 9.1263:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07350  DMCKNNNH_59710  93.8      55.2      5.57e-05   33.9      9680   9788   +     
+JDNMFAPF_07360  DMCKNNNH_59720  48.3      79.8      8.91e-22   81.3      9787   10060  +     
+JDNMFAPF_07370  DMCKNNNH_59730  69        99.5      4.04e-196  546       10092  11283  +     
+JDNMFAPF_07380  DMCKNNNH_59740  62        97        8.31e-177  497       11309  12485  +     
+JDNMFAPF_07390  DMCKNNNH_59780  46        61.5      4.66e-29   105       15156  15597  +     
+
+
+NZ_CP040605.1.region028
+=======================
+NZ_CP040605.1
+-------------
+Cluster 11, score 9.1740:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07380  DMCKNNNH_69920  68.8      97        1.16e-192  537       32114  33281  -     
+JDNMFAPF_07400  DMCKNNNH_69930  46.2      98.9      2.34e-119  357       33305  34763  -     
+JDNMFAPF_07390  DMCKNNNH_69950  46.8      99.5      1.76e-55   176       35055  35787  -     
+JDNMFAPF_07370  DMCKNNNH_69960  68.2      100       5.11e-194  541       35840  37055  -     
+JDNMFAPF_07360  DMCKNNNH_69970  52.2      82.6      1.73e-26   93.6      37051  37360  -     
+JDNMFAPF_07350  DMCKNNNH_69980  69.2      89.7      1.11e-05   35.8      37376  37508  -     
+
+
+c00001_NZ_JACC...region004
+==========================
+c00001_NZ_JACC..
+----------------
+Cluster 12, score 5.0991:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07340  MNGIFODF_25870  47.4      87.4      2.74e-50   160       9181   9763   -     
+JDNMFAPF_07350  MNGIFODF_25880  93.8      55.2      5.4e-05    33.9      9899   10001  +     
+JDNMFAPF_07370  MNGIFODF_25900  70.8      99.2      1.44e-198  552       10288  11476  +     
+JDNMFAPF_07400  MNGIFODF_25980  39.8      96.2      2.33e-76   245       19477  20821  +     
+
+
+c00001_NZ_JACC...region013
+==========================
+c00001_NZ_JACC..
+----------------
+Cluster 13, score 9.1738:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07380  MNGIFODF_50180  68.8      97        4.05e-193  538       10000  11167  -     
+JDNMFAPF_07400  MNGIFODF_50190  46.8      99.4      1.06e-118  355       11192  12629  -     
+JDNMFAPF_07390  MNGIFODF_50200  48.2      99.5      3.02e-56   178       12735  13464  -     
+JDNMFAPF_07370  MNGIFODF_50210  70.2      99        6.29e-194  540       13529  14732  -     
+JDNMFAPF_07360  MNGIFODF_50220  51.7      79.8      2.39e-26   93.2      14728  15034  -     
+JDNMFAPF_07350  MNGIFODF_50230  75        69        4.2e-05    34.3      15048  15168  -     
+
+
+c00001_NZ_JACH...region012
+==========================
+c00001_NZ_JACH..
+----------------
+Cluster 14, score 10.1229:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07340  LLPKHOMA_43330  44.1      93.9      5.43e-47   152       9168   9744   -     
+JDNMFAPF_07350  LLPKHOMA_43340  93.8      55.2      5.57e-05   33.9      9890   9998   +     
+JDNMFAPF_07360  LLPKHOMA_43350  48.4      83.5      1.91e-23   85.5      10000  10273  +     
+JDNMFAPF_07370  LLPKHOMA_43360  69.6      99.5      8.59e-198  550       10343  11534  +     
+JDNMFAPF_07400  LLPKHOMA_43440  40.2      96.2      2.05e-80   256       19590  20958  +     
+JDNMFAPF_07390  LLPKHOMA_43450  45.3      95.5      2.95e-46   152       20954  21698  +     
+
+
+NZ_CP061007.1.region011
+=======================
+NZ_CP061007.1
+-------------
+Cluster 15, score 5.1028:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  PKJGIIBK_08480  39.7      96.2      2.83e-79   253       418    1774   -     
+JDNMFAPF_07370  PKJGIIBK_08560  69        99.5      1.39e-194  542       10000  11194  -     
+JDNMFAPF_07360  PKJGIIBK_08570  50.6      79.8      1.71e-23   85.5      11264  11525  -     
+JDNMFAPF_07340  PKJGIIBK_08590  43.2      92.4      4.55e-45   147       11802  12369  +     
+
+
+NZ_CP031142.1.region031
+=======================
+NZ_CP031142.1
+-------------
+Cluster 16, score 5.1029:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  IECPHNMA_38960  40.4      94.5      8.59e-78   249       225    1581   -     
+JDNMFAPF_07370  IECPHNMA_39040  69.2      99.5      4.87e-195  543       10000  11194  -     
+JDNMFAPF_07360  IECPHNMA_39050  49.5      83.5      3.33e-24   87.4      11307  11580  -     
+JDNMFAPF_07340  IECPHNMA_39070  43.7      92.4      2.82e-46   150       11845  12412  +     
+
+
+c00001_NZ_JADD...region001
+==========================
+c00001_NZ_JADD..
+----------------
+Cluster 17, score 3.0540:
+Query           Subject         Identity  Coverage  E-value   Bitscore  Start  End    Strand
+JDNMFAPF_07400  BEKPJONA_01170  40.8      98.9      1.24e-95  295       354    1716   -     
+JDNMFAPF_07360  BEKPJONA_01260  50        78.9      1.2e-21   81.3      11238  11544  -     
+JDNMFAPF_07340  BEKPJONA_01280  45.4      93.4      9.66e-52  164       11688  12318  +     
+
+
+c00004_NZ_JADD...region001
+==========================
+c00004_NZ_JADD..
+----------------
+Cluster 18, score 3.0770:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07360  BEKPJONA_06830  49.5      90.8      2.3e-24    88.2      9505   9814   +     
+JDNMFAPF_07380  BEKPJONA_06850  72.7      98        2.36e-206  572       11121  12288  +     
+JDNMFAPF_07300  BEKPJONA_06920  33.2      96        3.55e-29   110       18787  19558  -     
+
+
+NZ_CP069353.1.region010
+=======================
+NZ_CP069353.1
+-------------
+Cluster 19, score 11.1735:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07350  KHDLNAGE_25180  88.9      62.1      2.76e-05   34.7      9903   10011  +     
+JDNMFAPF_07360  KHDLNAGE_25190  43.9      89.9      8.88e-23   84.3      10000  10327  +     
+JDNMFAPF_07370  KHDLNAGE_25200  68        99.7      1.22e-196  547       10343  11522  +     
+JDNMFAPF_07380  KHDLNAGE_25210  64.1      97        6.93e-183  512       11548  12724  +     
+JDNMFAPF_07390  KHDLNAGE_25230  49.1      95.9      8.96e-61   189       13636  14365  +     
+JDNMFAPF_07400  KHDLNAGE_25250  45.9      98.5      1.31e-123  368       15134  16583  +     
+
+
+c00033_NZ_JAGP...region001
+==========================
+c00033_NZ_JAGP..
+----------------
+Cluster 20, score 8.1085:
+Query           Subject         Identity  Coverage  E-value   Bitscore  Start  End    Strand
+JDNMFAPF_07400  FLBDJKNF_64570  41.3      94.5      1.28e-79  253       643    1987   -     
+JDNMFAPF_07370  FLBDJKNF_64650  70.1      99.7      1.3e-201  560       10000  11188  -     
+JDNMFAPF_07360  FLBDJKNF_64660  45.6      82.6      8.91e-22  81.3      11297  11570  -     
+JDNMFAPF_07350  FLBDJKNF_64670  93.8      55.2      5.48e-05  33.9      11572  11677  -     
+JDNMFAPF_07340  FLBDJKNF_64680  46.1      89.9      3.98e-49  157       11759  12365  +     
+
+
+NZ_CP054839.1.region010
+=======================
+NZ_CP054839.1
+-------------
+Cluster 21, score 8.1639:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07390  NFDOCLAH_28510  47.2      95.5      6.28e-54   171       6365   7037   -     
+JDNMFAPF_07400  NFDOCLAH_28520  41.8      98.5      5.42e-93   288       7033   8419   -     
+JDNMFAPF_07380  NFDOCLAH_28540  63.5      97        7.74e-182  509       9221   10394  -     
+JDNMFAPF_07370  NFDOCLAH_28550  69.5      99.5      5.71e-197  548       10508  11711  -     
+JDNMFAPF_07350  NFDOCLAH_28570  69.2      89.7      2.8e-05    34.7      12015  12126  -     
+JDNMFAPF_07300  NFDOCLAH_28580  35.9      76        6.33e-21   88.2      12495  13230  +     
+
+
+NZ_CP054839.1.region033
+=======================
+NZ_CP054839.1
+-------------
+Cluster 22, score 11.1738:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07400  NFDOCLAH_56080  45.9      98.5      6.54e-124  369       12520  13969  -     
+JDNMFAPF_07390  NFDOCLAH_56100  49.1      95.9      6.33e-61   190       14738  15467  -     
+JDNMFAPF_07380  NFDOCLAH_56120  64.1      97        3.99e-182  510       16007  17183  -     
+JDNMFAPF_07370  NFDOCLAH_56130  68.8      99.7      1.29e-198  552       17209  18388  -     
+JDNMFAPF_07360  NFDOCLAH_56140  43.9      89.9      3.58e-22   82.8      18403  18730  -     
+JDNMFAPF_07350  NFDOCLAH_56150  88.9      62.1      2.76e-05   34.7      18719  18827  -     
+
+
+c00001_NZ_JABN...region005
+==========================
+c00001_NZ_JABN..
+----------------
+Cluster 23, score 11.1735:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07350  MNMGINNK_11070  88.9      62.1      2.76e-05   34.7      9903   10011  +     
+JDNMFAPF_07360  MNMGINNK_11080  43.9      89.9      8.88e-23   84.3      10000  10327  +     
+JDNMFAPF_07370  MNMGINNK_11090  68        99.7      1.22e-196  547       10343  11522  +     
+JDNMFAPF_07380  MNMGINNK_11100  64.1      97        6.93e-183  512       11548  12724  +     
+JDNMFAPF_07390  MNMGINNK_11120  49.1      95.9      8.96e-61   189       13636  14365  +     
+JDNMFAPF_07400  MNMGINNK_11140  45.9      98.5      1.31e-123  368       15134  16583  +     
+
+
+NZ_FNVB01000002.region005
+=========================
+NZ_FNVB01000002
+---------------
+Cluster 24, score 7.0822:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07370  HDEEIGHA_57550  70.2      99.2      2.04e-198  551       10000  11188  -     
+JDNMFAPF_07360  HDEEIGHA_57560  46.2      83.5      1.79e-21   80.5      11203  11476  -     
+JDNMFAPF_07350  HDEEIGHA_57570  93.8      55.2      5.4e-05    33.9      11475  11577  -     
+JDNMFAPF_07340  HDEEIGHA_57580  48.5      86.4      5.06e-48   157       11741  12542  +     
+
+
+NZ_FOME01000001.region002
+=========================
+NZ_FOME01000001
+---------------
+Cluster 25, score 7.0822:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07340  LEBMCNIK_33550  48.5      86.4      5.06e-48   157       8934   9735   -     
+JDNMFAPF_07350  LEBMCNIK_33560  93.8      55.2      5.4e-05    33.9      9899   10001  +     
+JDNMFAPF_07360  LEBMCNIK_33570  46.2      83.5      1.79e-21   80.5      10000  10273  +     
+JDNMFAPF_07370  LEBMCNIK_33580  70.2      99.2      2.04e-198  551       10288  11476  +     
+
+
+NZ_FOUP01000002.region003
+=========================
+NZ_FOUP01000002
+---------------
+Cluster 26, score 7.0817:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07370  GEDOIOEN_32710  69.9      99.2      9.61e-197  547       10000  11188  -     
+JDNMFAPF_07360  GEDOIOEN_32720  46.2      83.5      1.79e-21   80.5      11203  11476  -     
+JDNMFAPF_07350  GEDOIOEN_32730  93.8      55.2      5.4e-05    33.9      11475  11577  -     
+JDNMFAPF_07340  GEDOIOEN_32740  48.5      86.4      1.01e-47   156       11741  12542  +     
+
+
+NZ_FOZX01000004.region002
+=========================
+NZ_FOZX01000004
+---------------
+Cluster 27, score 10.1226:
+Query           Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+JDNMFAPF_07340  HLMOCMJP_20760  46.1      83.3      5.6e-46    149       9200   9731   -     
+JDNMFAPF_07350  HLMOCMJP_20770  58.6      100       3.86e-05   34.3      9893   9998   +     
+JDNMFAPF_07360  HLMOCMJP_20780  46.1      81.7      3.39e-22   82.4      10000  10282  +     
+JDNMFAPF_07370  HLMOCMJP_20790  69.9      99.7      2.12e-198  551       10338  11529  +     
+JDNMFAPF_07400  HLMOCMJP_20870  37.5      96.2      1.07e-73   238       19440  20784  +     
+JDNMFAPF_07390  HLMOCMJP_20880  47.6      95.5      7.89e-54   171       20780  21440  +     
