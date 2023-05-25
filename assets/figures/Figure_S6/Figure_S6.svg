@@ -1,0 +1,1078 @@
+<?xml version='1.0' encoding='ASCII' standalone='yes'?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="800.0px" viewBox="0 0 800.0 720.0" height="720.0px">
+  <g>
+    <g transform="translate(0, 0) scale(1 1) ">
+      <g class="main-svg" transform="translate(0, 0) scale(0.62 0.62) ">
+        <rect x="0" y="0" width="800" height="1200" style="fill: rgb(255, 255, 255); fill-opacity: 1;"/>
+        <defs id="defs-408b29">
+          <g class="clips"/>
+          <g class="gradients"/>
+          <g class="patterns"/>
+        </defs>
+        <g class="bglayer"/>
+        <g class="layer-below">
+          <g class="imagelayer"/>
+          <g class="shapelayer"/>
+        </g>
+        <g class="cartesianlayer"/>
+        <g class="polarlayer"/>
+        <g class="smithlayer"/>
+        <g class="ternarylayer"/>
+        <g class="geolayer"/>
+        <g class="funnelarealayer"/>
+        <g class="pielayer"/>
+        <g class="iciclelayer"/>
+        <g class="treemaplayer"/>
+        <g class="sunburstlayer"/>
+        <g class="glimages"/>
+        <g class="sankey" transform="translate(80,100)matrix(1 0 0 1 0 0)" style="box-sizing: content-box; position: absolute; left: 0px; shape-rendering: geometricprecision; pointer-events: none;">
+          <g class="sankey-links" style="fill: none;">
+            <path class="sankey-link" d="M100,629.9999999999999C320,629.9999999999999 320,675.0000000000002 540,675.0000000000002L540,691.0714285714289C320,691.0714285714289 320,646.0714285714286 100,646.0714285714286Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,972.8571428571425C320,972.8571428571425 320,972.8571428571431 540,972.8571428571431L540,988.9285714285718C320,988.9285714285718 320,988.9285714285712 100,988.9285714285712Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,910.7142857142856C320,910.7142857142856 320,910.714285714286 540,910.714285714286L540,926.7857142857147C320,926.7857142857147 320,926.7857142857142 100,926.7857142857142Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,267.85714285714334C320,267.85714285714334 320,290.8928571428575 540,290.8928571428575L540,306.96428571428606C320,306.96428571428606 320,283.9285714285719 100,283.9285714285719Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,457.5000000000004C320,457.5000000000004 320,534.6428571428573 540,534.6428571428573L540,550.714285714286C320,550.714285714286 320,473.57142857142895 100,473.57142857142895Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,346.071428571429C320,346.071428571429 320,376.0714285714289 540,376.0714285714289L540,392.14285714285745C320,392.14285714285745 320,362.14285714285757 100,362.14285714285757Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,78.21428571428572C320,78.21428571428572 320,78.21428571428572 540,78.21428571428572L540,94.2857142857143C320,94.2857142857143 320,94.2857142857143 100,94.2857142857143Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,47.14285714285715C320,47.14285714285715 320,47.142857142857146 540,47.142857142857146L540,63.214285714285715C320,63.214285714285715 320,63.21428571428572 100,63.21428571428572Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,692.142857142857C320,692.142857142857 320,707.1428571428573 540,707.1428571428573L540,723.214285714286C320,723.214285714286 320,708.2142857142857 100,708.2142857142857Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,1003.9285714285713C320,1003.9285714285713 320,1003.9285714285717 540,1003.9285714285717L540,1020.0000000000003C320,1020.0000000000003 320,1020 100,1020Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,879.6428571428569C320,879.6428571428569 320,894.6428571428575 540,894.6428571428575L540,910.7142857142861C320,910.7142857142861 320,895.7142857142856 100,895.7142857142856Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,236.78571428571487C320,236.78571428571487 320,259.8214285714291 540,259.8214285714291L540,275.8928571428577C320,275.8928571428577 320,252.85714285714343 100,252.85714285714343Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,535.7142857142854C320,535.7142857142854 320,503.57142857142884 540,503.57142857142884L540,519.6428571428575C320,519.6428571428575 320,551.7857142857141 100,551.7857142857141Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,551.785714285714C320,551.785714285714 320,596.7857142857144 540,596.7857142857144L540,612.8571428571431C320,612.8571428571431 320,567.8571428571427 100,567.8571428571427Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,723.2142857142856C320,723.2142857142856 320,738.214285714286 540,738.214285714286L540,754.2857142857147C320,754.2857142857147 320,739.2857142857142 100,739.2857142857142Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,205.71428571428632C320,205.71428571428632 320,228.7500000000005 540,228.7500000000005L540,244.82142857142907C320,244.82142857142907 320,221.78571428571487 100,221.78571428571487Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,473.57142857142895C320,473.57142857142895 320,565.7142857142859 540,565.7142857142859L540,581.7857142857146C320,581.7857142857146 320,489.6428571428575 100,489.6428571428575Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,661.0714285714286C320,661.0714285714286 320,691.0714285714288 540,691.0714285714288L540,707.1428571428575C320,707.1428571428575 320,677.1428571428572 100,677.1428571428572Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,785.3571428571425C320,785.3571428571425 320,800.3571428571432 540,800.3571428571432L540,816.4285714285719C320,816.4285714285719 320,801.4285714285712 100,801.4285714285712Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,754.2857142857141C320,754.2857142857141 320,769.2857142857147 540,769.2857142857147L540,785.3571428571433C320,785.3571428571433 320,770.3571428571428 100,770.3571428571428Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,941.7857142857141C320,941.7857142857141 320,941.7857142857146 540,941.7857142857146L540,957.8571428571432C320,957.8571428571432 320,957.8571428571428 100,957.8571428571428Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,504.64285714285705C320,504.64285714285705 320,487.5000000000003 540,487.5000000000003L540,503.57142857142884C320,503.57142857142884 320,520.7142857142857 100,520.7142857142857Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,377.14285714285757C320,377.14285714285757 320,392.14285714285745 540,392.14285714285745L540,408.214285714286C320,408.214285714286 320,393.2142857142861 100,393.2142857142861Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,298.9285714285719C320,298.9285714285719 320,321.96428571428606 540,321.96428571428606L540,354.1071428571432C320,354.1071428571432 320,331.071428571429 100,331.071428571429Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,582.8571428571425C320,582.8571428571425 320,627.8571428571431 540,627.8571428571431L540,660.0000000000002C320,660.0000000000002 320,614.9999999999997 100,614.9999999999997Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,1.7763568394002505e-14C320,1.7763568394002505e-14 320,0 540,0L540,32.142857142857146C320,32.142857142857146 320,32.14285714285717 100,32.14285714285717Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,816.4285714285711C320,816.4285714285711 320,831.4285714285719 540,831.4285714285719L540,879.6428571428577C320,879.6428571428577 320,864.6428571428569 100,864.6428571428569Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,393.2142857142861C320,393.2142857142861 320,423.214285714286 540,423.214285714286L540,487.50000000000034C320,487.50000000000034 320,457.50000000000045 100,457.50000000000045Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+            <path class="sankey-link" d="M100,109.28571428571487C320,109.28571428571487 320,117.32142857142915 540,117.32142857142915L540,213.7500000000006C320,213.7500000000006 320,205.71428571428632 100,205.71428571428632Z" style="stroke: rgb(68, 68, 68); stroke-opacity: 1; fill: rgb(0, 0, 0); fill-opacity: 0.2; stroke-width: 0; opacity: 1;"/>
+          </g>
+          <g class="sankey-node-set" style="cursor: move;">
+            <g class="sankey-node" transform="translate(0.000,879.643)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora soli</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,941.786)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142844" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.88571428571422)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora aridisoli</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,816.429)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="48.21428571428578" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(10, 147, 150); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,27.95714285714289)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora spinosa</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,754.286)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142844" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.88571428571422)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora dendranthemae</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,78.214)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428584" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714291)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora phatthalungensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,1003.929)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora hordei</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,630.000)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora terrae</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,267.857)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora rhizosphaerae</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,377.143)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="112.49999999999943" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 18, 25); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,60.09999999999972)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora sp.</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,582.857)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285734" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(238, 155, 0); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,19.92142857142867)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora rectivirgula</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,972.857)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428783" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714391)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora shandongensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,661.071)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142844" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(202, 103, 2); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.88571428571422)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora endophytica</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,109.286)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="112.5" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 95, 115); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,60.1)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora erythraea</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,535.714)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora gloriosae</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,298.929)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(187, 62, 3); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora antimicrobica</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,47.143)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora subtropica</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,692.143)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora karakumensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,910.714)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora rosea</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,785.357)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora elongata</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,236.786)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142847" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714235)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora hirsuta</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,346.071)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(174, 32, 18); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora pogona</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,504.643)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142844" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.88571428571422)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora gregorii</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,723.214)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora flava</text>
+            </g>
+            <g class="sankey-node" transform="translate(0.000,0.000)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.1428571428571" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="start" transform="translate(103,19.92142857142855)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;">Saccharopolyspora kobensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,0.000)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.142857142857146" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(155, 34, 38); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,19.92142857142857)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora jiangxiensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,47.143)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428577" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714288)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora subtropica</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,228.750)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428612" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714306)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora_D erythraea_A</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,376.071)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(174, 32, 18); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora pogona</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,78.214)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428584" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714291)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora phatthalungensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,534.643)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora sp015209505</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,117.321)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="96.42857142857136" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(148, 210, 189); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,52.06428571428568)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora_D erythraea</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,596.786)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora_C gloriosae</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,259.821)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428385" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714192)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora hirsuta</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,290.893)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora rhizosphaerae</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,321.964)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(187, 62, 3); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora antimicrobica</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,627.857)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(238, 155, 0); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora rectivirgula</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,675.000)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="48.21428571428578" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(202, 103, 2); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,27.95714285714289)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora endophytica</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,423.214)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="96.42857142857133" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(233, 216, 166); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,52.06428571428567)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora_C sp.</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,565.714)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora_C sp016526145</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,738.214)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora flava</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,769.286)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora dendranthemae</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,800.357)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142867" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714334)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora sp004348985</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,831.429)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="48.21428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(10, 147, 150); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,27.957142857142777)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora spinosa</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,894.643)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="32.14285714285711" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(0, 18, 25); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,19.921428571428557)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora sp.</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,941.786)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora sp004348445</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,972.857)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.071428571428555" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.885714285714277)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora shandongensis</text>
+            </g>
+            <g class="sankey-node" transform="translate(540.000,1003.929)" style="opacity: 1;">
+              <rect class="node-rect" width="100" height="16.07142857142844" style="stroke-width: 0; stroke: rgb(0, 0, 0); stroke-opacity: 1; fill: rgb(128, 128, 128); fill-opacity: 1;"/>
+              <text class="node-label" data-notex="1" x="0" y="0" text-anchor="end" transform="translate(-3,11.88571428571422)" style="cursor: default; font-family: 'Open Sans', verdana, arial, sans-serif; font-size: 11px; fill: rgb(42, 63, 95); fill-opacity: 1; white-space: pre; text-shadow: white 1px 1px 1px, white -1px -1px 1px, white 1px -1px 1px, white -1px 1px 1px;"> Saccharopolyspora hordei</text>
+            </g>
+          </g>
+        </g>
+        <defs id="topdefs-408b29">
+          <g class="clips"/>
+        </defs>
+        <g class="layer-above">
+          <g class="imagelayer"/>
+          <g class="shapelayer"/>
+        </g>
+        <g class="infolayer">
+          <g class="g-gtitle"/>
+          <g class="first-render"/>
+        </g>
+      </g>
+      <text x="0" y="25" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">(a)</text>
+      <text x="50" y="35" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">NCBI</text>
+      <text x="375" y="35" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">GTDB</text>
+    </g>
+    <g transform="translate(480, 25) scale(1 1) ">
+      <g class="marks" transform="translate(0, 0) scale(0.7 0.7) ">
+        <rect width="367" height="313" fill="white"/>
+        <g fill="none" stroke-miterlimit="10" transform="translate(42,10)">
+          <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0.5,0.5h320v250h-320Z" stroke="#ddd"/>
+              <g>
+                <g class="mark-group role-axis" aria-hidden="true">
+                  <g transform="translate(0.5,0.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-grid" pointer-events="none">
+                        <line transform="translate(0,250)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,222)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,194)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,167)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,139)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,111)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,83)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,56)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,28)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,0)" x2="320" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'Year' for a discrete scale with 16 values: 2007, 2008, 2009, 2010, 2011, ending with 2022">
+                  <g transform="translate(0.5,250.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-tick" pointer-events="none">
+                        <line transform="translate(10,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(50,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(70,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(90,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(110,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(130,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(150,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(170,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(190,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(210,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(230,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(250,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(270,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(290,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(310,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-label" pointer-events="none">
+                        <text text-anchor="end" transform="translate(9.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2007</text>
+                        <text text-anchor="end" transform="translate(29.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2008</text>
+                        <text text-anchor="end" transform="translate(49.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2009</text>
+                        <text text-anchor="end" transform="translate(69.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2010</text>
+                        <text text-anchor="end" transform="translate(89.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2011</text>
+                        <text text-anchor="end" transform="translate(109.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2012</text>
+                        <text text-anchor="end" transform="translate(129.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2013</text>
+                        <text text-anchor="end" transform="translate(149.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2014</text>
+                        <text text-anchor="end" transform="translate(169.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2015</text>
+                        <text text-anchor="end" transform="translate(189.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2016</text>
+                        <text text-anchor="end" transform="translate(209.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2017</text>
+                        <text text-anchor="end" transform="translate(229.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2018</text>
+                        <text text-anchor="end" transform="translate(249.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2019</text>
+                        <text text-anchor="end" transform="translate(269.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2020</text>
+                        <text text-anchor="end" transform="translate(289.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2021</text>
+                        <text text-anchor="end" transform="translate(309.5,7) rotate(270) translate(0,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2022</text>
+                      </g>
+                      <g class="mark-rule role-axis-domain" pointer-events="none">
+                        <line transform="translate(0,0)" x2="320" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-title" pointer-events="none">
+                        <text text-anchor="middle" transform="translate(160,45.44921875)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">Year</text>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'Number of Genomes' for a linear scale with values from 0 to 45">
+                  <g transform="translate(0.5,0.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-tick" pointer-events="none">
+                        <line transform="translate(0,250)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,222)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,194)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,167)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,139)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,111)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,83)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,56)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,28)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-label" pointer-events="none">
+                        <text text-anchor="end" transform="translate(-7,253)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0</text>
+                        <text text-anchor="end" transform="translate(-7,225.2222222222222)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">5</text>
+                        <text text-anchor="end" transform="translate(-7,197.44444444444446)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10</text>
+                        <text text-anchor="end" transform="translate(-7,169.66666666666669)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">15</text>
+                        <text text-anchor="end" transform="translate(-7,141.88888888888889)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20</text>
+                        <text text-anchor="end" transform="translate(-7,114.1111111111111)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">25</text>
+                        <text text-anchor="end" transform="translate(-7,86.33333333333334)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">30</text>
+                        <text text-anchor="end" transform="translate(-7,58.55555555555555)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">35</text>
+                        <text text-anchor="end" transform="translate(-7,30.77777777777779)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">40</text>
+                        <text text-anchor="end" transform="translate(-7,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">45</text>
+                      </g>
+                      <g class="mark-rule role-axis-domain" pointer-events="none">
+                        <line transform="translate(0,250)" x2="0" y2="-250" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-title" pointer-events="none">
+                        <text text-anchor="middle" transform="translate(-23.724609375,125) rotate(-90) translate(0,-3)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">Number of Genomes</text>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-rect role-mark marks" role="graphics-object" aria-roledescription="rect mark container">
+                  <path aria-label="sequence_quality: HQ; Year: 2007; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M1,244.44444444444443h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2007; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M1,250h18v0h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2007; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M1,250h18v0h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2008; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M21,244.44444444444443h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2008; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M21,250h18v0h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2008; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M21,250h18v0h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2009; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M41,238.8888888888889h18v5.5555555555555145h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2009; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M41,250h18v0h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2009; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M41,244.44444444444443h18v5.555555555555571h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2010; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M61,238.8888888888889h18v5.5555555555555145h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2010; Number of Genomes: 0" role="graphics-symbol" aria-roledescription="bar" d="M61,250h18v0h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2010; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M61,244.44444444444443h18v5.555555555555571h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2011; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M81,233.33333333333334h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2011; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M81,244.44444444444443h18v5.555555555555571h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2011; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M81,238.8888888888889h18v5.5555555555555145h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2012; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M101,233.33333333333334h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2012; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M101,244.44444444444443h18v5.555555555555571h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2012; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M101,238.8888888888889h18v5.5555555555555145h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2013; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M121,222.2222222222222h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2013; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M121,244.44444444444443h18v5.555555555555571h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2013; Number of Genomes: 3" role="graphics-symbol" aria-roledescription="bar" d="M121,227.77777777777777h18v16.666666666666657h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2014; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M141,216.66666666666669h18v5.5555555555555145h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2014; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M141,244.44444444444443h18v5.555555555555571h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2014; Number of Genomes: 4" role="graphics-symbol" aria-roledescription="bar" d="M141,222.2222222222222h18v22.22222222222223h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2015; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M161,216.66666666666669h18v5.5555555555555145h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2015; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M161,244.44444444444443h18v5.555555555555571h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2015; Number of Genomes: 4" role="graphics-symbol" aria-roledescription="bar" d="M161,222.2222222222222h18v22.22222222222223h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2016; Number of Genomes: 1" role="graphics-symbol" aria-roledescription="bar" d="M181,188.88888888888889h18v5.555555555555571h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2016; Number of Genomes: 5" role="graphics-symbol" aria-roledescription="bar" d="M181,222.2222222222222h18v27.7777777777778h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2016; Number of Genomes: 5" role="graphics-symbol" aria-roledescription="bar" d="M181,194.44444444444446h18v27.777777777777743h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2017; Number of Genomes: 3" role="graphics-symbol" aria-roledescription="bar" d="M201,177.77777777777777h18v16.666666666666686h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2017; Number of Genomes: 5" role="graphics-symbol" aria-roledescription="bar" d="M201,222.2222222222222h18v27.7777777777778h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2017; Number of Genomes: 5" role="graphics-symbol" aria-roledescription="bar" d="M201,194.44444444444446h18v27.777777777777743h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2018; Number of Genomes: 4" role="graphics-symbol" aria-roledescription="bar" d="M221,166.66666666666669h18v22.2222222222222h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2018; Number of Genomes: 6" role="graphics-symbol" aria-roledescription="bar" d="M221,216.66666666666669h18v33.333333333333314h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2018; Number of Genomes: 5" role="graphics-symbol" aria-roledescription="bar" d="M221,188.88888888888889h18v27.7777777777778h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2019; Number of Genomes: 4" role="graphics-symbol" aria-roledescription="bar" d="M241,133.33333333333334h18v22.22222222222223h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2019; Number of Genomes: 8" role="graphics-symbol" aria-roledescription="bar" d="M241,205.55555555555554h18v44.44444444444446h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2019; Number of Genomes: 9" role="graphics-symbol" aria-roledescription="bar" d="M241,155.55555555555557h18v49.99999999999997h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2020; Number of Genomes: 10" role="graphics-symbol" aria-roledescription="bar" d="M261,88.88888888888887h18v55.55555555555556h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2020; Number of Genomes: 8" role="graphics-symbol" aria-roledescription="bar" d="M261,205.55555555555554h18v44.44444444444446h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2020; Number of Genomes: 11" role="graphics-symbol" aria-roledescription="bar" d="M261,144.44444444444443h18v61.111111111111114h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2021; Number of Genomes: 12" role="graphics-symbol" aria-roledescription="bar" d="M281,44.44444444444445h18v66.66666666666666h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2021; Number of Genomes: 10" role="graphics-symbol" aria-roledescription="bar" d="M281,194.44444444444446h18v55.55555555555554h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2021; Number of Genomes: 15" role="graphics-symbol" aria-roledescription="bar" d="M281,111.1111111111111h18v83.33333333333336h-18Z" fill="red"/>
+                  <path aria-label="sequence_quality: HQ; Year: 2022; Number of Genomes: 16" role="graphics-symbol" aria-roledescription="bar" d="M301,16.666666666666664h18v88.88888888888891h-18Z" fill="blue"/>
+                  <path aria-label="sequence_quality: MQ; Year: 2022; Number of Genomes: 10" role="graphics-symbol" aria-roledescription="bar" d="M301,194.44444444444446h18v55.55555555555554h-18Z" fill="orange"/>
+                  <path aria-label="sequence_quality: LQ; Year: 2022; Number of Genomes: 16" role="graphics-symbol" aria-roledescription="bar" d="M301,105.55555555555557h18v88.88888888888889h-18Z" fill="red"/>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <text x="-10" y="0" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">(b)</text>
+    </g>
+    <g transform="translate(480, 250) scale(1 1) ">
+      <g class="marks" transform="translate(0, 0) scale(0.8 0.8) ">
+        <rect width="292" height="297" fill="white"/>
+        <g fill="none" stroke-miterlimit="10" transform="translate(36,10)">
+          <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0.5,0.5h250v250h-250Z" stroke="#ddd"/>
+              <g>
+                <g class="mark-group role-axis" aria-hidden="true">
+                  <g transform="translate(0.5,250.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-grid" pointer-events="none">
+                        <line transform="translate(0,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(28,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(56,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(83,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(111,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(139,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(167,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(194,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(222,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(250,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-axis" aria-hidden="true">
+                  <g transform="translate(0.5,0.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-grid" pointer-events="none">
+                        <line transform="translate(0,250)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,214)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,179)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,143)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,107)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,71)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,36)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,0)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'Completeness (%)' for a linear scale with values from 92 to 101">
+                  <g transform="translate(0.5,250.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-tick" pointer-events="none">
+                        <line transform="translate(0,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(28,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(56,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(83,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(111,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(139,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(167,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(194,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(222,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(250,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-label" pointer-events="none">
+                        <text text-anchor="start" transform="translate(0,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">92</text>
+                        <text text-anchor="middle" transform="translate(27.777777777777775,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">93</text>
+                        <text text-anchor="middle" transform="translate(55.55555555555555,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">94</text>
+                        <text text-anchor="middle" transform="translate(83.33333333333333,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">95</text>
+                        <text text-anchor="middle" transform="translate(111.1111111111111,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">96</text>
+                        <text text-anchor="middle" transform="translate(138.88888888888889,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">97</text>
+                        <text text-anchor="middle" transform="translate(166.66666666666666,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">98</text>
+                        <text text-anchor="middle" transform="translate(194.44444444444446,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">99</text>
+                        <text text-anchor="middle" transform="translate(222.2222222222222,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">100</text>
+                        <text text-anchor="end" transform="translate(250,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">101</text>
+                      </g>
+                      <g class="mark-rule role-axis-domain" pointer-events="none">
+                        <line transform="translate(0,0)" x2="250" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-title" pointer-events="none">
+                        <text text-anchor="middle" transform="translate(125,30)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">Completeness (%)</text>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'Contamination (%)' for a linear scale with values from 0 to 7">
+                  <g transform="translate(0.5,0.5)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                    <g>
+                      <g class="mark-rule role-axis-tick" pointer-events="none">
+                        <line transform="translate(0,250)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,214)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,179)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,143)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,107)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,71)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,36)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                        <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-label" pointer-events="none">
+                        <text text-anchor="end" transform="translate(-7,253)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">0</text>
+                        <text text-anchor="end" transform="translate(-7,217.2857142857143)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1</text>
+                        <text text-anchor="end" transform="translate(-7,181.57142857142858)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2</text>
+                        <text text-anchor="end" transform="translate(-7,145.85714285714286)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">3</text>
+                        <text text-anchor="end" transform="translate(-7,110.14285714285715)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">4</text>
+                        <text text-anchor="end" transform="translate(-7,74.42857142857143)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">5</text>
+                        <text text-anchor="end" transform="translate(-7,38.71428571428573)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">6</text>
+                        <text text-anchor="end" transform="translate(-7,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">7</text>
+                      </g>
+                      <g class="mark-rule role-axis-domain" pointer-events="none">
+                        <line transform="translate(0,250)" x2="0" y2="-250" stroke="#888" stroke-width="1" opacity="1"/>
+                      </g>
+                      <g class="mark-text role-axis-title" pointer-events="none">
+                        <text text-anchor="middle" transform="translate(-17.3623046875,125) rotate(-90) translate(0,-3)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">Contamination (%)</text>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-symbol role-mark marks" clip-path="url(#clip1)" role="graphics-object" aria-roledescription="symbol mark container">
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_000062885.1; Date: 2007-03-21; Year: 2007; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 100; Contamination: 1.94575781455; N50: 8212805; number_of_contigs: 1; sequence_length: 8212805; Completeness (%): 100; Contamination (%): 1.94575781455" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,180.50864948028067)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_000171635.1; Date: 2009-09-04; Year: 2009; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 1.76845285001; N50: 80965; number_of_contigs: 241; sequence_length: 8079083; Completeness (%): 99.8226950355; Contamination (%): 1.76845285001" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,186.84096964238807)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_000194155.1; Date: 2011-03-29; Year: 2011; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 98.6406619385; Contamination: 2.99776727082; N50: 2392754; number_of_contigs: 22; sequence_length: 8581920; Completeness (%): 98.6406619385; Contamination (%): 2.99776727082" role="graphics-symbol" aria-roledescription="point" transform="translate(184.4628316259522,142.9368831851101)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_000448385.1; Date: 2013-08-20; Year: 2013; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 98.5224586288; Contamination: 1.5780141844; N50: 37346; number_of_contigs: 384; sequence_length: 7969918; Completeness (%): 98.5224586288; Contamination (%): 1.5780141844" role="graphics-symbol" aria-roledescription="point" transform="translate(181.17940635671164,193.64235055724416)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_000497205.1; Date: 2013-11-18; Year: 2013; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.3794326241; Contamination: 1.24113475177; N50: 52597; number_of_contigs: 182; sequence_length: 3977051; Completeness (%): 99.3794326241; Contamination (%): 1.24113475177" role="graphics-symbol" aria-roledescription="point" transform="translate(204.9842395587077,205.67375886524826)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_000710755.1; Date: 2014-06-23; Year: 2014; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 0.886524822695; N50: 266613; number_of_contigs: 50; sequence_length: 3961468; Completeness (%): 99.4680851064; Contamination (%): 0.886524822695" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,218.33839918946302)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_900106995.1; Date: 2016-10-22; Year: 2016; assembly_level: Scaffold; MIMAG_quality: MQ; Completeness: 99.6453900709; Contamination: 5.00131337011; N50: 134752; number_of_contigs: 135; sequence_length: 10151409; Completeness (%): 99.6453900709; Contamination (%): 5.00131337011" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,71.38166535329657)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_900108315.1; Date: 2016-10-24; Year: 2016; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 2.72458628842; N50: 729242; number_of_contigs: 27; sequence_length: 7744048; Completeness (%): 99.6453900709; Contamination (%): 2.72458628842" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,152.693346842283)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_900112555.1; Date: 2016-11-05; Year: 2016; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 99.5271867612; Contamination: 2.72458628842; N50: 406024; number_of_contigs: 28; sequence_length: 7777251; Completeness (%): 99.5271867612; Contamination (%): 2.72458628842" role="graphics-symbol" aria-roledescription="point" transform="translate(209.08852114525877,152.693346842283)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_900114905.1; Date: 2016-11-05; Year: 2016; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 100; Contamination: 3.18557919622; N50: 345124; number_of_contigs: 43; sequence_length: 8219321; Completeness (%): 100; Contamination (%): 3.18557919622" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,136.22931442080377)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_900116135.1; Date: 2016-11-05; Year: 2016; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 1.75531914894; N50: 505605; number_of_contigs: 22; sequence_length: 6291299; Completeness (%): 99.4680851064; Contamination (%): 1.75531914894" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,187.31003039513678)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_002564065.1; Date: 2017-10-17; Year: 2017; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 100; Contamination: 1.94575781455; N50: 8230103; number_of_contigs: 1; sequence_length: 8230103; Completeness (%): 100; Contamination (%): 1.94575781455" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,180.50864948028067)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_002846475.1; Date: 2017-12-21; Year: 2017; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.5271867612; Contamination: 3.24599422117; N50: 9020646; number_of_contigs: 1; sequence_length: 9020646; Completeness (%): 99.5271867612; Contamination (%): 3.24599422117" role="graphics-symbol" aria-roledescription="point" transform="translate(209.08852114525877,134.07163495815976)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_003635025.1; Date: 2018-10-11; Year: 2018; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 100; Contamination: 3.18557919622; N50: 8125734; number_of_contigs: 2; sequence_length: 8266186; Completeness (%): 100; Contamination (%): 3.18557919622" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,136.22931442080377)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_003931915.1; Date: 2018-12-09; Year: 2018; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 100; Contamination: 1.48936170213; N50: 345543; number_of_contigs: 35; sequence_length: 5824618; Completeness (%): 100; Contamination (%): 1.48936170213" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,196.8085106382979)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_004348435.1; Date: 2019-03-13; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 2.19858156028; N50: 81009; number_of_contigs: 167; sequence_length: 6653094; Completeness (%): 99.8226950355; Contamination (%): 2.19858156028" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,171.47922998986832)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_004348445.1; Date: 2019-03-13; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 1.75531914894; N50: 157189; number_of_contigs: 83; sequence_length: 6008184; Completeness (%): 99.8226950355; Contamination (%): 1.75531914894" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,187.31003039513678)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_004349225.1; Date: 2019-03-13; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 3.16916206987; N50: 92552; number_of_contigs: 137; sequence_length: 6670713; Completeness (%): 99.8226950355; Contamination (%): 3.16916206987" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,136.81564036173967)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_004348985.1; Date: 2019-03-13; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 3.87838192803; N50: 104630; number_of_contigs: 277; sequence_length: 10298286; Completeness (%): 99.6453900709; Contamination (%): 3.87838192803" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,111.48635971331005)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_007829955.1; Date: 2019-08-02; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 97.3404255319; Contamination: 3.8829787234; N50: 1390797; number_of_contigs: 8; sequence_length: 6410624; Completeness (%): 97.3404255319; Contamination (%): 3.8829787234" role="graphics-symbol" aria-roledescription="point" transform="translate(148.34515366430207,111.32218844984804)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_008630535.1; Date: 2019-09-20; Year: 2019; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.438534279; Contamination: 2.62411347518; N50: 504440; number_of_contigs: 46; sequence_length: 7549392; Completeness (%): 99.438534279; Contamination (%): 2.62411347518" role="graphics-symbol" aria-roledescription="point" transform="translate(206.62595219332835,156.28166160081054)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_012277335.1; Date: 2020-04-14; Year: 2020; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.8817966903; Contamination: 3.05095876018; N50: 8045912; number_of_contigs: 1; sequence_length: 8045912; Completeness (%): 99.8817966903; Contamination (%): 3.05095876018" role="graphics-symbol" aria-roledescription="point" transform="translate(218.93879695298165,141.03718713647788)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_013410345.1; Date: 2020-07-13; Year: 2020; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 1.84397163121; N50: 5783988; number_of_contigs: 1; sequence_length: 5783988; Completeness (%): 99.6453900709; Contamination (%): 1.84397163121" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,184.14387031408307)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_014203325.1; Date: 2020-08-14; Year: 2020; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 1.536643026; N50: 6825909; number_of_contigs: 1; sequence_length: 6825909; Completeness (%): 99.4680851064; Contamination (%): 1.536643026" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,195.11989192840258)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_014203395.1; Date: 2020-08-14; Year: 2020; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.2907801418; Contamination: 4.0780141844; N50: 5889697; number_of_contigs: 6; sequence_length: 8541735; Completeness (%): 99.2907801418; Contamination (%): 4.0780141844" role="graphics-symbol" aria-roledescription="point" transform="translate(202.52167060677647,104.35663627152988)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_014490055.1; Date: 2020-09-07; Year: 2020; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.5271867612; Contamination: 3.24599422117; N50: 8876435; number_of_contigs: 1; sequence_length: 8876435; Completeness (%): 99.5271867612; Contamination (%): 3.24599422117" role="graphics-symbol" aria-roledescription="point" transform="translate(209.08852114525877,134.07163495815976)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_014646075.1; Date: 2020-09-12; Year: 2020; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 100; Contamination: 1.78486997636; N50: 243658; number_of_contigs: 59; sequence_length: 5359807; Completeness (%): 100; Contamination (%): 1.78486997636" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,186.25464370145224)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_014697215.1; Date: 2020-09-22; Year: 2020; assembly_level: Complete Genome; MIMAG_quality: MQ; Completeness: 99.8817966903; Contamination: 5.94309354948; N50: 9436548; number_of_contigs: 3; sequence_length: 9608180; Completeness (%): 99.8817966903; Contamination (%): 5.94309354948" role="graphics-symbol" aria-roledescription="point" transform="translate(218.93879695298165,37.74665894726684)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_015209505.1; Date: 2020-11-02; Year: 2020; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 92.3758865248; Contamination: 1.24113475177; N50: 179605; number_of_contigs: 52; sequence_length: 4162025; Completeness (%): 92.3758865248; Contamination (%): 1.24113475177" role="graphics-symbol" aria-roledescription="point" transform="translate(10.44129235618543,205.67375886524826)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_016526145.1; Date: 2021-01-05; Year: 2021; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 1.47754137116; N50: 454807; number_of_contigs: 34; sequence_length: 6397171; Completeness (%): 99.4680851064; Contamination (%): 1.47754137116" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,197.23066531577172)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_016859185.1; Date: 2021-02-10; Year: 2021; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 100; Contamination: 2.65497767271; N50: 8305652; number_of_contigs: 1; sequence_length: 8305652; Completeness (%): 100; Contamination (%): 2.65497767271" role="graphics-symbol" aria-roledescription="point" transform="translate(222.2222222222222,155.1793688318511)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: MQ; genome_id: GCF_018070075.1; Date: 2021-04-18; Year: 2021; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 2.86183346467; N50: 363995; number_of_contigs: 34; sequence_length: 7167017; Completeness (%): 99.8226950355; Contamination (%): 2.86183346467" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,147.79166197605915)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_018141105.1; Date: 2021-04-27; Year: 2021; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 2.28263724718; N50: 8243897; number_of_contigs: 1; sequence_length: 8243897; Completeness (%): 99.6453900709; Contamination (%): 2.28263724718" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,168.47724117227665)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_020177435.1; Date: 2021-09-29; Year: 2021; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 1.44799054374; N50: 40461; number_of_contigs: 291; sequence_length: 6480769; Completeness (%): 99.8226950355; Contamination (%): 1.44799054374" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,198.28605200945626)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_020177455.1; Date: 2021-09-29; Year: 2021; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 1.44799054374; N50: 38839; number_of_contigs: 355; sequence_length: 6587366; Completeness (%): 99.4680851064; Contamination (%): 1.44799054374" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,198.28605200945626)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_020176775.1; Date: 2021-09-29; Year: 2021; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 1.47754137116; N50: 29651; number_of_contigs: 360; sequence_length: 6438697; Completeness (%): 99.6453900709; Contamination (%): 1.47754137116" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,197.23066531577172)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_020176785.1; Date: 2021-09-29; Year: 2021; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.4680851064; Contamination: 1.12293144208; N50: 50652; number_of_contigs: 242; sequence_length: 6570791; Completeness (%): 99.4680851064; Contamination (%): 1.12293144208" role="graphics-symbol" aria-roledescription="point" transform="translate(207.4468085106377,209.89530563998647)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_022392385.1; Date: 2022-02-25; Year: 2022; assembly_level: Scaffold; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 1.94575781455; N50: 5801759; number_of_contigs: 2; sequence_length: 8181083; Completeness (%): 99.6453900709; Contamination (%): 1.94575781455" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,180.50864948028067)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: LQ; genome_id: GCF_022678645.1; Date: 2022-03-22; Year: 2022; assembly_level: Contig; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 3.42789598109; N50: 115534; number_of_contigs: 184; sequence_length: 9354073; Completeness (%): 99.6453900709; Contamination (%): 3.42789598109" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,127.57514353259036)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_022828475.1; Date: 2022-04-06; Year: 2022; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.0543735225; Contamination: 2.4231678487; N50: 6878695; number_of_contigs: 1; sequence_length: 6878695; Completeness (%): 99.0543735225; Contamination (%): 2.4231678487" role="graphics-symbol" aria-roledescription="point" transform="translate(195.95482006829576,163.45829111786557)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_024734405.1; Date: 2022-08-23; Year: 2022; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.8226950355; Contamination: 1.536643026; N50: 6344421; number_of_contigs: 1; sequence_length: 6344421; Completeness (%): 99.8226950355; Contamination (%): 1.536643026" role="graphics-symbol" aria-roledescription="point" transform="translate(217.297084318361,195.11989192840258)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                  <path aria-label="sequence_quality: HQ; genome_id: GCF_025643595.1; Date: 2022-10-11; Year: 2022; assembly_level: Complete Genome; MIMAG_quality: HQ; Completeness: 99.6453900709; Contamination: 2.84869976359; N50: 6562638; number_of_contigs: 1; sequence_length: 6562638; Completeness (%): 99.6453900709; Contamination (%): 2.84869976359" role="graphics-symbol" aria-roledescription="point" transform="translate(212.37194641450014,148.26072272880782)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="clip1">
+            <rect x="0" y="0" width="250" height="250"/>
+          </clipPath>
+        </defs>
+      </g>
+      <text x="-10" y="0" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">(c)</text>
+    </g>
+    <g transform="translate(470, 485) scale(1 1) ">
+      <g class="marks" transform="translate(0, 0) scale(0.8 0.8) ">
+        <rect width="314" height="298" fill="white"/>
+        <g fill="none" stroke-miterlimit="10" transform="translate(58,10)">
+          <g class="mark-group role-frame root" role="graphics-object" aria-roledescription="group mark container">
+            <g transform="translate(0,0)">
+              <path class="background" aria-hidden="true" d="M0,0h0v0h0Z"/>
+              <g>
+                <g class="mark-group role-row-header row_header" role="graphics-object" aria-roledescription="group mark container">
+                  <g transform="translate(-1,0)">
+                    <path class="background" aria-hidden="true" d="M0,0h0v250h0Z"/>
+                    <g>
+                      <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="Y-axis titled 'N50 (cutoff = 5000000)' for a log scale with values from 10k to 100M">
+                        <g transform="translate(0.5,0.5)">
+                          <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                          <g>
+                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                              <line transform="translate(0,250)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,231)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,220)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,212)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,206)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,201)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,197)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,194)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,190)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,188)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,169)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,158)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,150)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,144)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,139)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,135)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,131)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,128)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,125)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,106)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,95)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,87)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,81)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,76)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,72)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,69)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,65)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,63)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,44)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,33)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,25)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,19)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,14)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,10)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,6)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,3)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,0)" x2="-5" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                            </g>
+                            <g class="mark-text role-axis-label" pointer-events="none">
+                              <text text-anchor="end" transform="translate(-7,253)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10k</text>
+                              <text text-anchor="end" transform="translate(-7,234.18562527100121)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20k</text>
+                              <text text-anchor="end" transform="translate(-7,223.1799215800211)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,215.3712505420024)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,209.31437472899884)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,204.3655468510223)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,200.181372499109)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,196.55687581300356)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,193.35984316004223)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,190.50000000000003)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">100k</text>
+                              <text text-anchor="end" transform="translate(-7,171.6856252710012)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">200k</text>
+                              <text text-anchor="end" transform="translate(-7,160.67992158002113)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,152.87125054200237)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,146.81437472899887)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,141.86554685102232)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,137.68137249910896)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,134.05687581300353)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,130.8598431600422)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,128.00000000000006)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1M</text>
+                              <text text-anchor="end" transform="translate(-7,109.18562527100123)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2M</text>
+                              <text text-anchor="end" transform="translate(-7,98.17992158002112)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,90.3712505420024)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,84.31437472899886)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,79.36554685102229)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,75.181372499109)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,71.55687581300357)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,68.35984316004229)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,65.50000000000003)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10M</text>
+                              <text text-anchor="end" transform="translate(-7,46.68562527100126)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20M</text>
+                              <text text-anchor="end" transform="translate(-7,35.6799215800212)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,27.87125054200237)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,21.814374728998885)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,16.865546851022316)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,12.681372499109026)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,9.056875813003598)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,5.859843160042258)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(-7,3)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">100M</text>
+                            </g>
+                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                              <line transform="translate(0,250)" x2="0" y2="-250" stroke="#888" stroke-width="1" opacity="1"/>
+                            </g>
+                            <g class="mark-text role-axis-title" pointer-events="none">
+                              <text text-anchor="middle" transform="translate(-38.71484375,125) rotate(-90) translate(0,-3)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">N50 (cutoff = 5000000)</text>
+                            </g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-column-footer column_footer" role="graphics-object" aria-roledescription="group mark container">
+                  <g transform="translate(0,251)">
+                    <path class="background" aria-hidden="true" d="M0,0h250v0h-250Z"/>
+                    <g>
+                      <g class="mark-group role-axis" role="graphics-symbol" aria-roledescription="axis" aria-label="X-axis titled 'Contigs (cutoff = 50)' for a log scale with values from 100m to 1k">
+                        <g transform="translate(0.5,0.5)">
+                          <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                          <g>
+                            <g class="mark-rule role-axis-tick" pointer-events="none">
+                              <line transform="translate(0,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(19,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(30,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(38,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(44,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(49,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(53,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(56,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(60,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(63,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(81,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(92,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(100,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(106,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(111,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(115,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(119,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(122,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(125,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(144,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(155,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(163,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(169,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(174,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(178,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(181,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(185,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(188,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(206,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(217,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(225,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(231,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(236,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(240,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(244,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(247,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                              <line transform="translate(250,0)" x2="0" y2="5" stroke="#888" stroke-width="1" opacity="1"/>
+                            </g>
+                            <g class="mark-text role-axis-label" pointer-events="none">
+                              <text text-anchor="start" transform="translate(0,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">100m</text>
+                              <text text-anchor="middle" transform="translate(18.81437472899882,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">200m</text>
+                              <text text-anchor="middle" transform="translate(29.820078419978902,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(37.62874945799764,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(43.68562527100117,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(48.634453148977734,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(52.818627500891054,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(56.44312418699648,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(59.640156839957804,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(62.5,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1</text>
+                              <text text-anchor="middle" transform="translate(81.31437472899883,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">2</text>
+                              <text text-anchor="middle" transform="translate(92.3200784199789,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(100.12874945799764,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(106.18562527100117,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(111.13445314897773,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(115.31862750089104,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(118.94312418699647,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(122.14015683995781,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(125.00000000000003,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">10</text>
+                              <text text-anchor="middle" transform="translate(143.8143747289988,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">20</text>
+                              <text text-anchor="middle" transform="translate(154.82007841997893,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(162.62874945799766,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(168.6856252710012,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(173.63445314897774,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(177.8186275008911,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(181.44312418699647,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(184.6401568399578,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(187.5,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">100</text>
+                              <text text-anchor="middle" transform="translate(206.3143747289988,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="0">200</text>
+                              <text text-anchor="middle" transform="translate(217.32007841997893,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(225.12874945799766,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(231.1856252710012,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(236.13445314897774,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(240.3186275008911,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(243.9431241869965,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="middle" transform="translate(247.14015683995785,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1"/>
+                              <text text-anchor="end" transform="translate(250,15)" font-family="sans-serif" font-size="10px" fill="#000" opacity="1">1k</text>
+                            </g>
+                            <g class="mark-rule role-axis-domain" pointer-events="none">
+                              <line transform="translate(0,0)" x2="250" y2="0" stroke="#888" stroke-width="1" opacity="1"/>
+                            </g>
+                            <g class="mark-text role-axis-title" pointer-events="none">
+                              <text text-anchor="middle" transform="translate(125,30)" font-family="sans-serif" font-size="12px" font-weight="bold" fill="#000" opacity="1">Contigs (cutoff = 50)</text>
+                            </g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" display="none"/>
+                  </g>
+                </g>
+                <g class="mark-group role-scope cell" role="graphics-object" aria-roledescription="group mark container">
+                  <g transform="translate(0,0)">
+                    <path class="background" aria-hidden="true" d="M0.5,0.5h250v250h-250Z" stroke="#ddd"/>
+                    <g>
+                      <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,250.5)">
+                          <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                          <g>
+                            <g class="mark-rule role-axis-grid" pointer-events="none">
+                              <line transform="translate(0,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(19,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(30,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(38,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(44,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(49,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(53,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(56,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(60,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(63,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(81,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(92,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(100,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(106,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(111,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(115,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(119,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(122,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(125,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(144,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(155,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(163,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(169,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(174,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(178,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(181,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(185,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(188,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(206,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(217,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(225,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(231,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(236,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(240,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(244,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(247,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(250,-250)" x2="0" y2="250" stroke="#ddd" stroke-width="1" opacity="1"/>
+                            </g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                      </g>
+                      <g class="mark-group role-axis" aria-hidden="true">
+                        <g transform="translate(0.5,0.5)">
+                          <path class="background" aria-hidden="true" d="M0,0h0v0h0Z" pointer-events="none"/>
+                          <g>
+                            <g class="mark-rule role-axis-grid" pointer-events="none">
+                              <line transform="translate(0,250)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,231)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,220)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,212)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,206)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,201)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,197)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,194)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,190)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,188)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,169)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,158)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,150)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,144)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,139)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,135)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,131)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,128)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,125)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,106)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,95)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,87)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,81)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,76)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,72)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,69)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,65)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,63)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,44)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,33)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,25)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,19)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,14)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,10)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,6)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,3)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                              <line transform="translate(0,0)" x2="250" y2="0" stroke="#ddd" stroke-width="1" opacity="1"/>
+                            </g>
+                          </g>
+                          <path class="foreground" aria-hidden="true" d="" pointer-events="none" display="none"/>
+                        </g>
+                      </g>
+                      <g class="mark-symbol role-mark child_layer_0_marks" clip-path="url(#clip1)" role="graphics-object" aria-roledescription="symbol mark container">
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_003635025.1; Organism: s__Saccharopolyspora antimicrobica; Count: 2; Total: 8266186; gc: 0.703862337479; N50: 8125734; N75: 8125734; N90: 8125734; AuN: 7990054.88179; Min: 140452; Max: 8125734" role="graphics-symbol" aria-roledescription="point" transform="translate(81.31437472899883,68.13358741411119)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_900114905.1; Organism: s__Saccharopolyspora antimicrobica; Count: 43; Total: 8219321; gc: 0.704331245701; N50: 345124; N75: 181074; N90: 107318; AuN: 667698.409014; Min: 1089; Max: 1889235" role="graphics-symbol" aria-roledescription="point" transform="translate(164.59177847372416,153.87655242019738)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_004348445.1; Organism: s__Saccharopolyspora sp004348445; Count: 83; Total: 6008184; gc: 0.69559820405; N50: 157189; N75: 69944; N90: 40261; AuN: 154120.175171; Min: 300; Max: 317519" role="graphics-symbol" aria-roledescription="point" transform="translate(182.44238077350462,175.22361555768074)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_007829955.1; Organism: s__Saccharopolyspora dendranthemae; Count: 8; Total: 6410624; gc: 0.697001727133; N50: 1390797; N75: 728787; N90: 484333; AuN: 1194207.1033; Min: 108233; Max: 1972629" role="graphics-symbol" aria-roledescription="point" transform="translate(118.94312418699647,116.04601592355324)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_004348985.1; Organism: s__Saccharopolyspora sp004348985; Count: 277; Total: 10298286; gc: 0.696729533439; N50: 104630; N75: 51042; N90: 22557; AuN: 117993.006348; Min: 305; Max: 351833" role="graphics-symbol" aria-roledescription="point" transform="translate(215.15498556652807,186.27148591754073)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_018070075.1; Organism: s__Saccharopolyspora endophytica; Count: 34; Total: 7167017; gc: 0.697525623282; N50: 363995; N75: 266712; N90: 172711; AuN: 461743.21787; Min: 991; Max: 858004" role="graphics-symbol" aria-roledescription="point" transform="translate(158.21743231514097,152.43153637346623)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_016859185.1; Organism: s__Saccharopolyspora_D erythraea; Count: 1; Total: 8305652; gc: 0.711124545069; N50: 8305652; N75: 8305652; N90: 8305652; AuN: 8305652; Min: 8305652; Max: 8305652" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,67.53914183919902)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_018141105.1; Organism: s__Saccharopolyspora_D erythraea_A; Count: 1; Total: 8243897; gc: 0.710667418576; N50: 8243897; N75: 8243897; N90: 8243897; AuN: 8243897; Min: 8243897; Max: 8243897" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,67.7417151858589)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_022392385.1; Organism: s__Saccharopolyspora_D erythraea; Count: 2; Total: 8181083; gc: 0.711838677056; N50: 5801759; N75: 2379324; N90: 2379324; AuN: 4806404.01657; Min: 2379324; Max: 5801759" role="graphics-symbol" aria-roledescription="point" transform="translate(81.31437472899883,77.27751971075148)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_000448385.1; Organism: s__Saccharopolyspora_D erythraea; Count: 384; Total: 7969918; gc: 0.712312400783; N50: 37346; N75: 18168; N90: 9536; AuN: 45162.5349851; Min: 2040; Max: 152774" role="graphics-symbol" aria-roledescription="point" transform="translate(224.02070152297068,214.23474419544914)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_000062885.1; Organism: s__Saccharopolyspora_D erythraea; Count: 1; Total: 8212805; gc: 0.711459604849; N50: 8212805; N75: 8212805; N90: 8212805; AuN: 8212805; Min: 8212805; Max: 8212805" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,67.84428054265051)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_002564065.1; Organism: s__Saccharopolyspora_D erythraea; Count: 1; Total: 8230103; gc: 0.711414547303; N50: 8230103; N75: 8230103; N90: 8230103; AuN: 8230103; Min: 8230103; Max: 8230103" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,67.78717059653178)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_000171635.1; Organism: s__Saccharopolyspora_D erythraea; Count: 241; Total: 8079083; gc: 0.712250509836; N50: 80965; N75: 39316; N90: 20248; AuN: 86618.2411862; Min: 201; Max: 188170" role="graphics-symbol" aria-roledescription="point" transform="translate(211.37606516092927,193.23141748661982)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_900116135.1; Organism: s__Saccharopolyspora flava; Count: 22; Total: 6291299; gc: 0.707756295432; N50: 505605; N75: 302163; N90: 158395; AuN: 691690.790266; Min: 1350; Max: 1461917" role="graphics-symbol" aria-roledescription="point" transform="translate(146.40141755138788,143.51178999402038)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_014203325.1; Organism: s__Saccharopolyspora_C gloriosae; Count: 1; Total: 6825909; gc: 0.711036874356; N50: 6825909; N75: 6825909; N90: 6825909; AuN: 6825909; Min: 6825909; Max: 6825909" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,72.86496911504695)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_022828475.1; Organism: s__Saccharopolyspora_C sp.; Count: 1; Total: 6878695; gc: 0.69479966767; N50: 6878695; N75: 6878695; N90: 6878695; AuN: 6878695; Min: 6878695; Max: 6878695" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,72.65587166602846)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_024734405.1; Organism: s__Saccharopolyspora_C sp.; Count: 1; Total: 6344421; gc: 0.726672142344; N50: 6344421; N75: 6344421; N90: 6344421; AuN: 6344421; Min: 6344421; Max: 6344421" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,74.85050037702776)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_008630535.1; Organism: s__Saccharopolyspora hirsuta; Count: 46; Total: 7549392; gc: 0.714029951021; N50: 504440; N75: 256700; N90: 180403; AuN: 427311.536376; Min: 509; Max: 688257" role="graphics-symbol" aria-roledescription="point" transform="translate(166.42236448009837,143.57440518638614)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_013410345.1; Organism: s__Saccharopolyspora hordei; Count: 1; Total: 5783988; gc: 0.724791441476; N50: 5783988; N75: 5783988; N90: 5783988; AuN: 5783988; Min: 5783988; Max: 5783988" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,77.36078854627232)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_004349225.1; Organism: s__Saccharopolyspora endophytica; Count: 137; Total: 6670713; gc: 0.697390818643; N50: 92552; N75: 54370; N90: 29255; AuN: 117177.451634; Min: 300; Max: 265907" role="graphics-symbol" aria-roledescription="point" transform="translate(196.04503544727544,189.60088699590855)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_900112555.1; Organism: s__Saccharopolyspora jiangxiensis; Count: 28; Total: 7777251; gc: 0.708999584473; N50: 406024; N75: 235081; N90: 130602; AuN: 749567.987641; Min: 1234; Max: 1963067" role="graphics-symbol" aria-roledescription="point" transform="translate(152.94737695888873,149.46551841258506)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_900108315.1; Organism: s__Saccharopolyspora jiangxiensis; Count: 27; Total: 7744048; gc: 0.708954942333; N50: 729242; N75: 439427; N90: 129812; AuN: 901391.389747; Min: 1135; Max: 1906593" role="graphics-symbol" aria-roledescription="point" transform="translate(151.96023525993672,133.57052040742252)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_014203395.1; Organism: s__Saccharopolyspora phatthalungensis; Count: 6; Total: 8541735; gc: 0.677258074618; N50: 5889697; N75: 2131380; N90: 2131380; AuN: 4605386.06803; Min: 23145; Max: 5889697" role="graphics-symbol" aria-roledescription="point" transform="translate(111.13445314897773,76.86919045327717)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_014697215.1; Organism: s__Saccharopolyspora pogona; Count: 3; Total: 9608180; gc: 0.679249972419; N50: 9436548; N75: 9436548; N90: 9436548; AuN: 9269514.83961; Min: 85530; Max: 9436548" role="graphics-symbol" aria-roledescription="point" transform="translate(92.3200784199789,64.0741779168034)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_000710755.1; Organism: s__Saccharopolyspora rectivirgula; Count: 50; Total: 3961468; gc: 0.689393948956; N50: 266613; N75: 104629; N90: 41855; AuN: 216638.771466; Min: 215; Max: 351887" role="graphics-symbol" aria-roledescription="point" transform="translate(168.6856252710012,160.88241739301156)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_000497205.1; Organism: s__Saccharopolyspora rectivirgula; Count: 182; Total: 3977051; gc: 0.689217965774; N50: 52597; N75: 29373; N90: 15215; AuN: 57194.3655902; Min: 209; Max: 151103" role="graphics-symbol" aria-roledescription="point" transform="translate(203.75446174906716,204.93993913749398)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_003931915.1; Organism: s__Saccharopolyspora rhizosphaerae; Count: 35; Total: 5824618; gc: 0.706329561619; N50: 345543; N75: 262675; N90: 165974; AuN: 406293.161787; Min: 209; Max: 768785" role="graphics-symbol" aria-roledescription="point" transform="translate(159.00425277189223,153.84361878317677)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_025643595.1; Organism: s__Saccharopolyspora sp.; Count: 1; Total: 6562638; gc: 0.717057683206; N50: 6562638; N75: 6562638; N90: 6562638; AuN: 6562638; Min: 6562638; Max: 6562638" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,73.93259694309218)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_900106995.1; Organism: s__Saccharopolyspora shandongensis; Count: 135; Total: 10151409; gc: 0.69767717973; N50: 134752; N75: 79805; N90: 41844; AuN: 165678.744625; Min: 1015; Max: 377242" role="graphics-symbol" aria-roledescription="point" transform="translate(195.6458605309379,179.40404876623936)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_020176775.1; Organism: s__Saccharopolyspora_C sp.; Count: 360; Total: 6438697; gc: 0.727868535708; N50: 29651; N75: 16797; N90: 8833; AuN: 42583.7528169; Min: 242; Max: 156370" role="graphics-symbol" aria-roledescription="point" transform="translate(222.26890629795545,220.49754094862624)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_020177455.1; Organism: s__Saccharopolyspora_C sp.; Count: 355; Total: 6587366; gc: 0.726026744272; N50: 38839; N75: 18565; N90: 10043; AuN: 44883.9277654; Min: 211; Max: 125580" role="graphics-symbol" aria-roledescription="point" transform="translate(221.8892720659434,213.17074753357986)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_020176785.1; Organism: s__Saccharopolyspora_C sp.; Count: 242; Total: 6570791; gc: 0.726092324401; N50: 50652; N75: 25889; N90: 15550; AuN: 60426.337449; Min: 244; Max: 203752" role="graphics-symbol" aria-roledescription="point" transform="translate(211.48846037377697,205.96271261237297)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_020177435.1; Organism: s__Saccharopolyspora_C sp.; Count: 291; Total: 6480769; gc: 0.726698150839; N50: 40461; N75: 21914; N90: 11421; AuN: 48347.5721145; Min: 248; Max: 201715" role="graphics-symbol" aria-roledescription="point" transform="translate(216.49331181161924,212.0602117359947)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_012277335.1; Organism: s__Saccharopolyspora pogona; Count: 1; Total: 8045912; gc: 0.68104510713; N50: 8045912; N75: 8045912; N90: 8045912; AuN: 8045912; Min: 8045912; Max: 8045912" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,68.40154510737203)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_015209505.1; Organism: s__Saccharopolyspora sp015209505; Count: 52; Total: 4162025; gc: 0.714194893111; N50: 179605; N75: 73072; N90: 48602; AuN: 176682.7462; Min: 258; Max: 346186" role="graphics-symbol" aria-roledescription="point" transform="translate(169.75020897717496,171.60509857708712)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_016526145.1; Organism: s__Saccharopolyspora_C sp016526145; Count: 34; Total: 6397171; gc: 0.702927324083; N50: 454807; N75: 275939; N90: 118167; AuN: 489088.830181; Min: 1107; Max: 979558" role="graphics-symbol" aria-roledescription="point" transform="translate(158.21743231514097,146.38580372774885)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_022678645.1; Organism: s__Saccharopolyspora sp.; Count: 184; Total: 9354073; gc: 0.683334628669; N50: 115534; N75: 62886; N90: 29534; AuN: 126400.378352; Min: 546; Max: 345483" role="graphics-symbol" aria-roledescription="point" transform="translate(204.05111393809605,183.58063689512366)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_014490055.1; Organism: s__Saccharopolyspora spinosa; Count: 1; Total: 8876435; gc: 0.679670611005; N50: 8876435; N75: 8876435; N90: 8876435; AuN: 8876435; Min: 8876435; Max: 8876435" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,65.7350889258339)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: HQ; genome_id: GCF_002846475.1; Organism: s__Saccharopolyspora spinosa; Count: 1; Total: 9020646; gc: 0.679495016211; N50: 9020646; N75: 9020646; N90: 9020646; AuN: 9020646; Min: 9020646; Max: 9020646" role="graphics-symbol" aria-roledescription="point" transform="translate(62.5,65.29764749987777)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="blue" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: MQ; genome_id: GCF_000194155.1; Organism: s__Saccharopolyspora spinosa; Count: 22; Total: 8581920; gc: 0.68056618748; N50: 2392754; N75: 546156; N90: 519670; AuN: 2522450.8569; Min: 1081; Max: 3851573" role="graphics-symbol" aria-roledescription="point" transform="translate(146.40141755138788,101.31887181760224)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="orange" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_014646075.1; Organism: s__Saccharopolyspora subtropica; Count: 59; Total: 5359807; gc: 0.708678350946; N50: 243658; N75: 146822; N90: 91054; AuN: 316183.041393; Min: 500; Max: 754592" role="graphics-symbol" aria-roledescription="point" transform="translate(173.17825072763404,163.32620780619195)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                        <path aria-label="sequence_quality: LQ; genome_id: GCF_004348435.1; Organism: s__Saccharopolyspora endophytica; Count: 167; Total: 6653094; gc: 0.696579065319; N50: 81009; N75: 44238; N90: 23176; AuN: 110222.755768; Min: 365; Max: 374103" role="graphics-symbol" aria-roledescription="point" transform="translate(201.419779446724,193.21667055372177)" d="M5,0A5,5,0,1,1,-5,0A5,5,0,1,1,5,0" fill="red" stroke="black" stroke-width="0.5" opacity="0.8"/>
+                      </g>
+                      <g class="mark-rule role-mark child_layer_1_marks" clip-path="url(#clip2)" role="graphics-object" aria-roledescription="rule mark container" pointer-events="none">
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="Contigs (cutoff = 50): 50" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(168.6856252710012,0)" x2="0" y2="250" stroke="black" stroke-width="0.01"/>
+                      </g>
+                      <g class="mark-rule role-mark child_layer_2_marks" clip-path="url(#clip3)" role="graphics-object" aria-roledescription="rule mark container" pointer-events="none">
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                        <line aria-label="N50 (cutoff = 5000000): 5000000" role="graphics-symbol" aria-roledescription="rule mark" transform="translate(250,81.31437472899886)" x2="-250" y2="0" stroke="black" stroke-width="0.01"/>
+                      </g>
+                    </g>
+                    <path class="foreground" aria-hidden="true" d="" display="none"/>
+                  </g>
+                </g>
+              </g>
+              <path class="foreground" aria-hidden="true" d="" display="none"/>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="clip1">
+            <rect x="0" y="0" width="250" height="250"/>
+          </clipPath>
+          <clipPath id="clip2">
+            <rect x="0" y="0" width="250" height="250"/>
+          </clipPath>
+          <clipPath id="clip3">
+            <rect x="0" y="0" width="250" height="250"/>
+          </clipPath>
+        </defs>
+      </g>
+      <text x="0" y="0" font-size="12" font-family="Verdana" font-weight="bold" letter-spacing="0" text-anchor="start" fill="black">(d)</text>
+    </g>
+  </g>
+</svg>
