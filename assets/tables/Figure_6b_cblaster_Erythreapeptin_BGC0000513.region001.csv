@@ -1,0 +1,223 @@
+cblaster search
+===============
+NC_009142.1.region021
+=====================
+NC_009142.1
+-----------
+Cluster 1, score 4.0890:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  MJIAAPGN_40340  31.4      70.9      1.04e-54   203       8462   11216  +     
+SACE_4232  MJIAAPGN_40370  41        98.7      8.73e-100  313       13308  15069  +     
+SACE_4233  MJIAAPGN_40380  46.8      95.8      6.03e-123  374       15061  16855  +     
+
+
+NC_009142.1.region023
+=====================
+NC_009142.1
+-----------
+Cluster 2, score 7.3844:
+Query      Subject         Identity  Coverage  E-value  Bitscore  Start  End    Strand
+SACE_4230  MJIAAPGN_42350  100       100       0        1710      10000  12535  +     
+SACE_4231  MJIAAPGN_42360  100       100       5.4e-29  95.5      12602  12743  +     
+SACE_4232  MJIAAPGN_42370  100       100       0        991       12838  14497  +     
+SACE_4233  MJIAAPGN_42380  100       100       0        1047      14493  16203  +     
+
+
+NZ_GL877879.1.region013
+=======================
+NZ_GL877879.1
+-------------
+Cluster 3, score 7.2871:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  GBGKCCPF_58700  80.2      99.5      0          1375      27653  30191  +     
+SACE_4231  GBGKCCPF_58710  76.1      100       5.53e-20   72.8      30259  30400  +     
+SACE_4232  GBGKCCPF_58720  67        100       2.37e-232  650       30492  32154  +     
+SACE_4233  GBGKCCPF_58730  74.5      99.8      4.31e-280  773       32150  33896  +     
+
+
+NZ_PDBV01000001.region021
+=========================
+NZ_PDBV01000001
+---------------
+Cluster 4, score 4.0890:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  IHGEIAOG_44130  31.4      70.9      1.04e-54   203       8462   11216  +     
+SACE_4232  IHGEIAOG_44160  41        98.7      8.73e-100  313       13308  15069  +     
+SACE_4233  IHGEIAOG_44170  46.8      95.8      6.03e-123  374       15061  16855  +     
+
+
+NZ_PDBV01000001.region023
+=========================
+NZ_PDBV01000001
+---------------
+Cluster 5, score 7.3844:
+Query      Subject         Identity  Coverage  E-value  Bitscore  Start  End    Strand
+SACE_4230  IHGEIAOG_46140  100       100       0        1710      10000  12535  +     
+SACE_4231  IHGEIAOG_46150  100       100       5.4e-29  95.5      12602  12743  +     
+SACE_4232  IHGEIAOG_46160  100       100       0        991       12838  14497  +     
+SACE_4233  IHGEIAOG_46170  100       100       0        1047      14493  16203  +     
+
+
+NZ_PJNB01000001.region023
+=========================
+NZ_PJNB01000001
+---------------
+Cluster 6, score 7.2871:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  OOOGHNGE_59870  80.2      99.5      0          1375      26937  29475  +     
+SACE_4231  OOOGHNGE_59880  76.1      100       5.53e-20   72.8      29543  29684  +     
+SACE_4232  OOOGHNGE_59890  67        100       2.37e-232  650       29776  31438  +     
+SACE_4233  OOOGHNGE_59900  74.5      99.8      4.31e-280  773       31434  33180  +     
+
+
+NZ_CP040605.1.region032
+=======================
+NZ_CP040605.1
+-------------
+Cluster 7, score 7.2892:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  DMCKNNNH_75120  80.5      99.5      0          1378      19925  22460  +     
+SACE_4231  DMCKNNNH_75130  71.7      100       1.86e-18   68.9      22527  22668  +     
+SACE_4232  DMCKNNNH_75140  68.3      100       2.92e-240  671       22760  24419  +     
+SACE_4233  DMCKNNNH_75150  74.3      99.8      3.04e-280  774       24415  26161  +     
+
+
+c00001_NZ_JACH...region022
+==========================
+c00001_NZ_JACH..
+----------------
+Cluster 8, score 7.2535:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4233  JNMMHGMF_48660  69        99.1      2.9e-246   687       5938   7645   -     
+SACE_4232  JNMMHGMF_48670  65        98.4      9.84e-205  580       7638   9303   -     
+SACE_4231  JNMMHGMF_48680  66.7      100       2.2e-15    61.2      9766   9913   -     
+SACE_4230  JNMMHGMF_48690  71.7      99.5      0          1207      10000  12562  -     
+
+
+c00001_NZ_JACH...region016
+==========================
+c00001_NZ_JACH..
+----------------
+Cluster 9, score 7.2904:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  LLPKHOMA_52070  80.1      99.4      0          1375      17679  20253  +     
+SACE_4231  LLPKHOMA_52080  80.4      100       4.72e-21   75.5      20379  20520  +     
+SACE_4232  LLPKHOMA_52090  70.5      99.5      4.66e-244  680       20613  22272  +     
+SACE_4233  LLPKHOMA_52100  75        99.1      2.22e-280  774       22268  24017  +     
+
+
+NZ_CP061007.1.region035
+=======================
+NZ_CP061007.1
+-------------
+Cluster 10, score 7.2871:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  PKJGIIBK_80300  80.2      99.5      0          1375      27694  30232  +     
+SACE_4231  PKJGIIBK_80310  76.1      100       5.53e-20   72.8      30300  30441  +     
+SACE_4232  PKJGIIBK_80320  67        100       2.37e-232  650       30533  32195  +     
+SACE_4233  PKJGIIBK_80330  74.5      99.8      4.31e-280  773       32191  33937  +     
+
+
+NZ_CP031142.1.region003
+=======================
+NZ_CP031142.1
+-------------
+Cluster 11, score 7.2890:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4233  IECPHNMA_01470  73.9      99.8      1.82e-278  769       6308   8045   -     
+SACE_4232  IECPHNMA_01480  68.1      100       1.68e-239  669       8041   9700   -     
+SACE_4231  IECPHNMA_01490  71.7      100       6.49e-19   70.1      9792   9933   -     
+SACE_4230  IECPHNMA_01500  80.6      99.5      0          1382      10000  12535  -     
+
+
+NZ_CP069353.1.region023
+=======================
+NZ_CP069353.1
+-------------
+Cluster 12, score 4.0890:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  KHDLNAGE_41550  31.4      70.9      1.04e-54   203       8462   11216  +     
+SACE_4232  KHDLNAGE_41580  41        98.7      8.73e-100  313       13308  15069  +     
+SACE_4233  KHDLNAGE_41590  46.8      95.8      6.03e-123  374       15061  16855  +     
+
+
+NZ_CP069353.1.region025
+=======================
+NZ_CP069353.1
+-------------
+Cluster 13, score 7.3844:
+Query      Subject         Identity  Coverage  E-value  Bitscore  Start  End    Strand
+SACE_4230  KHDLNAGE_43580  100       100       0        1710      10000  12535  +     
+SACE_4231  KHDLNAGE_43590  100       100       5.4e-29  95.5      12602  12743  +     
+SACE_4232  KHDLNAGE_43600  100       100       0        991       12838  14497  +     
+SACE_4233  KHDLNAGE_43610  100       100       0        1047      14493  16203  +     
+
+
+NZ_CP054839.1.region018
+=======================
+NZ_CP054839.1
+-------------
+Cluster 14, score 7.3654:
+Query      Subject         Identity  Coverage  E-value  Bitscore  Start  End    Strand
+SACE_4233  NFDOCLAH_35900  94        100       0        988       6328   8038   -     
+SACE_4232  NFDOCLAH_35910  95.1      100       0        937       8034   9693   -     
+SACE_4231  NFDOCLAH_35920  91.5      100       8.6e-24  82.4      9788   9932   -     
+SACE_4230  NFDOCLAH_35930  96        100       0        1647      10000  12535  -     
+
+
+NZ_CP054839.1.region020
+=======================
+NZ_CP054839.1
+-------------
+Cluster 15, score 4.0896:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4233  NFDOCLAH_37880  46.5      95.3      2.94e-120  367       3990   5784   -     
+SACE_4232  NFDOCLAH_37890  41        98.4      3.72e-98   308       5776   7537   -     
+SACE_4230  NFDOCLAH_37920  31.2      72.2      7.84e-61   221       9621   12381  -     
+
+
+c00001_NZ_JABN...region018
+==========================
+c00001_NZ_JABN..
+----------------
+Cluster 16, score 4.0890:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  MNMGINNK_27420  31.4      70.9      1.04e-54   203       8462   11216  +     
+SACE_4232  MNMGINNK_27450  41        98.7      8.73e-100  313       13308  15069  +     
+SACE_4233  MNMGINNK_27460  46.8      95.8      6.03e-123  374       15061  16855  +     
+
+
+c00001_NZ_JABN...region020
+==========================
+c00001_NZ_JABN..
+----------------
+Cluster 17, score 7.3844:
+Query      Subject         Identity  Coverage  E-value  Bitscore  Start  End    Strand
+SACE_4230  MNMGINNK_29440  100       100       0        1710      10000  12535  +     
+SACE_4231  MNMGINNK_29450  100       100       5.4e-29  95.5      12602  12743  +     
+SACE_4232  MNMGINNK_29460  100       100       0        991       12838  14497  +     
+SACE_4233  MNMGINNK_29470  100       100       0        1047      14493  16203  +     
+
+
+NZ_CP059557.1.region002
+=======================
+NZ_CP059557.1
+-------------
+Cluster 18, score 7.2447:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  DPJDDACK_08080  70.7      99.5      0          1194      20735  23273  +     
+SACE_4231  DPJDDACK_08090  65.2      100       1.65e-15   61.6      23349  23505  +     
+SACE_4232  DPJDDACK_08100  65.4      88.8      3.49e-193  549       24046  25537  +     
+SACE_4233  DPJDDACK_08110  57.3      99.8      9.15e-227  642       25533  27588  +     
+
+
+NZ_CP059556.1.region003
+=======================
+NZ_CP059556.1
+-------------
+Cluster 19, score 7.2455:
+Query      Subject         Identity  Coverage  E-value    Bitscore  Start  End    Strand
+SACE_4230  AHDHMJBP_08620  69.6      99.4      0          1156      20091  22632  +     
+SACE_4231  AHDHMJBP_08630  71.1      95.7      4.17e-15   60.5      22755  22893  +     
+SACE_4232  AHDHMJBP_08640  63        98.6      3.34e-202  574       23262  24918  +     
+SACE_4233  AHDHMJBP_08650  68.3      98.4      1.06e-237  665       24911  26630  +     
