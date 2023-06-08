@@ -16,7 +16,7 @@
 15,6538,GCF_003635025.1,NZ_RBXX01000002.1.region016,terpene,TIGR02157,6876191,6876503,Core,"PA_CoA_Oxy2: phenylacetate-CoA oxygenase, PaaH subunit",Energy metabolism
 16,6539,GCF_003635025.1,NZ_RBXX01000002.1.region016,terpene,TIGR02156,6876499,6877471,Core,"PA_CoA_Oxy1: phenylacetate-CoA oxygenase, PaaG subunit",Energy metabolism
 17,6674,GCF_003635025.1,NZ_RBXX01000002.1.region017,"CDPS,T3PKS",TIGR00109,7017892,7018897,Core,hemH: ferrochelatase,"Biosynthesis of cofactors, prosthetic groups, and carriers"
-18,7130,GCF_003635025.1,NZ_RBXX01000002.1.region020,"NRPS,T1PKS,RiPP-like",PF01039.17,7521197,7526693,ResModel,Carboxyl_trans: Carboxyl transferase domain,ResModel
+18,7130,GCF_003635025.1,NZ_RBXX01000002.1.region020,"T1PKS,NRPS,RiPP-like",PF01039.17,7521197,7526693,ResModel,Carboxyl_trans: Carboxyl transferase domain,ResModel
 19,7330,GCF_003635025.1,NZ_RBXX01000002.1.region021,"NRPS,NRPS-like,PKS-like,T1PKS",RF0007,7744531,7746247,ResModel,ABC_efflux: ATP-binding cassette (ABC) antibiotic efflux pump [ARO:0010001],ResModel
 20,2168,GCF_900114905.1,NZ_FOUP01000003.1.region001,NRPS,GrpE,37239,37989,Core,PF01025.15: GrpE,Unclassified
 21,2136,GCF_900114905.1,NZ_FOUP01000003.1.region001,NRPS,TIGR00110,307,1939,Core,ilvD: dihydroxy-acid dehydratase,Amino acid biosynthesis
@@ -182,33 +182,33 @@
 181,26,GCF_000062885.1,NC_009142.1.region001,"hglE-KS,T1PKS",PF00364.17,47169,47676,ResModel,Biotin_lipoyl: Biotin-requiring enzyme,ResModel
 182,8,GCF_000062885.1,NC_009142.1.region001,"hglE-KS,T1PKS",PF00521.15,10553,13049,ResModel,"DNA_topoisoIV: DNA gyrase/topoisomerase IV, subunit A",ResModel
 183,25,GCF_000062885.1,NC_009142.1.region001,"hglE-KS,T1PKS",PF03255.9,45466,47173,ResModel,ACCA: Acetyl co-enzyme A carboxylase carboxyltransferase alpha subunit,ResModel
-184,732,GCF_000062885.1,NC_009142.1.region003,T1PKS,RF0067,830392,831538,ResModel,Erm23S_rRNA_methyltrans: Emr 23S ribosomal RNA methyltransferase: rRNA methyltransferase conferring antibiotic resistance [ARO:3000560],ResModel
-185,1233,GCF_000062885.1,NC_009142.1.region004,T3PKS,TIGR03356,1369399,1370689,Core,BGL: beta-galactosidase,Unclassified
-186,1298,GCF_000062885.1,NC_009142.1.region005,NRPS,TIGR03954,1447033,1447423,Core,integ_memb_HG: integral membrane protein,Unknown function
-187,2157,GCF_000062885.1,NC_009142.1.region007,terpene,TIGR01994,2365338,2365797,Core,"SUF_scaf_2: SUF system FeS assembly protein, NifU family","Biosynthesis of cofactors, prosthetic groups, and carriers"
-188,2159,GCF_000062885.1,NC_009142.1.region007,terpene,TIGR01430,2366477,2367539,Core,aden_deam: adenosine deaminase,Unclassified
-189,2831,GCF_000062885.1,NC_009142.1.region012,"T1PKS,NRPS-like",TIGR01915,3122864,3123530,Core,npdG: NADPH-dependent F420 reductase,Energy metabolism
-190,3019,GCF_000062885.1,NC_009142.1.region014,"NAPAA,NRPS,betalactone",RF0054,3360329,3361085,ResModel,ClassB: Class B beta-lactamase [ARO:3000004],ResModel
-191,3025,GCF_000062885.1,NC_009142.1.region014,"NAPAA,NRPS,betalactone",RF0124,3366118,3367081,ResModel,SubclassB2: Subclass B2 (metallo-) beta-lactamase selectively hydrolize carbapenems [ARO:3000570],ResModel
-192,3184,GCF_000062885.1,NC_009142.1.region016,NAPAA,TIGR00057,3561128,3561749,Core,"TIGR00057: tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family",Protein synthesis
-193,3193,GCF_000062885.1,NC_009142.1.region016,NAPAA,TIGR01430,3573873,3575007,Core,aden_deam: adenosine deaminase,Unclassified
-194,3510,GCF_000062885.1,NC_009142.1.region018,terpene,TIGR02159,3906567,3907086,Core,"PA_CoA_Oxy4: phenylacetate-CoA oxygenase, PaaJ subunit",Energy metabolism
-195,3509,GCF_000062885.1,NC_009142.1.region018,terpene,TIGR02158,3905683,3906574,Core,"PA_CoA_Oxy3: phenylacetate-CoA oxygenase, PaaI subunit",Energy metabolism
-196,3508,GCF_000062885.1,NC_009142.1.region018,terpene,TIGR02157,3905310,3905616,Core,"PA_CoA_Oxy2: phenylacetate-CoA oxygenase, PaaH subunit",Energy metabolism
-197,3507,GCF_000062885.1,NC_009142.1.region018,terpene,TIGR02156,3904352,3905318,Core,"PA_CoA_Oxy1: phenylacetate-CoA oxygenase, PaaG subunit",Energy metabolism
-198,4194,GCF_000062885.1,NC_009142.1.region023,lanthipeptide-class-iii,PF01039.17,4714548,4720032,ResModel,Carboxyl_trans: Carboxyl transferase domain,ResModel
-199,4239,GCF_000062885.1,NC_009142.1.region024,"NRPS,T1PKS,terpene",RF0053,4766589,4767492,ResModel,ClassA: Class A beta-lactamase [ARO:3000078],ResModel
-200,4248,GCF_000062885.1,NC_009142.1.region024,"NRPS,T1PKS,terpene",PF00185.19,4808814,4809768,ResModel,"OTCace: Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain",ResModel
-201,4447,GCF_000062885.1,NC_009142.1.region027,hglE-KS,TIGR03451,5018225,5019308,Core,mycoS_dep_FDH: S-(hydroxymethyl)mycothiol dehydrogenase,Cellular processes
-202,5257,GCF_000062885.1,NC_009142.1.region033,"PKS-like,T1PKS",TIGR00630,5946636,5949498,Core,uvra: excinuclease ABC subunit A,DNA metabolism
-203,5237,GCF_000062885.1,NC_009142.1.region033,"PKS-like,T1PKS",TIGR01131,5920771,5921554,Core,"ATP_synt_6_or_A: ATP synthase F0, A subunit",Energy metabolism
-204,5433,GCF_000062885.1,NC_009142.1.region034,T1PKS,TIGR00018,6239759,6241934,Core,panC: pantoate--beta-alanine ligase,"Biosynthesis of cofactors, prosthetic groups, and carriers"
-205,5436,GCF_000062885.1,NC_009142.1.region034,T1PKS,PF00364.17,6244099,6245365,ResModel,Biotin_lipoyl: Biotin-requiring enzyme,ResModel
-206,5840,GCF_000062885.1,NC_009142.1.region036,arylpolyene,TIGR00715,6677077,6677851,Core,precor6x_red: precorrin-6x reductase,"Biosynthesis of cofactors, prosthetic groups, and carriers"
-207,5827,GCF_000062885.1,NC_009142.1.region036,arylpolyene,TIGR00409,6662870,6664616,Core,proS_fam_II: proline--tRNA ligase,Protein synthesis
-208,5818,GCF_000062885.1,NC_009142.1.region036,arylpolyene,TIGR01953,6654644,6655703,Core,NusA: transcription termination factor NusA,Transcription
-209,5817,GCF_000062885.1,NC_009142.1.region036,arylpolyene,TIGR00487,6651018,6654102,Core,IF-2: translation initiation factor IF-2,Protein synthesis
-210,5852,GCF_000062885.1,NC_009142.1.region036,arylpolyene,TIGR00379,6693928,6695338,Core,"cobB: cobyrinic acid a,c-diamide synthase","Biosynthesis of cofactors, prosthetic groups, and carriers"
+184,732,GCF_000062885.1,NC_009142.1.region004,T1PKS,RF0067,830392,831538,ResModel,Erm23S_rRNA_methyltrans: Emr 23S ribosomal RNA methyltransferase: rRNA methyltransferase conferring antibiotic resistance [ARO:3000560],ResModel
+185,1233,GCF_000062885.1,NC_009142.1.region005,T3PKS,TIGR03356,1369399,1370689,Core,BGL: beta-galactosidase,Unclassified
+186,1298,GCF_000062885.1,NC_009142.1.region006,NRPS,TIGR03954,1447033,1447423,Core,integ_memb_HG: integral membrane protein,Unknown function
+187,2157,GCF_000062885.1,NC_009142.1.region008,terpene,TIGR01994,2365338,2365797,Core,"SUF_scaf_2: SUF system FeS assembly protein, NifU family","Biosynthesis of cofactors, prosthetic groups, and carriers"
+188,2159,GCF_000062885.1,NC_009142.1.region008,terpene,TIGR01430,2366477,2367539,Core,aden_deam: adenosine deaminase,Unclassified
+189,2831,GCF_000062885.1,NC_009142.1.region013,"NRPS-like,T1PKS",TIGR01915,3122864,3123530,Core,npdG: NADPH-dependent F420 reductase,Energy metabolism
+190,3019,GCF_000062885.1,NC_009142.1.region015,"NAPAA,NRPS,betalactone",RF0054,3360329,3361085,ResModel,ClassB: Class B beta-lactamase [ARO:3000004],ResModel
+191,3025,GCF_000062885.1,NC_009142.1.region015,"NAPAA,NRPS,betalactone",RF0124,3366118,3367081,ResModel,SubclassB2: Subclass B2 (metallo-) beta-lactamase selectively hydrolize carbapenems [ARO:3000570],ResModel
+192,3184,GCF_000062885.1,NC_009142.1.region017,NAPAA,TIGR00057,3561128,3561749,Core,"TIGR00057: tRNA threonylcarbamoyl adenosine modification protein, Sua5/YciO/YrdC/YwlC family",Protein synthesis
+193,3193,GCF_000062885.1,NC_009142.1.region017,NAPAA,TIGR01430,3573873,3575007,Core,aden_deam: adenosine deaminase,Unclassified
+194,3510,GCF_000062885.1,NC_009142.1.region019,terpene,TIGR02159,3906567,3907086,Core,"PA_CoA_Oxy4: phenylacetate-CoA oxygenase, PaaJ subunit",Energy metabolism
+195,3509,GCF_000062885.1,NC_009142.1.region019,terpene,TIGR02158,3905683,3906574,Core,"PA_CoA_Oxy3: phenylacetate-CoA oxygenase, PaaI subunit",Energy metabolism
+196,3508,GCF_000062885.1,NC_009142.1.region019,terpene,TIGR02157,3905310,3905616,Core,"PA_CoA_Oxy2: phenylacetate-CoA oxygenase, PaaH subunit",Energy metabolism
+197,3507,GCF_000062885.1,NC_009142.1.region019,terpene,TIGR02156,3904352,3905318,Core,"PA_CoA_Oxy1: phenylacetate-CoA oxygenase, PaaG subunit",Energy metabolism
+198,4194,GCF_000062885.1,NC_009142.1.region024,lanthipeptide-class-iii,PF01039.17,4714548,4720032,ResModel,Carboxyl_trans: Carboxyl transferase domain,ResModel
+199,4239,GCF_000062885.1,NC_009142.1.region025,"NRPS,T1PKS,terpene",RF0053,4766589,4767492,ResModel,ClassA: Class A beta-lactamase [ARO:3000078],ResModel
+200,4248,GCF_000062885.1,NC_009142.1.region025,"NRPS,T1PKS,terpene",PF00185.19,4808814,4809768,ResModel,"OTCace: Aspartate/ornithine carbamoyltransferase, Asp/Orn binding domain",ResModel
+201,4447,GCF_000062885.1,NC_009142.1.region028,hglE-KS,TIGR03451,5018225,5019308,Core,mycoS_dep_FDH: S-(hydroxymethyl)mycothiol dehydrogenase,Cellular processes
+202,5257,GCF_000062885.1,NC_009142.1.region034,"PKS-like,T1PKS",TIGR00630,5946636,5949498,Core,uvra: excinuclease ABC subunit A,DNA metabolism
+203,5237,GCF_000062885.1,NC_009142.1.region034,"PKS-like,T1PKS",TIGR01131,5920771,5921554,Core,"ATP_synt_6_or_A: ATP synthase F0, A subunit",Energy metabolism
+204,5433,GCF_000062885.1,NC_009142.1.region035,T1PKS,TIGR00018,6239759,6241934,Core,panC: pantoate--beta-alanine ligase,"Biosynthesis of cofactors, prosthetic groups, and carriers"
+205,5436,GCF_000062885.1,NC_009142.1.region035,T1PKS,PF00364.17,6244099,6245365,ResModel,Biotin_lipoyl: Biotin-requiring enzyme,ResModel
+206,5840,GCF_000062885.1,NC_009142.1.region037,arylpolyene,TIGR00715,6677077,6677851,Core,precor6x_red: precorrin-6x reductase,"Biosynthesis of cofactors, prosthetic groups, and carriers"
+207,5827,GCF_000062885.1,NC_009142.1.region037,arylpolyene,TIGR00409,6662870,6664616,Core,proS_fam_II: proline--tRNA ligase,Protein synthesis
+208,5818,GCF_000062885.1,NC_009142.1.region037,arylpolyene,TIGR01953,6654644,6655703,Core,NusA: transcription termination factor NusA,Transcription
+209,5817,GCF_000062885.1,NC_009142.1.region037,arylpolyene,TIGR00487,6651018,6654102,Core,IF-2: translation initiation factor IF-2,Protein synthesis
+210,5852,GCF_000062885.1,NC_009142.1.region037,arylpolyene,TIGR00379,6693928,6695338,Core,"cobB: cobyrinic acid a,c-diamide synthase","Biosynthesis of cofactors, prosthetic groups, and carriers"
 211,382,GCF_002564065.1,NZ_PDBV01000001.1.region001,"hglE-KS,T1PKS",TIGR01063,390758,393254,Core,"gyrA: DNA gyrase, A subunit",DNA metabolism
 212,400,GCF_002564065.1,NZ_PDBV01000001.1.region001,"hglE-KS,T1PKS",PF00364.17,427374,427881,ResModel,Biotin_lipoyl: Biotin-requiring enzyme,ResModel
 213,382,GCF_002564065.1,NZ_PDBV01000001.1.region001,"hglE-KS,T1PKS",PF00521.15,390758,393254,ResModel,"DNA_topoisoIV: DNA gyrase/topoisomerase IV, subunit A",ResModel

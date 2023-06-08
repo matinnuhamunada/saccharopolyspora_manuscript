@@ -78,7 +78,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region004&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_59&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region004&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_48&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(999.31, 388.0)</data>
 </node>
 <node id="TIGR01228">
@@ -114,7 +114,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1835.1, 1214.7)</data>
 </node>
 <node id="TIGR03997">
@@ -138,7 +138,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region008&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_100&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region008&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_116&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1143.2, 1122.3)</data>
 </node>
 <node id="PF01039.17">
@@ -162,7 +162,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region011&lt;br&gt;T2PKS,T1PKS&lt;br&gt;u_PKSother_112&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region011&lt;br&gt;T2PKS,T1PKS&lt;br&gt;u_PKSother_117&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(420.19, 1621.0)</data>
 </node>
 <node id="TIGR03534">
@@ -294,7 +294,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region017&lt;br&gt;CDPS,T3PKS&lt;br&gt;u_PKS-NRP_Hybrids_111&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region017&lt;br&gt;CDPS,T3PKS&lt;br&gt;u_Others_101&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1690.4, 1015.8)</data>
 </node>
 <node id="TIGR00109">
@@ -311,14 +311,14 @@
 </node>
 <node id="NZ_RBXX01000002.1.region020">
   <data key="d0">NZ_RBXX01000002.1.region020</data>
-  <data key="d1">NRPS,T1PKS,RiPP-like</data>
+  <data key="d1">T1PKS,NRPS,RiPP-like</data>
   <data key="d2">GCF_003635025.1</data>
   <data key="d3">None</data>
   <data key="d4">None</data>
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region020&lt;br&gt;NRPS,T1PKS,RiPP-like&lt;br&gt;u_Others_36&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region020&lt;br&gt;T1PKS,NRPS,RiPP-like&lt;br&gt;u_Others_35&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1109.9, 1201.8)</data>
 </node>
 <node id="NZ_RBXX01000002.1.region021">
@@ -330,7 +330,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RBXX01000002.1.region021&lt;br&gt;NRPS,NRPS-like,PKS-like,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_44&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_RBXX01000002.1.region021&lt;br&gt;NRPS,NRPS-like,PKS-like,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_51&lt;br&gt;GCF_003635025.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1163.9, 1417.1)</data>
 </node>
 <node id="RF0007">
@@ -366,7 +366,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000002.1.region002&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_100&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000002.1.region002&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_116&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1176.2, 1166.6)</data>
 </node>
 <node id="NZ_FOUP01000002.1.region003">
@@ -378,7 +378,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000002.1.region003&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000002.1.region003&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1919.3, 1128.0)</data>
 </node>
 <node id="NZ_FOUP01000001.1.region001">
@@ -390,7 +390,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000001.1.region001&lt;br&gt;T3PKS,CDPS&lt;br&gt;u_PKS-NRP_Hybrids_111&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000001.1.region001&lt;br&gt;T3PKS,CDPS&lt;br&gt;u_Others_101&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1643.1, 944.49)</data>
 </node>
 <node id="NZ_FOUP01000001.1.region002">
@@ -426,7 +426,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000013.1.region002&lt;br&gt;T1PKS,T2PKS&lt;br&gt;u_PKSother_112&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000013.1.region002&lt;br&gt;T1PKS,T2PKS&lt;br&gt;u_PKSother_117&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(470.5, 1659.8)</data>
 </node>
 <node id="NZ_FOUP01000007.1.region001">
@@ -438,7 +438,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000007.1.region001&lt;br&gt;T1PKS,PKS-like,NRPS-like,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_44&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000007.1.region001&lt;br&gt;T1PKS,PKS-like,NRPS-like,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_51&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1206.1, 1401.9)</data>
 </node>
 <node id="NZ_FOUP01000007.1.region002">
@@ -450,7 +450,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000007.1.region002&lt;br&gt;RiPP-like,NRPS,T1PKS&lt;br&gt;u_Others_36&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000007.1.region002&lt;br&gt;RiPP-like,NRPS,T1PKS&lt;br&gt;u_Others_35&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1143.5, 1071.3)</data>
 </node>
 <node id="NZ_FOUP01000018.1.region001">
@@ -462,7 +462,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOUP01000018.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_59&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
+  <data key="d8">NZ_FOUP01000018.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_48&lt;br&gt;GCF_900114905.1&lt;br&gt;s__Saccharopolyspora antimicrobica</data>
   <data key="d9">(1026.7, 538.19)</data>
 </node>
 <node id="NZ_VIWX01000001.1.region006">
@@ -474,7 +474,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000001.1.region006&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_62&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000001.1.region006&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_36&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(641.54, 1857.9)</data>
 </node>
 <node id="TIGR03451">
@@ -498,7 +498,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000001.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_61&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000001.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_45&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(1910.0, 1317.5)</data>
 </node>
 <node id="NZ_VIWX01000001.1.region008">
@@ -558,7 +558,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000001.1.region010&lt;br&gt;arylpolyene&lt;br&gt;u_Others_175&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000001.1.region010&lt;br&gt;arylpolyene&lt;br&gt;u_Others_177&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(1196.5, 1978.0)</data>
 </node>
 <node id="TIGR00442">
@@ -594,7 +594,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000002.1.region002&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_126&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000002.1.region002&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_266&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(1022.7, 1115.7)</data>
 </node>
 <node id="PF00364.17">
@@ -618,7 +618,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000002.1.region004&lt;br&gt;T1PKS,T3PKS,NRPS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_82&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000002.1.region004&lt;br&gt;T1PKS,T3PKS,NRPS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_84&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(961.66, 1309.2)</data>
 </node>
 <node id="RF0124">
@@ -642,7 +642,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000002.1.region005&lt;br&gt;siderophore&lt;br&gt;u_Others_188&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000002.1.region005&lt;br&gt;siderophore&lt;br&gt;u_Others_169&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(773.47, 684.43)</data>
 </node>
 <node id="NZ_VIWX01000002.1.region008">
@@ -666,7 +666,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VIWX01000004.1.region001&lt;br&gt;RiPP-like,T1PKS,NRPS-like&lt;br&gt;u_Others_176&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
+  <data key="d8">NZ_VIWX01000004.1.region001&lt;br&gt;RiPP-like,T1PKS,NRPS-like&lt;br&gt;u_Others_191&lt;br&gt;GCF_007829955.1&lt;br&gt;s__Saccharopolyspora dendranthemae</data>
   <data key="d9">(1171.4, 1241.8)</data>
 </node>
 <node id="PF00183.13">
@@ -762,7 +762,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JAGPXE010000015.1.region001&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_62&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
+  <data key="d8">NZ_JAGPXE010000015.1.region001&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_36&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
   <data key="d9">(775.43, 1807.3)</data>
 </node>
 <node id="NZ_JAGPXE010000016.1.region001">
@@ -810,7 +810,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JAGPXE010000004.1.region001&lt;br&gt;arylpolyene&lt;br&gt;u_Others_166&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
+  <data key="d8">NZ_JAGPXE010000004.1.region001&lt;br&gt;arylpolyene&lt;br&gt;u_Others_190&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
   <data key="d9">(1296.8, 1917.6)</data>
 </node>
 <node id="TIGR00084">
@@ -858,7 +858,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JAGPXE010000007.1.region001&lt;br&gt;lanthipeptide-class-i&lt;br&gt;u_RiPPs_268&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
+  <data key="d8">NZ_JAGPXE010000007.1.region001&lt;br&gt;lanthipeptide-class-i&lt;br&gt;u_RiPPs_222&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
   <data key="d9">(2189.1, 1900.1)</data>
 </node>
 <node id="TIGR00057">
@@ -894,7 +894,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JAGPXE010000009.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_61&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
+  <data key="d8">NZ_JAGPXE010000009.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_45&lt;br&gt;GCF_018070075.1&lt;br&gt;s__Saccharopolyspora endophytica</data>
   <data key="d9">(1969.4, 1282.5)</data>
 </node>
 <node id="NZ_JAGPXE010000009.1.region002">
@@ -918,7 +918,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_46&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_62&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(930.93, 1028.0)</data>
 </node>
 <node id="TIGR01063">
@@ -966,7 +966,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region004&lt;br&gt;T1PKS&lt;br&gt;u_PKSother_22&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region004&lt;br&gt;T1PKS&lt;br&gt;erythromycin A;erythromycin B;erythromycin C;erythromycin D&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1396.5, 219.39)</data>
 </node>
 <node id="RF0067">
@@ -990,7 +990,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region005&lt;br&gt;T3PKS&lt;br&gt;u_NRPS_3&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region005&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_28&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(321.49, 855.97)</data>
 </node>
 <node id="TIGR03356">
@@ -1014,7 +1014,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region006&lt;br&gt;NRPS&lt;br&gt;u_Others_14&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region006&lt;br&gt;NRPS&lt;br&gt;u_NRPS_3&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(904.03, 873.53)</data>
 </node>
 <node id="NZ_CP069353.1.region008">
@@ -1026,7 +1026,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region008&lt;br&gt;terpene&lt;br&gt;u_PKSI_35&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region008&lt;br&gt;terpene&lt;br&gt;u_Terpene_2&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1893.0, 2003.1)</data>
 </node>
 <node id="TIGR01430">
@@ -1050,7 +1050,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region014&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_Others_17&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region014&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_25&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2173.5, 885.39)</data>
 </node>
 <node id="TIGR01915">
@@ -1074,7 +1074,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region016&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Terpene_33&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region016&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Others_17&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(987.17, 1341.0)</data>
 </node>
 <node id="RF0054">
@@ -1098,7 +1098,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region018&lt;br&gt;NAPAA&lt;br&gt;u_Terpene_32&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region018&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_26&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2040.5, 1895.9)</data>
 </node>
 <node id="NZ_CP069353.1.region020">
@@ -1110,7 +1110,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region020&lt;br&gt;terpene&lt;br&gt;2-methylisoborneol&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region020&lt;br&gt;terpene&lt;br&gt;u_Terpene_4&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1054.6, 1583.8)</data>
 </node>
 <node id="NZ_CP069353.1.region025">
@@ -1122,7 +1122,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region025&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_Others_37&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region025&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_22&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1066.4, 1222.0)</data>
 </node>
 <node id="NZ_CP069353.1.region026">
@@ -1134,7 +1134,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region026&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_RiPPs_64&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region026&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_42&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1741.8, 1752.4)</data>
 </node>
 <node id="PF00185.19">
@@ -1158,7 +1158,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region029&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_47&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region029&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_61&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(751.24, 1948.7)</data>
 </node>
 <node id="NZ_CP069353.1.region035">
@@ -1170,7 +1170,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region035&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSI_34&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region035&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_60&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(369.66, 2016.0)</data>
 </node>
 <node id="TIGR00630">
@@ -1206,7 +1206,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region036&lt;br&gt;T1PKS&lt;br&gt;u_Others_16&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region036&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_57&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(925.5, 1149.2)</data>
 </node>
 <node id="TIGR00018">
@@ -1230,7 +1230,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP069353.1.region038&lt;br&gt;arylpolyene&lt;br&gt;u_Terpene_66&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_CP069353.1.region038&lt;br&gt;arylpolyene&lt;br&gt;u_Others_12&lt;br&gt;GCF_016859185.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2217.7, 680.5)</data>
 </node>
 <node id="TIGR00715">
@@ -1302,7 +1302,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region001&lt;br&gt;hglE-KS,PUFA,T1PKS&lt;br&gt;u_Others_144&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region001&lt;br&gt;hglE-KS,PUFA,T1PKS&lt;br&gt;u_Others_163&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(870.45, 1062.9)</data>
 </node>
 <node id="TIGR01059">
@@ -1350,7 +1350,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_22&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_28&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(451.36, 770.42)</data>
 </node>
 <node id="NZ_CP054839.1.region005">
@@ -1374,7 +1374,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region007&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_289&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region007&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_216&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(210.49, 604.21)</data>
 </node>
 <node id="TIGR00077">
@@ -1422,7 +1422,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_288&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_147&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(971.72, 1027.5)</data>
 </node>
 <node id="NZ_CP054839.1.region011">
@@ -1434,7 +1434,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region011&lt;br&gt;T1PKS,PKS-like&lt;br&gt;u_PKSother_229&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region011&lt;br&gt;T1PKS,PKS-like&lt;br&gt;u_PKSother_283&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1394.5, 842.64)</data>
 </node>
 <node id="TIGR01356">
@@ -1458,7 +1458,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region017&lt;br&gt;NRPS&lt;br&gt;u_NRPS_238&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region017&lt;br&gt;NRPS&lt;br&gt;u_NRPS_245&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1753.5, 1739.2)</data>
 </node>
 <node id="NZ_CP054839.1.region018">
@@ -1470,7 +1470,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region018&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;Ery-9;Ery-6;Ery-8;Ery-7;Ery-5;Ery-4;Ery-3&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region018&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_22&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1073.2, 1201.0)</data>
 </node>
 <node id="NZ_CP054839.1.region023">
@@ -1494,7 +1494,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region025&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_23&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region025&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_26&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1995.4, 1909.8)</data>
 </node>
 <node id="NZ_CP054839.1.region027">
@@ -1506,7 +1506,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region027&lt;br&gt;betalactone,NRPS,NAPAA&lt;br&gt;u_Others_19&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region027&lt;br&gt;betalactone,NRPS,NAPAA&lt;br&gt;u_Others_17&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(928.34, 1309.1)</data>
 </node>
 <node id="NZ_CP054839.1.region029">
@@ -1518,7 +1518,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region029&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_21&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region029&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_25&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(2267.8, 869.0)</data>
 </node>
 <node id="NZ_CP054839.1.region033">
@@ -1530,7 +1530,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region033&lt;br&gt;CDPS,redox-cofactor&lt;br&gt;u_Others_148&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region033&lt;br&gt;CDPS,redox-cofactor&lt;br&gt;u_Others_20&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1724.4, 756.92)</data>
 </node>
 <node id="TIGR00730">
@@ -1554,7 +1554,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region034&lt;br&gt;terpene&lt;br&gt;u_Terpene_309&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region034&lt;br&gt;terpene&lt;br&gt;u_Terpene_303&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(986.66, 1032.7)</data>
 </node>
 <node id="NZ_CP054839.1.region035">
@@ -1566,7 +1566,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region035&lt;br&gt;arylpolyene&lt;br&gt;u_Others_20&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region035&lt;br&gt;arylpolyene&lt;br&gt;u_Others_12&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(2171.5, 619.08)</data>
 </node>
 <node id="NZ_CP054839.1.region036">
@@ -1578,7 +1578,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP054839.1.region036&lt;br&gt;ectoine&lt;br&gt;u_Others_183&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
+  <data key="d8">NZ_CP054839.1.region036&lt;br&gt;ectoine&lt;br&gt;u_Others_180&lt;br&gt;GCF_018141105.1&lt;br&gt;s__Saccharopolyspora_D erythraea_A</data>
   <data key="d9">(1110.0, 659.04)</data>
 </node>
 <node id="TIGR00494">
@@ -1626,7 +1626,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region008&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_21&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region008&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_25&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2244.8, 1022.1)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region010">
@@ -1638,7 +1638,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region010&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Others_19&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region010&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Others_17&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1004.2, 1350.4)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region012">
@@ -1650,7 +1650,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region012&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_23&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region012&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_26&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2017.6, 1891.8)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region014">
@@ -1674,7 +1674,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region020&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;Ery-9;Ery-6;Ery-8;Ery-7;Ery-5;Ery-4;Ery-3&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region020&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_22&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1099.9, 1240.5)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region021">
@@ -1686,7 +1686,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region021&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_37&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region021&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_42&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1788.3, 1693.8)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region024">
@@ -1698,7 +1698,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region024&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_48&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region024&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_61&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(804.35, 1885.3)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region030">
@@ -1710,7 +1710,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region030&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_45&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region030&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_60&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(397.01, 2166.2)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region031">
@@ -1722,7 +1722,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region031&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_34&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region031&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_57&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(926.69, 1132.0)</data>
 </node>
 <node id="NZ_JABNNH010000001.1.region033">
@@ -1734,7 +1734,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000001.1.region033&lt;br&gt;arylpolyene&lt;br&gt;u_Others_20&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000001.1.region033&lt;br&gt;arylpolyene&lt;br&gt;u_Others_12&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2294.1, 639.39)</data>
 </node>
 <node id="NZ_JABNNH010000002.1.region001">
@@ -1746,7 +1746,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000002.1.region001&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_22&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000002.1.region001&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_28&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(419.49, 923.6)</data>
 </node>
 <node id="NZ_JABNNH010000002.1.region002">
@@ -1770,7 +1770,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JABNNH010000002.1.region004&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_Others_1&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_JABNNH010000002.1.region004&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_62&lt;br&gt;GCF_022392385.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(877.25, 1048.0)</data>
 </node>
 <node id="NC_009142.1.region001">
@@ -1782,11 +1782,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_46&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_62&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(914.62, 1027.9)</data>
 </node>
-<node id="NC_009142.1.region003">
-  <data key="d0">NC_009142.1.region003</data>
+<node id="NC_009142.1.region004">
+  <data key="d0">NC_009142.1.region004</data>
   <data key="d1">T1PKS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1794,11 +1794,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region003&lt;br&gt;T1PKS&lt;br&gt;erythromycin A;erythromycin B;erythromycin C;erythromycin D&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region004&lt;br&gt;T1PKS&lt;br&gt;erythromycin A;erythromycin B;erythromycin C;erythromycin D&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1535.1, 288.21)</data>
 </node>
-<node id="NC_009142.1.region004">
-  <data key="d0">NC_009142.1.region004</data>
+<node id="NC_009142.1.region005">
+  <data key="d0">NC_009142.1.region005</data>
   <data key="d1">T3PKS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1806,11 +1806,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_22&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region005&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_28&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(474.04, 888.23)</data>
 </node>
-<node id="NC_009142.1.region005">
-  <data key="d0">NC_009142.1.region005</data>
+<node id="NC_009142.1.region006">
+  <data key="d0">NC_009142.1.region006</data>
   <data key="d1">NRPS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1818,11 +1818,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region005&lt;br&gt;NRPS&lt;br&gt;u_NRPS_3&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region006&lt;br&gt;NRPS&lt;br&gt;u_NRPS_3&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1035.7, 858.2)</data>
 </node>
-<node id="NC_009142.1.region007">
-  <data key="d0">NC_009142.1.region007</data>
+<node id="NC_009142.1.region008">
+  <data key="d0">NC_009142.1.region008</data>
   <data key="d1">terpene</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1830,23 +1830,23 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region007&lt;br&gt;terpene&lt;br&gt;u_Terpene_2&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region008&lt;br&gt;terpene&lt;br&gt;u_Terpene_2&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1960.9, 2006.1)</data>
 </node>
-<node id="NC_009142.1.region012">
-  <data key="d0">NC_009142.1.region012</data>
-  <data key="d1">T1PKS,NRPS-like</data>
+<node id="NC_009142.1.region013">
+  <data key="d0">NC_009142.1.region013</data>
+  <data key="d1">NRPS-like,T1PKS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
   <data key="d4">None</data>
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region012&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_21&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region013&lt;br&gt;NRPS-like,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_25&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2312.1, 954.21)</data>
 </node>
-<node id="NC_009142.1.region014">
-  <data key="d0">NC_009142.1.region014</data>
+<node id="NC_009142.1.region015">
+  <data key="d0">NC_009142.1.region015</data>
   <data key="d1">NAPAA,NRPS,betalactone</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1854,11 +1854,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region014&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Others_19&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region015&lt;br&gt;NAPAA,NRPS,betalactone&lt;br&gt;u_Others_17&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(964.42, 1348.1)</data>
 </node>
-<node id="NC_009142.1.region016">
-  <data key="d0">NC_009142.1.region016</data>
+<node id="NC_009142.1.region017">
+  <data key="d0">NC_009142.1.region017</data>
   <data key="d1">NAPAA</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1866,11 +1866,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region016&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_23&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region017&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_26&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2024.6, 1924.7)</data>
 </node>
-<node id="NC_009142.1.region018">
-  <data key="d0">NC_009142.1.region018</data>
+<node id="NC_009142.1.region019">
+  <data key="d0">NC_009142.1.region019</data>
   <data key="d1">terpene</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1878,11 +1878,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region018&lt;br&gt;terpene&lt;br&gt;u_Terpene_4&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region019&lt;br&gt;terpene&lt;br&gt;u_Terpene_4&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(979.05, 1535.0)</data>
 </node>
-<node id="NC_009142.1.region023">
-  <data key="d0">NC_009142.1.region023</data>
+<node id="NC_009142.1.region024">
+  <data key="d0">NC_009142.1.region024</data>
   <data key="d1">lanthipeptide-class-iii</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1890,11 +1890,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region023&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;Ery-9;Ery-6;Ery-8;Ery-7;Ery-5;Ery-4;Ery-3&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region024&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_22&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1079.0, 1239.0)</data>
 </node>
-<node id="NC_009142.1.region024">
-  <data key="d0">NC_009142.1.region024</data>
+<node id="NC_009142.1.region025">
+  <data key="d0">NC_009142.1.region025</data>
   <data key="d1">NRPS,T1PKS,terpene</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1902,11 +1902,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region024&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_37&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region025&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_42&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1765.0, 1724.3)</data>
 </node>
-<node id="NC_009142.1.region027">
-  <data key="d0">NC_009142.1.region027</data>
+<node id="NC_009142.1.region028">
+  <data key="d0">NC_009142.1.region028</data>
   <data key="d1">hglE-KS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1914,11 +1914,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region027&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_48&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region028&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_61&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(670.4, 1934.7)</data>
 </node>
-<node id="NC_009142.1.region033">
-  <data key="d0">NC_009142.1.region033</data>
+<node id="NC_009142.1.region034">
+  <data key="d0">NC_009142.1.region034</data>
   <data key="d1">PKS-like,T1PKS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1926,11 +1926,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region033&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_45&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region034&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_60&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(456.88, 2070.0)</data>
 </node>
-<node id="NC_009142.1.region034">
-  <data key="d0">NC_009142.1.region034</data>
+<node id="NC_009142.1.region035">
+  <data key="d0">NC_009142.1.region035</data>
   <data key="d1">T1PKS</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1938,11 +1938,11 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region034&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_34&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region035&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_57&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(936.68, 1114.1)</data>
 </node>
-<node id="NC_009142.1.region036">
-  <data key="d0">NC_009142.1.region036</data>
+<node id="NC_009142.1.region037">
+  <data key="d0">NC_009142.1.region037</data>
   <data key="d1">arylpolyene</data>
   <data key="d2">GCF_000062885.1</data>
   <data key="d3">None</data>
@@ -1950,7 +1950,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NC_009142.1.region036&lt;br&gt;arylpolyene&lt;br&gt;u_Others_20&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NC_009142.1.region037&lt;br&gt;arylpolyene&lt;br&gt;u_Others_12&lt;br&gt;GCF_000062885.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2299.6, 591.25)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region001">
@@ -1962,7 +1962,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_46&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region001&lt;br&gt;hglE-KS,T1PKS&lt;br&gt;u_PKSother_62&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(906.89, 1042.1)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region003">
@@ -1974,7 +1974,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region003&lt;br&gt;T1PKS&lt;br&gt;u_Others_109&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region003&lt;br&gt;T1PKS&lt;br&gt;erythromycin A;erythromycin B;erythromycin C;erythromycin D&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1382.8, 313.5)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region004">
@@ -1986,7 +1986,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region004&lt;br&gt;T3PKS&lt;br&gt;erythromycin A;erythromycin B;erythromycin C;erythromycin D&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_28&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(356.48, 909.84)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region005">
@@ -1998,7 +1998,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region005&lt;br&gt;NRPS&lt;br&gt;u_PKSother_22&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region005&lt;br&gt;NRPS&lt;br&gt;u_NRPS_3&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(878.86, 879.07)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region007">
@@ -2010,7 +2010,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region007&lt;br&gt;terpene&lt;br&gt;u_Others_14&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region007&lt;br&gt;terpene&lt;br&gt;u_Terpene_2&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1924.6, 2002.8)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region012">
@@ -2022,7 +2022,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region012&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_NRPS_51&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region012&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_25&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2159.8, 979.5)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region014">
@@ -2046,7 +2046,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region016&lt;br&gt;NAPAA&lt;br&gt;u_Terpene_33&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region016&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_26&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2036.3, 1941.2)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region018">
@@ -2058,7 +2058,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region018&lt;br&gt;terpene&lt;br&gt;u_Terpene_32&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region018&lt;br&gt;terpene&lt;br&gt;u_Terpene_4&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(901.84, 1616.5)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region023">
@@ -2070,7 +2070,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region023&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_PKSI_11&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region023&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_22&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1145.8, 1167.0)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region024">
@@ -2082,7 +2082,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region024&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;Ery-9;Ery-6;Ery-8;Ery-7;Ery-5;Ery-4;Ery-3&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region024&lt;br&gt;NRPS,T1PKS,terpene&lt;br&gt;u_Others_42&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(1776.8, 1709.1)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region027">
@@ -2094,7 +2094,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region027&lt;br&gt;hglE-KS&lt;br&gt;u_RiPPs_26&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region027&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_61&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(693.52, 1794.0)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region033">
@@ -2106,7 +2106,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region033&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_RiPPs_60&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region033&lt;br&gt;PKS-like,T1PKS&lt;br&gt;u_PKSother_60&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(309.84, 2112.4)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region034">
@@ -2118,7 +2118,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region034&lt;br&gt;T1PKS&lt;br&gt;u_PKSother_45&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region034&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_57&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(900.7, 1118.4)</data>
 </node>
 <node id="NZ_PDBV01000001.1.region036">
@@ -2130,7 +2130,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_PDBV01000001.1.region036&lt;br&gt;arylpolyene&lt;br&gt;u_Others_16&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
+  <data key="d8">NZ_PDBV01000001.1.region036&lt;br&gt;arylpolyene&lt;br&gt;u_Others_12&lt;br&gt;GCF_002564065.1&lt;br&gt;s__Saccharopolyspora_D erythraea</data>
   <data key="d9">(2312.9, 615.2)</data>
 </node>
 <node id="NZ_FOZX01000016.1.region001">
@@ -2178,7 +2178,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000003.1.region001&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_206&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000003.1.region001&lt;br&gt;T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_231&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1142.2, 1256.7)</data>
 </node>
 <node id="NZ_FOZX01000003.1.region002">
@@ -2190,7 +2190,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000003.1.region002&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_94&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000003.1.region002&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_81&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1162.9, 1099.3)</data>
 </node>
 <node id="NZ_FOZX01000004.1.region001">
@@ -2214,7 +2214,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000004.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_61&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000004.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_45&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1893.6, 1276.6)</data>
 </node>
 <node id="NZ_FOZX01000004.1.region004">
@@ -2226,7 +2226,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000004.1.region004&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_254&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000004.1.region004&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_257&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1115.2, 1109.4)</data>
 </node>
 <node id="NZ_FOZX01000001.1.region001">
@@ -2238,7 +2238,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000001.1.region001&lt;br&gt;arylpolyene&lt;br&gt;u_Others_153&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000001.1.region001&lt;br&gt;arylpolyene&lt;br&gt;u_Others_178&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1328.4, 2033.6)</data>
 </node>
 <node id="NZ_FOZX01000001.1.region002">
@@ -2274,7 +2274,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOZX01000007.1.region001&lt;br&gt;T1PKS,transAT-PKS,NRPS-like,T3PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_82&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
+  <data key="d8">NZ_FOZX01000007.1.region001&lt;br&gt;T1PKS,transAT-PKS,NRPS-like,T3PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_84&lt;br&gt;GCF_900116135.1&lt;br&gt;s__Saccharopolyspora flava</data>
   <data key="d9">(1038.4, 1087.7)</data>
 </node>
 <node id="TIGR00724">
@@ -2298,7 +2298,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region001&lt;br&gt;thioamide-NRP,ladderane,NRPS&lt;br&gt;u_Others_155&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region001&lt;br&gt;thioamide-NRP,ladderane,NRPS&lt;br&gt;u_Others_130&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(674.75, 1225.8)</data>
 </node>
 <node id="Ribosomal_S14">
@@ -2430,7 +2430,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region002&lt;br&gt;terpene&lt;br&gt;u_Terpene_120&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region002&lt;br&gt;terpene&lt;br&gt;u_Terpene_122&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(248.83, 1866.6)</data>
 </node>
 <node id="TIGR00042">
@@ -2466,7 +2466,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region003&lt;br&gt;NRPS&lt;br&gt;u_NRPS_52&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region003&lt;br&gt;NRPS&lt;br&gt;u_NRPS_55&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1031.7, 838.2)</data>
 </node>
 <node id="NZ_JACHIV010000001.1.region005">
@@ -2490,7 +2490,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_264&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_224&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1179.5, 1398.1)</data>
 </node>
 <node id="NZ_JACHIV010000001.1.region008">
@@ -2502,7 +2502,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region008&lt;br&gt;arylpolyene&lt;br&gt;u_Others_78&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region008&lt;br&gt;arylpolyene&lt;br&gt;u_Others_80&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1942.7, 1852.5)</data>
 </node>
 <node id="TIGR00674">
@@ -2526,7 +2526,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region009&lt;br&gt;lassopeptide,transAT-PKS&lt;br&gt;u_Others_107&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region009&lt;br&gt;lassopeptide,transAT-PKS&lt;br&gt;u_Others_100&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1633.5, 1424.0)</data>
 </node>
 <node id="RF0105">
@@ -2550,7 +2550,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region012&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_91&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region012&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_86&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(655.83, 1043.0)</data>
 </node>
 <node id="TIGR03921">
@@ -2574,7 +2574,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region018&lt;br&gt;NRPS-like,NRPS&lt;br&gt;u_NRPS_247&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region018&lt;br&gt;NRPS-like,NRPS&lt;br&gt;u_NRPS_255&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(2283.8, 65.639)</data>
 </node>
 <node id="SHMT">
@@ -2598,7 +2598,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region019&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_103&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region019&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_115&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1164.2, 1074.6)</data>
 </node>
 <node id="NZ_JACHIV010000001.1.region020">
@@ -2610,7 +2610,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region020&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_71&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region020&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_90&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(1209.1, 1152.6)</data>
 </node>
 <node id="TIGR00069">
@@ -2646,7 +2646,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region021&lt;br&gt;lanthipeptide-class-v&lt;br&gt;u_RiPPs_292&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region021&lt;br&gt;lanthipeptide-class-v&lt;br&gt;u_RiPPs_219&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(842.57, 1144.4)</data>
 </node>
 <node id="TIGR01379">
@@ -2718,7 +2718,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIV010000001.1.region022&lt;br&gt;lanthipeptide-class-iii,RRE-containing&lt;br&gt;u_RiPPs_63&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
+  <data key="d8">NZ_JACHIV010000001.1.region022&lt;br&gt;lanthipeptide-class-iii,RRE-containing&lt;br&gt;u_RiPPs_47&lt;br&gt;GCF_014203325.1&lt;br&gt;s__Saccharopolyspora_C gloriosae</data>
   <data key="d9">(935.5, 2090.0)</data>
 </node>
 <node id="TIGR01161">
@@ -2766,7 +2766,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region002&lt;br&gt;RRE-containing,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_63&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region002&lt;br&gt;RRE-containing,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_47&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(802.49, 2129.7)</data>
 </node>
 <node id="NZ_CP059557.1.region003">
@@ -2778,7 +2778,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region003&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_71&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region003&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_90&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(1192.3, 1097.2)</data>
 </node>
 <node id="NZ_CP059557.1.region010">
@@ -2790,7 +2790,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_303&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_187&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(313.57, 1202.0)</data>
 </node>
 <node id="TIGR01163">
@@ -2814,7 +2814,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region011&lt;br&gt;T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_210&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region011&lt;br&gt;T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_238&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(173.49, 1545.6)</data>
 </node>
 <node id="TIGR00273">
@@ -2838,7 +2838,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region013&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_134&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region013&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_273&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(1862.1, 759.91)</data>
 </node>
 <node id="TIGR00078">
@@ -2898,7 +2898,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region016&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_91&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region016&lt;br&gt;NAPAA&lt;br&gt;u_NRPS_86&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(668.2, 987.74)</data>
 </node>
 <node id="NZ_CP059557.1.region019">
@@ -2910,7 +2910,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region019&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_285&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region019&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_228&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(1642.0, 1584.6)</data>
 </node>
 <node id="NZ_CP059557.1.region020">
@@ -2922,7 +2922,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region020&lt;br&gt;arylpolyene&lt;br&gt;u_Others_78&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region020&lt;br&gt;arylpolyene&lt;br&gt;u_Others_80&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(1990.8, 1847.1)</data>
 </node>
 <node id="NZ_CP059557.1.region021">
@@ -2934,7 +2934,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region021&lt;br&gt;ranthipeptide,T2PKS&lt;br&gt;u_Others_162&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region021&lt;br&gt;ranthipeptide,T2PKS&lt;br&gt;u_Others_171&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(1081.4, 1324.3)</data>
 </node>
 <node id="NZ_CP059557.1.region023">
@@ -2958,7 +2958,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059557.1.region025&lt;br&gt;NRPS&lt;br&gt;u_NRPS_52&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059557.1.region025&lt;br&gt;NRPS&lt;br&gt;u_NRPS_55&lt;br&gt;GCF_022828475.1&lt;br&gt;s__</data>
   <data key="d9">(863.15, 862.59)</data>
 </node>
 <node id="NZ_CP059556.1.region003">
@@ -2970,7 +2970,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region003&lt;br&gt;RRE-containing,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_63&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region003&lt;br&gt;RRE-containing,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_47&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(923.21, 2203.4)</data>
 </node>
 <node id="NZ_CP059556.1.region004">
@@ -2982,7 +2982,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region004&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_127&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region004&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_269&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(1355.7, 1238.7)</data>
 </node>
 <node id="NZ_CP059556.1.region005">
@@ -3006,7 +3006,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_290&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region007&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_212&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(1859.4, 1157.0)</data>
 </node>
 <node id="NZ_CP059556.1.region008">
@@ -3018,7 +3018,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region008&lt;br&gt;arylpolyene,CDPS&lt;br&gt;u_Others_78&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region008&lt;br&gt;arylpolyene,CDPS&lt;br&gt;u_Others_80&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(1964.9, 1848.6)</data>
 </node>
 <node id="NZ_CP059556.1.region009">
@@ -3030,7 +3030,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region009&lt;br&gt;NRPS&lt;br&gt;u_NRPS_255&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region009&lt;br&gt;NRPS&lt;br&gt;u_NRPS_252&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(1263.3, 1352.3)</data>
 </node>
 <node id="NZ_CP059556.1.region018">
@@ -3042,7 +3042,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region018&lt;br&gt;transAT-PKS,lassopeptide&lt;br&gt;u_Others_107&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region018&lt;br&gt;transAT-PKS,lassopeptide&lt;br&gt;u_Others_100&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(1670.3, 1570.4)</data>
 </node>
 <node id="NZ_CP059556.1.region021">
@@ -3054,7 +3054,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region021&lt;br&gt;NRPS&lt;br&gt;u_NRPS_52&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region021&lt;br&gt;NRPS&lt;br&gt;u_NRPS_55&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(951.47, 966.07)</data>
 </node>
 <node id="NZ_CP059556.1.region023">
@@ -3066,7 +3066,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP059556.1.region023&lt;br&gt;terpene&lt;br&gt;u_Terpene_120&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP059556.1.region023&lt;br&gt;terpene&lt;br&gt;u_Terpene_122&lt;br&gt;GCF_024734405.1&lt;br&gt;s__</data>
   <data key="d9">(294.31, 1925.2)</data>
 </node>
 <node id="NZ_VWPH01000001.1.region002">
@@ -3078,7 +3078,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000001.1.region002&lt;br&gt;indole,lanthipeptide-class-iv&lt;br&gt;u_Others_13&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000001.1.region002&lt;br&gt;indole,lanthipeptide-class-iv&lt;br&gt;u_Others_18&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1867.1, 391.14)</data>
 </node>
 <node id="TIGR00499">
@@ -3114,7 +3114,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000010.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_265&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000010.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_226&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(2274.1, 1619.6)</data>
 </node>
 <node id="TIGR00173">
@@ -3138,7 +3138,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000010.1.region004&lt;br&gt;T1PKS,NRPS,RiPP-like&lt;br&gt;u_Others_36&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000010.1.region004&lt;br&gt;T1PKS,NRPS,RiPP-like&lt;br&gt;u_Others_35&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1084.8, 1177.7)</data>
 </node>
 <node id="NZ_VWPH01000014.1.region001">
@@ -3162,7 +3162,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000016.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000016.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(2020.5, 1211.6)</data>
 </node>
 <node id="NZ_VWPH01000021.1.region001">
@@ -3174,7 +3174,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000021.1.region001&lt;br&gt;PKS-like&lt;br&gt;u_PKSother_223&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000021.1.region001&lt;br&gt;PKS-like&lt;br&gt;u_PKSother_295&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1698.6, 1970.7)</data>
 </node>
 <node id="TIGR00685">
@@ -3198,7 +3198,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000004.1.region002&lt;br&gt;amglyccycl,T1PKS,NRPS-like&lt;br&gt;u_Others_167&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000004.1.region002&lt;br&gt;amglyccycl,T1PKS,NRPS-like&lt;br&gt;u_Others_124&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1141.3, 1409.0)</data>
 </node>
 <node id="NZ_VWPH01000004.1.region003">
@@ -3210,7 +3210,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000004.1.region003&lt;br&gt;NRPS-like,betalactone,NRPS&lt;br&gt;u_Others_110&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000004.1.region003&lt;br&gt;NRPS-like,betalactone,NRPS&lt;br&gt;u_Others_107&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1923.1, 1708.7)</data>
 </node>
 <node id="TIGR00171">
@@ -3234,7 +3234,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000005.1.region002&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_219&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000005.1.region002&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_287&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1867.1, 224.18)</data>
 </node>
 <node id="TIGR00233">
@@ -3282,7 +3282,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_VWPH01000005.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_222&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
+  <data key="d8">NZ_VWPH01000005.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_285&lt;br&gt;GCF_008630535.1&lt;br&gt;s__Saccharopolyspora hirsuta</data>
   <data key="d9">(1776.6, 1017.6)</data>
 </node>
 <node id="NZ_JACCFJ010000001.1.region002">
@@ -3294,7 +3294,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACCFJ010000001.1.region002&lt;br&gt;lipolanthine,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_94&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
+  <data key="d8">NZ_JACCFJ010000001.1.region002&lt;br&gt;lipolanthine,lanthipeptide-class-iii&lt;br&gt;u_RiPPs_81&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
   <data key="d9">(692.18, 65.639)</data>
 </node>
 <node id="TIGR00257">
@@ -3330,7 +3330,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACCFJ010000001.1.region004&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
+  <data key="d8">NZ_JACCFJ010000001.1.region004&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
   <data key="d9">(1866.0, 1194.2)</data>
 </node>
 <node id="NZ_JACCFJ010000001.1.region007">
@@ -3342,7 +3342,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACCFJ010000001.1.region007&lt;br&gt;T1PKS,NRPS-like,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_202&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
+  <data key="d8">NZ_JACCFJ010000001.1.region007&lt;br&gt;T1PKS,NRPS-like,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_240&lt;br&gt;GCF_013410345.1&lt;br&gt;s__Saccharopolyspora hordei</data>
   <data key="d9">(1878.9, 1725.4)</data>
 </node>
 <node id="NZ_JACCFJ010000001.1.region008">
@@ -3378,7 +3378,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000009.1.region001&lt;br&gt;T1PKS,NRPS,RiPP-like&lt;br&gt;u_Others_36&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000009.1.region001&lt;br&gt;T1PKS,NRPS,RiPP-like&lt;br&gt;u_Others_35&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1170.7, 1133.9)</data>
 </node>
 <node id="NZ_FOME01000009.1.region002">
@@ -3390,7 +3390,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000009.1.region002&lt;br&gt;NRPS,NRPS-like,PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_44&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000009.1.region002&lt;br&gt;NRPS,NRPS-like,PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_51&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1226.9, 1373.7)</data>
 </node>
 <node id="NZ_FOME01000004.1.region001">
@@ -3426,7 +3426,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000001.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000001.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1965.0, 1138.4)</data>
 </node>
 <node id="NZ_FOME01000001.1.region004">
@@ -3438,7 +3438,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000001.1.region004&lt;br&gt;T2PKS,T1PKS&lt;br&gt;u_PKSother_114&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000001.1.region004&lt;br&gt;T2PKS,T1PKS&lt;br&gt;u_PKSother_118&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(537.56, 1548.5)</data>
 </node>
 <node id="TIGR02961">
@@ -3486,7 +3486,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000011.1.region001&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_113&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000011.1.region001&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_119&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1792.7, 895.07)</data>
 </node>
 <node id="NZ_FOME01000006.1.region003">
@@ -3510,7 +3510,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FOME01000013.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_59&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FOME01000013.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_48&lt;br&gt;GCF_900112555.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1086.5, 442.0)</data>
 </node>
 <node id="NZ_FNVB01000003.1.region003">
@@ -3522,7 +3522,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000003.1.region003&lt;br&gt;NRPS,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_207&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000003.1.region003&lt;br&gt;NRPS,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_230&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1146.0, 1203.6)</data>
 </node>
 <node id="NZ_FNVB01000003.1.region005">
@@ -3534,7 +3534,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000003.1.region005&lt;br&gt;NRPS,NRPS-like,PKS-like,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_44&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000003.1.region005&lt;br&gt;NRPS,NRPS-like,PKS-like,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_51&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1248.6, 1387.2)</data>
 </node>
 <node id="TIGR01312">
@@ -3582,7 +3582,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000002.1.region003&lt;br&gt;T1PKS,T2PKS&lt;br&gt;u_PKSother_114&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000002.1.region003&lt;br&gt;T1PKS,T2PKS&lt;br&gt;u_PKSother_118&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(511.2, 1528.0)</data>
 </node>
 <node id="NZ_FNVB01000002.1.region005">
@@ -3594,7 +3594,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000002.1.region005&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_9&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000002.1.region005&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_7&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1906.2, 1157.4)</data>
 </node>
 <node id="NZ_FNVB01000002.1.region008">
@@ -3618,7 +3618,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000002.1.region009&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_113&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000002.1.region009&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_119&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(1734.3, 866.49)</data>
 </node>
 <node id="NZ_FNVB01000013.1.region001">
@@ -3630,7 +3630,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_FNVB01000013.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_59&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
+  <data key="d8">NZ_FNVB01000013.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_48&lt;br&gt;GCF_900108315.1&lt;br&gt;s__Saccharopolyspora jiangxiensis</data>
   <data key="d9">(939.49, 484.36)</data>
 </node>
 <node id="NZ_FNVB01000014.1.region001">
@@ -3666,7 +3666,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region004&lt;br&gt;NRPS&lt;br&gt;u_NRPS_243&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region004&lt;br&gt;NRPS&lt;br&gt;u_NRPS_263&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(990.54, 788.65)</data>
 </node>
 <node id="NZ_JACHIW010000001.1.region005">
@@ -3678,7 +3678,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region005&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_253&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region005&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_242&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(2037.0, 1708.9)</data>
 </node>
 <node id="NZ_JACHIW010000001.1.region008">
@@ -3690,7 +3690,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region008&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_236&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region008&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_253&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(2139.1, 1397.6)</data>
 </node>
 <node id="TIGR03687">
@@ -3714,7 +3714,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region011&lt;br&gt;terpene&lt;br&gt;u_Terpene_308&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region011&lt;br&gt;terpene&lt;br&gt;u_Terpene_307&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(289.08, 1101.6)</data>
 </node>
 <node id="TIGR00612">
@@ -3738,7 +3738,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region012&lt;br&gt;ranthipeptide,NRPS,NRPS-like,T2PKS&lt;br&gt;u_Others_194&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region012&lt;br&gt;ranthipeptide,NRPS,NRPS-like,T2PKS&lt;br&gt;u_Others_158&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1843.1, 1253.9)</data>
 </node>
 <node id="NZ_JACHIW010000001.1.region016">
@@ -3750,7 +3750,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region016&lt;br&gt;indole,lanthipeptide-class-iii&lt;br&gt;u_Others_149&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region016&lt;br&gt;indole,lanthipeptide-class-iii&lt;br&gt;u_Others_156&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1959.2, 388.0)</data>
 </node>
 <node id="NZ_JACHIW010000001.1.region017">
@@ -3762,7 +3762,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000001.1.region017&lt;br&gt;terpene&lt;br&gt;u_Terpene_307&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000001.1.region017&lt;br&gt;terpene&lt;br&gt;u_Terpene_318&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1741.1, 1575.6)</data>
 </node>
 <node id="NZ_JACHIW010000002.1.region003">
@@ -3774,7 +3774,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000002.1.region003&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_224&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000002.1.region003&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_296&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1983.9, 279.61)</data>
 </node>
 <node id="NZ_JACHIW010000002.1.region004">
@@ -3798,7 +3798,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000002.1.region006&lt;br&gt;NRPS-like,indole,NRPS,arylpolyene&lt;br&gt;u_Others_110&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000002.1.region006&lt;br&gt;NRPS-like,indole,NRPS,arylpolyene&lt;br&gt;u_Others_107&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1852.5, 1864.1)</data>
 </node>
 <node id="NZ_JACHIW010000002.1.region011">
@@ -3810,7 +3810,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000002.1.region011&lt;br&gt;PKS-like,T1PKS,NRPS,transAT-PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_209&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000002.1.region011&lt;br&gt;PKS-like,T1PKS,NRPS,transAT-PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_236&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(1122.2, 1225.3)</data>
 </node>
 <node id="NZ_JACHIW010000002.1.region014">
@@ -3822,7 +3822,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JACHIW010000002.1.region014&lt;br&gt;NRPS,phosphonate,oligosaccharide&lt;br&gt;u_Others_192&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
+  <data key="d8">NZ_JACHIW010000002.1.region014&lt;br&gt;NRPS,phosphonate,oligosaccharide&lt;br&gt;u_Others_143&lt;br&gt;GCF_014203395.1&lt;br&gt;s__Saccharopolyspora phatthalungensis</data>
   <data key="d9">(506.38, 425.26)</data>
 </node>
 <node id="PGK">
@@ -3858,7 +3858,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region002&lt;br&gt;terpene&lt;br&gt;u_Terpene_313&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region002&lt;br&gt;terpene&lt;br&gt;u_Terpene_312&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(961.66, 1081.5)</data>
 </node>
 <node id="NZ_CP031142.1.region003">
@@ -3870,7 +3870,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region003&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_282&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region003&lt;br&gt;lanthipeptide-class-iii&lt;br&gt;u_RiPPs_208&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(334.68, 793.05)</data>
 </node>
 <node id="NZ_CP031142.1.region009">
@@ -3882,7 +3882,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region009&lt;br&gt;PKS-like&lt;br&gt;u_PKSother_214&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region009&lt;br&gt;PKS-like&lt;br&gt;u_PKSother_292&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1226.3, 1056.6)</data>
 </node>
 <node id="NZ_CP031142.1.region010">
@@ -3894,7 +3894,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_262&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region010&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_126&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1579.5, 28.639)</data>
 </node>
 <node id="TIGR02412">
@@ -3930,7 +3930,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region015&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_216&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region015&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_294&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1995.4, 236.0)</data>
 </node>
 <node id="NZ_CP031142.1.region020">
@@ -3966,7 +3966,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region021&lt;br&gt;terpene,betalactone&lt;br&gt;u_Others_163&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region021&lt;br&gt;terpene,betalactone&lt;br&gt;u_Others_142&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1611.9, 1731.1)</data>
 </node>
 <node id="NZ_CP031142.1.region025">
@@ -3978,7 +3978,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region025&lt;br&gt;NRPS-like,T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_204&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region025&lt;br&gt;NRPS-like,T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_241&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1450.1, 631.31)</data>
 </node>
 <node id="TIGR00871">
@@ -4014,7 +4014,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region027&lt;br&gt;terpene,RRE-containing,other,phosphonate,NRPS-like,NRPS&lt;br&gt;u_Others_41&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region027&lt;br&gt;terpene,RRE-containing,other,phosphonate,NRPS-like,NRPS&lt;br&gt;u_Others_40&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(516.09, 583.41)</data>
 </node>
 <node id="NZ_CP031142.1.region031">
@@ -4026,7 +4026,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region031&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_287&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region031&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_218&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(2016.6, 1247.9)</data>
 </node>
 <node id="NZ_CP031142.1.region032">
@@ -4038,7 +4038,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region032&lt;br&gt;NRPS&lt;br&gt;u_NRPS_116&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region032&lt;br&gt;NRPS&lt;br&gt;u_NRPS_111&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(961.28, 790.45)</data>
 </node>
 <node id="NZ_CP031142.1.region035">
@@ -4050,7 +4050,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP031142.1.region035&lt;br&gt;RRE-containing&lt;br&gt;u_RiPPs_259&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP031142.1.region035&lt;br&gt;RRE-containing&lt;br&gt;u_RiPPs_199&lt;br&gt;GCF_014697215.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1873.0, 527.97)</data>
 </node>
 <node id="TIGR00615">
@@ -4110,7 +4110,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RSAA01000010.1.region001&lt;br&gt;RiPP-like&lt;br&gt;u_RiPPs_263&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
+  <data key="d8">NZ_RSAA01000010.1.region001&lt;br&gt;RiPP-like&lt;br&gt;u_RiPPs_223&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
   <data key="d9">(1170.9, 1192.5)</data>
 </node>
 <node id="NZ_RSAA01000010.1.region003">
@@ -4122,7 +4122,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RSAA01000010.1.region003&lt;br&gt;arylpolyene&lt;br&gt;u_Others_142&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
+  <data key="d8">NZ_RSAA01000010.1.region003&lt;br&gt;arylpolyene&lt;br&gt;u_Others_148&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
   <data key="d9">(840.69, 647.0)</data>
 </node>
 <node id="NZ_RSAA01000004.1.region001">
@@ -4158,7 +4158,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RSAA01000007.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_61&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
+  <data key="d8">NZ_RSAA01000007.1.region002&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_45&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
   <data key="d9">(2004.2, 1287.5)</data>
 </node>
 <node id="NZ_RSAA01000007.1.region003">
@@ -4182,7 +4182,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_RSAA01000007.1.region004&lt;br&gt;arylpolyene&lt;br&gt;u_Others_191&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
+  <data key="d8">NZ_RSAA01000007.1.region004&lt;br&gt;arylpolyene&lt;br&gt;u_Others_123&lt;br&gt;GCF_003931915.1&lt;br&gt;s__Saccharopolyspora rhizosphaerae</data>
   <data key="d9">(1314.9, 1880.7)</data>
 </node>
 <node id="TIGR00344">
@@ -4242,7 +4242,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP102826.1.region004&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_244&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP102826.1.region004&lt;br&gt;NRPS-like&lt;br&gt;u_NRPS_258&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
   <data key="d9">(840.82, 1062.9)</data>
 </node>
 <node id="TIGR01819">
@@ -4278,7 +4278,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP102826.1.region005&lt;br&gt;T2PKS,hglE-KS&lt;br&gt;u_PKSother_213&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP102826.1.region005&lt;br&gt;T2PKS,hglE-KS&lt;br&gt;u_PKSother_289&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
   <data key="d9">(1008.1, 1155.2)</data>
 </node>
 <node id="NZ_CP102826.1.region006">
@@ -4290,7 +4290,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP102826.1.region006&lt;br&gt;terpene&lt;br&gt;u_Terpene_314&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP102826.1.region006&lt;br&gt;terpene&lt;br&gt;u_Terpene_308&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
   <data key="d9">(1542.5, 1474.8)</data>
 </node>
 <node id="NZ_CP102826.1.region009">
@@ -4314,7 +4314,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP102826.1.region012&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_136&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP102826.1.region012&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_277&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
   <data key="d9">(1351.7, 1040.8)</data>
 </node>
 <node id="NZ_CP102826.1.region013">
@@ -4326,7 +4326,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP102826.1.region013&lt;br&gt;NRPS,indole&lt;br&gt;u_Others_154&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
+  <data key="d8">NZ_CP102826.1.region013&lt;br&gt;NRPS,indole&lt;br&gt;u_Others_136&lt;br&gt;GCF_025643595.1&lt;br&gt;s__</data>
   <data key="d9">(1126.9, 1086.6)</data>
 </node>
 <node id="NZ_CP102826.1.region018">
@@ -4350,7 +4350,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region001&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_226&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region001&lt;br&gt;hglE-KS&lt;br&gt;u_PKSother_282&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1912.5, 28.639)</data>
 </node>
 <node id="TIGR00118">
@@ -4386,7 +4386,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region004&lt;br&gt;RRE-containing&lt;br&gt;u_RiPPs_297&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region004&lt;br&gt;RRE-containing&lt;br&gt;u_RiPPs_211&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(136.49, 1730.6)</data>
 </node>
 <node id="TIGR00243">
@@ -4410,7 +4410,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region007&lt;br&gt;NRPS&lt;br&gt;u_NRPS_116&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region007&lt;br&gt;NRPS&lt;br&gt;u_NRPS_111&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(907.0, 819.73)</data>
 </node>
 <node id="NZ_CP040605.1.region008">
@@ -4422,7 +4422,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region008&lt;br&gt;NRPS,terpene&lt;br&gt;u_Others_174&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region008&lt;br&gt;NRPS,terpene&lt;br&gt;u_Others_146&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(136.49, 435.64)</data>
 </node>
 <node id="TIGR01391">
@@ -4446,7 +4446,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region009&lt;br&gt;RRE-containing,PKS-like,guanidinotides&lt;br&gt;u_Others_143&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region009&lt;br&gt;RRE-containing,PKS-like,guanidinotides&lt;br&gt;u_Others_137&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1951.8, 1317.6)</data>
 </node>
 <node id="NZ_CP040605.1.region013">
@@ -4458,7 +4458,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region013&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_138&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region013&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_272&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1357.5, 743.64)</data>
 </node>
 <node id="NZ_CP040605.1.region018">
@@ -4470,7 +4470,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region018&lt;br&gt;NRPS,T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_203&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region018&lt;br&gt;NRPS,T1PKS,NRPS-like&lt;br&gt;u_PKS-NRP_Hybrids_234&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1683.6, 1939.6)</data>
 </node>
 <node id="NZ_CP040605.1.region023">
@@ -4494,7 +4494,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region024&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_221&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region024&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_281&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1870.3, 269.13)</data>
 </node>
 <node id="NZ_CP040605.1.region028">
@@ -4506,7 +4506,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region028&lt;br&gt;hglE-KS,redox-cofactor&lt;br&gt;u_Others_179&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region028&lt;br&gt;hglE-KS,redox-cofactor&lt;br&gt;u_Others_102&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(886.02, 1106.0)</data>
 </node>
 <node id="NZ_CP040605.1.region029">
@@ -4530,7 +4530,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region030&lt;br&gt;terpene&lt;br&gt;u_Terpene_329&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region030&lt;br&gt;terpene&lt;br&gt;u_Terpene_309&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(1644.3, 1710.0)</data>
 </node>
 <node id="NZ_CP040605.1.region032">
@@ -4542,7 +4542,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region032&lt;br&gt;terpene,lanthipeptide-class-iii&lt;br&gt;u_Others_157&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region032&lt;br&gt;terpene,lanthipeptide-class-iii&lt;br&gt;u_Others_183&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(487.24, 824.57)</data>
 </node>
 <node id="NZ_CP040605.1.region033">
@@ -4554,7 +4554,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP040605.1.region033&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_147&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
+  <data key="d8">NZ_CP040605.1.region033&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_125&lt;br&gt;GCF_012277335.1&lt;br&gt;s__Saccharopolyspora pogona</data>
   <data key="d9">(897.23, 1139.1)</data>
 </node>
 <node id="NZ_JADDUE010000010.1.region001">
@@ -4566,7 +4566,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000010.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_273&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000010.1.region001&lt;br&gt;ranthipeptide&lt;br&gt;u_RiPPs_209&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(1975.4, 1183.5)</data>
 </node>
 <node id="NZ_JADDUE010000012.1.region001">
@@ -4578,7 +4578,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000012.1.region001&lt;br&gt;amglyccycl&lt;br&gt;u_Saccharides_232&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000012.1.region001&lt;br&gt;amglyccycl&lt;br&gt;u_Saccharides_194&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(1253.0, 102.64)</data>
 </node>
 <node id="TIGR01513">
@@ -4602,7 +4602,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000019.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_63&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000019.1.region001&lt;br&gt;lassopeptide&lt;br&gt;u_RiPPs_47&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(937.02, 2152.0)</data>
 </node>
 <node id="NZ_JADDUE010000020.1.region001">
@@ -4614,7 +4614,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000020.1.region001&lt;br&gt;lanthipeptide-class-i&lt;br&gt;u_RiPPs_293&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000020.1.region001&lt;br&gt;lanthipeptide-class-i&lt;br&gt;u_RiPPs_217&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(1998.9, 472.14)</data>
 </node>
 <node id="NZ_JADDUE010000003.1.region003">
@@ -4638,7 +4638,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000004.1.region001&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_71&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000004.1.region001&lt;br&gt;T1PKS&lt;br&gt;u_PKSI_90&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(1213.2, 1129.0)</data>
 </node>
 <node id="TIGR00544">
@@ -4662,7 +4662,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000004.1.region002&lt;br&gt;indole&lt;br&gt;u_Others_150&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000004.1.region002&lt;br&gt;indole&lt;br&gt;u_Others_132&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(2034.3, 1557.3)</data>
 </node>
 <node id="TIGR03705">
@@ -4698,7 +4698,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000006.1.region001&lt;br&gt;NRPS&lt;br&gt;u_NRPS_52&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000006.1.region001&lt;br&gt;NRPS&lt;br&gt;u_NRPS_55&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(984.96, 877.11)</data>
 </node>
 <node id="NZ_JADDUE010000008.1.region002">
@@ -4710,7 +4710,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_JADDUE010000008.1.region002&lt;br&gt;redox-cofactor&lt;br&gt;u_RiPPs_274&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
+  <data key="d8">NZ_JADDUE010000008.1.region002&lt;br&gt;redox-cofactor&lt;br&gt;u_Others_149&lt;br&gt;GCF_016526145.1&lt;br&gt;s__Saccharopolyspora_C sp016526145</data>
   <data key="d9">(328.03, 1344.7)</data>
 </node>
 <node id="TIGR02133">
@@ -4734,7 +4734,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region002&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_77&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region002&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_73&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1485.6, 499.0)</data>
 </node>
 <node id="NZ_CP061007.1.region004">
@@ -4746,7 +4746,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region004&lt;br&gt;terpene&lt;br&gt;u_Terpene_97&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region004&lt;br&gt;terpene&lt;br&gt;u_Terpene_95&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(247.49, 254.48)</data>
 </node>
 <node id="TIGR02960">
@@ -4770,7 +4770,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region006&lt;br&gt;T1PKS,transAT-PKS&lt;br&gt;u_PKSother_230&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region006&lt;br&gt;T1PKS,transAT-PKS&lt;br&gt;u_PKSother_293&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1468.5, 2195.2)</data>
 </node>
 <node id="RF0050">
@@ -4806,7 +4806,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region011&lt;br&gt;ranthipeptide,indole&lt;br&gt;u_Others_74&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region011&lt;br&gt;ranthipeptide,indole&lt;br&gt;u_Others_78&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(2008.0, 1167.5)</data>
 </node>
 <node id="NZ_CP061007.1.region012">
@@ -4830,7 +4830,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region014&lt;br&gt;PKS-like,T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_81&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region014&lt;br&gt;PKS-like,T1PKS,NRPS&lt;br&gt;u_PKS-NRP_Hybrids_85&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(2066.1, 1728.4)</data>
 </node>
 <node id="NZ_CP061007.1.region015">
@@ -4854,7 +4854,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region018&lt;br&gt;PKS-like,lanthipeptide-class-i&lt;br&gt;u_Others_72&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region018&lt;br&gt;PKS-like,lanthipeptide-class-i&lt;br&gt;u_Others_70&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1282.0, 1282.1)</data>
 </node>
 <node id="NZ_CP061007.1.region021">
@@ -4866,7 +4866,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region021&lt;br&gt;phosphonate,other&lt;br&gt;u_Others_41&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region021&lt;br&gt;phosphonate,other&lt;br&gt;u_Others_40&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(592.36, 511.3)</data>
 </node>
 <node id="NZ_CP061007.1.region028">
@@ -4878,7 +4878,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region028&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_84&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region028&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_91&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1893.3, 129.0)</data>
 </node>
 <node id="NZ_CP061007.1.region029">
@@ -4902,7 +4902,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region032&lt;br&gt;terpene&lt;br&gt;u_Terpene_99&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region032&lt;br&gt;terpene&lt;br&gt;u_Terpene_94&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1637.9, 1673.7)</data>
 </node>
 <node id="NZ_CP061007.1.region034">
@@ -4926,7 +4926,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region035&lt;br&gt;terpene,lanthipeptide-class-iii&lt;br&gt;u_Others_76&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region035&lt;br&gt;terpene,lanthipeptide-class-iii&lt;br&gt;u_Others_75&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(388.32, 758.0)</data>
 </node>
 <node id="NZ_CP061007.1.region036">
@@ -4938,7 +4938,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_CP061007.1.region036&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_85&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_CP061007.1.region036&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_92&lt;br&gt;GCF_014490055.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1027.7, 1103.7)</data>
 </node>
 <node id="NZ_GL877878.1.region003">
@@ -4962,7 +4962,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877878.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_84&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877878.1.region004&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_91&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1986.6, 137.42)</data>
 </node>
 <node id="NZ_GL877878.1.region007">
@@ -4974,7 +4974,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877878.1.region007&lt;br&gt;NRPS,T1PKS,PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_81&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877878.1.region007&lt;br&gt;NRPS,T1PKS,PKS-like&lt;br&gt;u_PKS-NRP_Hybrids_85&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(2080.7, 1757.6)</data>
 </node>
 <node id="NZ_GL877878.1.region008">
@@ -4998,7 +4998,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877878.1.region011&lt;br&gt;lanthipeptide-class-i,PKS-like&lt;br&gt;u_Others_72&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877878.1.region011&lt;br&gt;lanthipeptide-class-i,PKS-like&lt;br&gt;u_Others_70&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1268.1, 1290.0)</data>
 </node>
 <node id="NZ_GL877879.1.region002">
@@ -5010,7 +5010,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877879.1.region002&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_85&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877879.1.region002&lt;br&gt;T3PKS&lt;br&gt;u_PKSother_92&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(897.41, 1078.8)</data>
 </node>
 <node id="NZ_GL877879.1.region004">
@@ -5022,7 +5022,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877879.1.region004&lt;br&gt;NRPS,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_208&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877879.1.region004&lt;br&gt;NRPS,T1PKS&lt;br&gt;u_PKS-NRP_Hybrids_237&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(136.49, 28.639)</data>
 </node>
 <node id="TIGR01448">
@@ -5046,7 +5046,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877879.1.region006&lt;br&gt;ranthipeptide,indole&lt;br&gt;u_Others_74&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877879.1.region006&lt;br&gt;ranthipeptide,indole&lt;br&gt;u_Others_78&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1861.7, 1294.7)</data>
 </node>
 <node id="NZ_GL877879.1.region007">
@@ -5070,7 +5070,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877879.1.region009&lt;br&gt;phosphonate,other&lt;br&gt;u_Others_41&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877879.1.region009&lt;br&gt;phosphonate,other&lt;br&gt;u_Others_40&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(432.49, 520.54)</data>
 </node>
 <node id="NZ_GL877879.1.region010">
@@ -5082,7 +5082,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877879.1.region010&lt;br&gt;terpene&lt;br&gt;u_Terpene_99&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877879.1.region010&lt;br&gt;terpene&lt;br&gt;u_Terpene_94&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1692.7, 1614.9)</data>
 </node>
 <node id="NZ_GL877879.1.region012">
@@ -5106,7 +5106,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877881.1.region002&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_77&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877881.1.region002&lt;br&gt;T3PKS,arylpolyene&lt;br&gt;u_Others_73&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(1580.1, 586.82)</data>
 </node>
 <node id="NZ_GL877881.1.region004">
@@ -5118,7 +5118,7 @@
   <data key="d5">None</data>
   <data key="d6">blue</data>
   <data key="d7">BGC</data>
-  <data key="d8">NZ_GL877881.1.region004&lt;br&gt;terpene&lt;br&gt;u_Terpene_97&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
+  <data key="d8">NZ_GL877881.1.region004&lt;br&gt;terpene&lt;br&gt;u_Terpene_95&lt;br&gt;GCF_000194155.1&lt;br&gt;s__Saccharopolyspora spinosa</data>
   <data key="d9">(315.61, 129.0)</data>
 </node>
 <edge source="NZ_RBXX01000002.1.region002" target="GrpE"/>
@@ -5154,7 +5154,7 @@
 <edge source="TIGR03954" target="NZ_CP069353.1.region006"/>
 <edge source="TIGR03954" target="NZ_CP054839.1.region005"/>
 <edge source="TIGR03954" target="NZ_JABNNH010000001.1.region001"/>
-<edge source="TIGR03954" target="NC_009142.1.region005"/>
+<edge source="TIGR03954" target="NC_009142.1.region006"/>
 <edge source="TIGR03954" target="NZ_PDBV01000001.1.region005"/>
 <edge source="TIGR03954" target="NZ_FOZX01000016.1.region001"/>
 <edge source="TIGR03954" target="NZ_JACHIV010000001.1.region003"/>
@@ -5206,7 +5206,7 @@
 <edge source="PF01039.17" target="NZ_CP069353.1.region025"/>
 <edge source="PF01039.17" target="NZ_CP054839.1.region018"/>
 <edge source="PF01039.17" target="NZ_JABNNH010000001.1.region020"/>
-<edge source="PF01039.17" target="NC_009142.1.region023"/>
+<edge source="PF01039.17" target="NC_009142.1.region024"/>
 <edge source="PF01039.17" target="NZ_PDBV01000001.1.region023"/>
 <edge source="PF01039.17" target="NZ_FOZX01000003.1.region001"/>
 <edge source="PF01039.17" target="NZ_FOZX01000003.1.region002"/>
@@ -5243,7 +5243,7 @@
 <edge source="RF0053" target="NZ_CP069353.1.region026"/>
 <edge source="RF0053" target="NZ_CP054839.1.region017"/>
 <edge source="RF0053" target="NZ_JABNNH010000001.1.region021"/>
-<edge source="RF0053" target="NC_009142.1.region024"/>
+<edge source="RF0053" target="NC_009142.1.region025"/>
 <edge source="RF0053" target="NZ_PDBV01000001.1.region024"/>
 <edge source="RF0053" target="NZ_FOZX01000011.1.region001"/>
 <edge source="RF0053" target="NZ_CP059557.1.region019"/>
@@ -5268,7 +5268,7 @@
 <edge source="TIGR02159" target="NZ_CP069353.1.region020"/>
 <edge source="TIGR02159" target="NZ_CP054839.1.region023"/>
 <edge source="TIGR02159" target="NZ_JABNNH010000001.1.region014"/>
-<edge source="TIGR02159" target="NC_009142.1.region018"/>
+<edge source="TIGR02159" target="NC_009142.1.region019"/>
 <edge source="TIGR02159" target="NZ_PDBV01000001.1.region018"/>
 <edge source="TIGR02159" target="NZ_FOZX01000001.1.region002"/>
 <edge source="TIGR02159" target="NZ_VWPH01000005.1.region003"/>
@@ -5287,7 +5287,7 @@
 <edge source="TIGR02158" target="NZ_CP069353.1.region020"/>
 <edge source="TIGR02158" target="NZ_CP054839.1.region023"/>
 <edge source="TIGR02158" target="NZ_JABNNH010000001.1.region014"/>
-<edge source="TIGR02158" target="NC_009142.1.region018"/>
+<edge source="TIGR02158" target="NC_009142.1.region019"/>
 <edge source="TIGR02158" target="NZ_PDBV01000001.1.region018"/>
 <edge source="TIGR02158" target="NZ_FOZX01000001.1.region002"/>
 <edge source="TIGR02158" target="NZ_VWPH01000005.1.region003"/>
@@ -5306,7 +5306,7 @@
 <edge source="TIGR02157" target="NZ_CP069353.1.region020"/>
 <edge source="TIGR02157" target="NZ_CP054839.1.region023"/>
 <edge source="TIGR02157" target="NZ_JABNNH010000001.1.region014"/>
-<edge source="TIGR02157" target="NC_009142.1.region018"/>
+<edge source="TIGR02157" target="NC_009142.1.region019"/>
 <edge source="TIGR02157" target="NZ_PDBV01000001.1.region018"/>
 <edge source="TIGR02157" target="NZ_FOZX01000001.1.region002"/>
 <edge source="TIGR02157" target="NZ_VWPH01000005.1.region003"/>
@@ -5325,7 +5325,7 @@
 <edge source="TIGR02156" target="NZ_CP069353.1.region020"/>
 <edge source="TIGR02156" target="NZ_CP054839.1.region023"/>
 <edge source="TIGR02156" target="NZ_JABNNH010000001.1.region014"/>
-<edge source="TIGR02156" target="NC_009142.1.region018"/>
+<edge source="TIGR02156" target="NC_009142.1.region019"/>
 <edge source="TIGR02156" target="NZ_PDBV01000001.1.region018"/>
 <edge source="TIGR02156" target="NZ_FOZX01000001.1.region002"/>
 <edge source="TIGR02156" target="NZ_VWPH01000005.1.region003"/>
@@ -5359,7 +5359,7 @@
 <edge source="TIGR03451" target="NZ_JAGPXE010000015.1.region001"/>
 <edge source="TIGR03451" target="NZ_CP069353.1.region029"/>
 <edge source="TIGR03451" target="NZ_JABNNH010000001.1.region024"/>
-<edge source="TIGR03451" target="NC_009142.1.region027"/>
+<edge source="TIGR03451" target="NC_009142.1.region028"/>
 <edge source="TIGR03451" target="NZ_PDBV01000001.1.region027"/>
 <edge source="NZ_VIWX01000001.1.region008" target="TIGR01980"/>
 <edge source="NZ_VIWX01000001.1.region008" target="TIGR01981"/>
@@ -5394,7 +5394,7 @@
 <edge source="TIGR01994" target="NZ_CP069353.1.region008"/>
 <edge source="TIGR01994" target="NZ_CP054839.1.region009"/>
 <edge source="TIGR01994" target="NZ_JABNNH010000001.1.region003"/>
-<edge source="TIGR01994" target="NC_009142.1.region007"/>
+<edge source="TIGR01994" target="NC_009142.1.region008"/>
 <edge source="TIGR01994" target="NZ_PDBV01000001.1.region007"/>
 <edge source="TIGR01994" target="NZ_FOZX01000004.1.region001"/>
 <edge source="TIGR01994" target="NZ_JACHIV010000001.1.region005"/>
@@ -5428,7 +5428,7 @@
 <edge source="PF00364.17" target="NZ_JABNNH010000001.1.region031"/>
 <edge source="PF00364.17" target="NZ_JABNNH010000002.1.region004"/>
 <edge source="PF00364.17" target="NC_009142.1.region001"/>
-<edge source="PF00364.17" target="NC_009142.1.region034"/>
+<edge source="PF00364.17" target="NC_009142.1.region035"/>
 <edge source="PF00364.17" target="NZ_PDBV01000001.1.region001"/>
 <edge source="PF00364.17" target="NZ_PDBV01000001.1.region034"/>
 <edge source="PF00364.17" target="NZ_FOZX01000007.1.region001"/>
@@ -5445,7 +5445,7 @@
 <edge source="RF0124" target="NZ_CP069353.1.region016"/>
 <edge source="RF0124" target="NZ_CP054839.1.region027"/>
 <edge source="RF0124" target="NZ_JABNNH010000001.1.region010"/>
-<edge source="RF0124" target="NC_009142.1.region014"/>
+<edge source="RF0124" target="NC_009142.1.region015"/>
 <edge source="RF0124" target="NZ_PDBV01000001.1.region014"/>
 <edge source="RF0124" target="NZ_CP059557.1.region021"/>
 <edge source="RF0124" target="NZ_CP102826.1.region005"/>
@@ -5472,7 +5472,7 @@
 <edge source="TIGR00057" target="NZ_CP069353.1.region018"/>
 <edge source="TIGR00057" target="NZ_CP054839.1.region025"/>
 <edge source="TIGR00057" target="NZ_JABNNH010000001.1.region012"/>
-<edge source="TIGR00057" target="NC_009142.1.region016"/>
+<edge source="TIGR00057" target="NC_009142.1.region017"/>
 <edge source="TIGR00057" target="NZ_PDBV01000001.1.region016"/>
 <edge source="NZ_CP069353.1.region001" target="TIGR01063"/>
 <edge source="NZ_CP069353.1.region001" target="PF00521.15"/>
@@ -5494,12 +5494,12 @@
 <edge source="NZ_CP069353.1.region004" target="RF0067"/>
 <edge source="RF0067" target="NZ_CP054839.1.region003"/>
 <edge source="RF0067" target="NZ_JABNNH010000002.1.region002"/>
-<edge source="RF0067" target="NC_009142.1.region003"/>
+<edge source="RF0067" target="NC_009142.1.region004"/>
 <edge source="RF0067" target="NZ_PDBV01000001.1.region003"/>
 <edge source="NZ_CP069353.1.region005" target="TIGR03356"/>
 <edge source="TIGR03356" target="NZ_CP054839.1.region004"/>
 <edge source="TIGR03356" target="NZ_JABNNH010000002.1.region001"/>
-<edge source="TIGR03356" target="NC_009142.1.region004"/>
+<edge source="TIGR03356" target="NC_009142.1.region005"/>
 <edge source="TIGR03356" target="NZ_PDBV01000001.1.region004"/>
 <edge source="TIGR03356" target="NZ_CP031142.1.region003"/>
 <edge source="TIGR03356" target="NZ_CP040605.1.region032"/>
@@ -5510,8 +5510,8 @@
 <edge source="TIGR01430" target="NZ_CP054839.1.region025"/>
 <edge source="TIGR01430" target="NZ_JABNNH010000001.1.region003"/>
 <edge source="TIGR01430" target="NZ_JABNNH010000001.1.region012"/>
-<edge source="TIGR01430" target="NC_009142.1.region007"/>
-<edge source="TIGR01430" target="NC_009142.1.region016"/>
+<edge source="TIGR01430" target="NC_009142.1.region008"/>
+<edge source="TIGR01430" target="NC_009142.1.region017"/>
 <edge source="TIGR01430" target="NZ_PDBV01000001.1.region007"/>
 <edge source="TIGR01430" target="NZ_PDBV01000001.1.region016"/>
 <edge source="TIGR01430" target="NZ_JACHIV010000001.1.region008"/>
@@ -5521,16 +5521,16 @@
 <edge source="NZ_CP069353.1.region014" target="TIGR01915"/>
 <edge source="TIGR01915" target="NZ_CP054839.1.region029"/>
 <edge source="TIGR01915" target="NZ_JABNNH010000001.1.region008"/>
-<edge source="TIGR01915" target="NC_009142.1.region012"/>
+<edge source="TIGR01915" target="NC_009142.1.region013"/>
 <edge source="TIGR01915" target="NZ_PDBV01000001.1.region012"/>
 <edge source="NZ_CP069353.1.region016" target="RF0054"/>
 <edge source="RF0054" target="NZ_JABNNH010000001.1.region010"/>
-<edge source="RF0054" target="NC_009142.1.region014"/>
+<edge source="RF0054" target="NC_009142.1.region015"/>
 <edge source="RF0054" target="NZ_PDBV01000001.1.region014"/>
 <edge source="NZ_CP069353.1.region026" target="PF00185.19"/>
 <edge source="PF00185.19" target="NZ_CP054839.1.region017"/>
 <edge source="PF00185.19" target="NZ_JABNNH010000001.1.region021"/>
-<edge source="PF00185.19" target="NC_009142.1.region024"/>
+<edge source="PF00185.19" target="NC_009142.1.region025"/>
 <edge source="PF00185.19" target="NZ_PDBV01000001.1.region024"/>
 <edge source="PF00185.19" target="NZ_VWPH01000004.1.region003"/>
 <edge source="PF00185.19" target="NZ_JACCFJ010000001.1.region007"/>
@@ -5538,14 +5538,14 @@
 <edge source="NZ_CP069353.1.region035" target="TIGR00630"/>
 <edge source="NZ_CP069353.1.region035" target="TIGR01131"/>
 <edge source="TIGR00630" target="NZ_JABNNH010000001.1.region030"/>
-<edge source="TIGR00630" target="NC_009142.1.region033"/>
+<edge source="TIGR00630" target="NC_009142.1.region034"/>
 <edge source="TIGR00630" target="NZ_PDBV01000001.1.region033"/>
 <edge source="TIGR01131" target="NZ_JABNNH010000001.1.region030"/>
-<edge source="TIGR01131" target="NC_009142.1.region033"/>
+<edge source="TIGR01131" target="NC_009142.1.region034"/>
 <edge source="TIGR01131" target="NZ_PDBV01000001.1.region033"/>
 <edge source="NZ_CP069353.1.region036" target="TIGR00018"/>
 <edge source="TIGR00018" target="NZ_JABNNH010000001.1.region031"/>
-<edge source="TIGR00018" target="NC_009142.1.region034"/>
+<edge source="TIGR00018" target="NC_009142.1.region035"/>
 <edge source="TIGR00018" target="NZ_PDBV01000001.1.region034"/>
 <edge source="TIGR00018" target="NZ_CP031142.1.region002"/>
 <edge source="TIGR00018" target="NZ_CP040605.1.region033"/>
@@ -5556,22 +5556,22 @@
 <edge source="NZ_CP069353.1.region038" target="TIGR00379"/>
 <edge source="TIGR00715" target="NZ_CP054839.1.region035"/>
 <edge source="TIGR00715" target="NZ_JABNNH010000001.1.region033"/>
-<edge source="TIGR00715" target="NC_009142.1.region036"/>
+<edge source="TIGR00715" target="NC_009142.1.region037"/>
 <edge source="TIGR00715" target="NZ_PDBV01000001.1.region036"/>
 <edge source="TIGR00409" target="NZ_CP054839.1.region035"/>
 <edge source="TIGR00409" target="NZ_JABNNH010000001.1.region033"/>
-<edge source="TIGR00409" target="NC_009142.1.region036"/>
+<edge source="TIGR00409" target="NC_009142.1.region037"/>
 <edge source="TIGR00409" target="NZ_PDBV01000001.1.region036"/>
 <edge source="TIGR01953" target="NZ_CP054839.1.region035"/>
 <edge source="TIGR01953" target="NZ_JABNNH010000001.1.region033"/>
-<edge source="TIGR01953" target="NC_009142.1.region036"/>
+<edge source="TIGR01953" target="NC_009142.1.region037"/>
 <edge source="TIGR01953" target="NZ_PDBV01000001.1.region036"/>
 <edge source="TIGR00487" target="NZ_JABNNH010000001.1.region033"/>
-<edge source="TIGR00487" target="NC_009142.1.region036"/>
+<edge source="TIGR00487" target="NC_009142.1.region037"/>
 <edge source="TIGR00487" target="NZ_PDBV01000001.1.region036"/>
 <edge source="TIGR00379" target="NZ_CP054839.1.region035"/>
 <edge source="TIGR00379" target="NZ_JABNNH010000001.1.region033"/>
-<edge source="TIGR00379" target="NC_009142.1.region036"/>
+<edge source="TIGR00379" target="NC_009142.1.region037"/>
 <edge source="TIGR00379" target="NZ_PDBV01000001.1.region036"/>
 <edge source="NZ_CP054839.1.region001" target="TIGR01059"/>
 <edge source="NZ_CP054839.1.region001" target="PF00204.20"/>
