@@ -1,5 +1,5 @@
 # README
-This repository contains the scripts (in jupyter notebooks) to generate the figure in the manuscript **"BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets"**.
+This repository contains the scripts (in jupyter notebooks) to generate the figure in the manuscript **"[BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets](https://doi.org/10.1101/2023.06.14.545018)"**.
 
 # USAGE
 ## 1. Clone this repository
@@ -66,7 +66,7 @@ jupyter lab
 - Run the notebooks in order
 
 # Citation
-> Matin Nuhamunada, Omkar S. Mohite, Patrick V. Phaneuf, Bernhard O. Palsson, and Tilmann Weber. 2023. BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets.
+> Matin Nuhamunada, Omkar S. Mohite, Patrick V. Phaneuf, Bernhard O. Palsson, and Tilmann Weber. (2023). BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets. bioRxiv 2023.06.14.545018; doi: [https://doi.org/10.1101/2023.06.14.545018](https://doi.org/10.1101/2023.06.14.545018)
 
 > Nuhamunada, Matin, & Mohite, Omkar Satyavan. (2023). BGCFlow Analysis of Saccharopolyspora Genomes (0.1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8018055](https://doi.org/10.5281/zenodo.8018055
 )
