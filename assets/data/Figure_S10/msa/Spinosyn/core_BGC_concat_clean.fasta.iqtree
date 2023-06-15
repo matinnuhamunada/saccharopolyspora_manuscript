@@ -1,8 +1,8 @@
-IQ-TREE 2.2.2.3 COVID-edition built Apr  7 2023
+IQ-TREE 2.2.2.7 COVID-edition built Jun  7 2023
 
 Input file name: assets/data/Figure_S10/msa/Spinosyn/core_BGC_concat_clean.fasta
 Type of analysis: ModelFinder + tree reconstruction
-Random seed number: 964743
+Random seed number: 626984
 
 REFERENCES
 ----------
@@ -222,7 +222,7 @@ rtREV+G4          -2664.140    5344.279 -  1.4e-31    5344.464 - 3.41e-31    538
 rtREV+I           -2664.144    5344.287 - 1.39e-31    5344.472 -  3.4e-31    5381.653 - 8.17e-18
 LG+R3             -2655.828    5333.656 - 2.84e-29    5333.996 -  6.4e-29    5385.034 - 1.51e-18
 rtREV+I+G4        -2664.124    5346.247 - 5.23e-32    5346.479 - 1.25e-31    5388.284 - 2.97e-19
-LG+I+R3           -2655.225    5334.450 - 1.91e-29    5334.853 - 4.17e-29    5390.500 -  9.8e-20
+LG+I+R3           -2655.225    5334.450 - 1.91e-29    5334.852 - 4.17e-29    5390.500 -  9.8e-20
 FLU               -2674.785    5363.569 - 9.06e-36    5363.713 - 2.25e-35    5396.265 - 5.49e-21
 FLU+I             -2673.092    5362.185 - 1.81e-35    5362.369 - 4.41e-35    5399.551 - 1.06e-21
 FLU+G4            -2673.097    5362.195 -  1.8e-35    5362.379 - 4.39e-35    5399.561 - 1.06e-21
@@ -253,7 +253,7 @@ mtMAM+I+G4        -2770.790    5559.581 - 2.48e-78    5559.812 -  5.9e-78    560
 mtMAM             -2779.455    5572.909 - 3.16e-81    5573.053 - 7.86e-81    5605.604 - 1.91e-66
 mtART+I           -2793.742    5603.485 - 7.25e-88    5603.669 - 1.77e-87    5640.851 - 4.25e-74
 mtART+G4          -2795.903    5607.806 - 8.36e-89    5607.990 - 2.04e-88    5645.172 -  4.9e-75
-mtART+I+G4        -2793.584    5605.169 - 3.12e-88    5605.400 - 7.44e-88    5647.206 - 1.77e-75
+mtART+I+G4        -2793.585    5605.169 - 3.12e-88    5605.400 - 7.44e-88    5647.206 - 1.77e-75
 mtVer             -2800.665    5615.331 - 1.94e-90    5615.474 - 4.83e-90    5648.026 - 1.18e-75
 mtVer+I           -2797.570    5611.141 - 1.58e-89    5611.325 - 3.84e-89    5648.507 - 9.24e-76
 mtVer+G4          -2797.578    5611.156 - 1.57e-89    5611.340 - 3.81e-89    5648.522 - 9.17e-76
@@ -287,7 +287,7 @@ Model of rate heterogeneity: Uniform
 MAXIMUM LIKELIHOOD TREE
 -----------------------
 
-Log-likelihood of the tree: -2629.0347 (s.e. 44.1811)
+Log-likelihood of the tree: -2629.0347 (s.e. 44.1812)
 Unconstrained log-likelihood (without tree): -2531.1688
 Number of free parameters (#branches + #model parameters): 7
 Akaike information criterion (AIC) score: 5272.0695
@@ -295,26 +295,26 @@ Corrected Akaike information criterion (AICc) score: 5272.2129
 Bayesian information criterion (BIC) score: 5304.7648
 
 Total tree length (sum of branch lengths): 0.0685
-Sum of internal branch lengths: 0.0384 (56.0866% of tree length)
+Sum of internal branch lengths: 0.0384 (56.0889% of tree length)
 
 WARNING: 1 near-zero internal branches (<0.0013) should be treated with caution
          Such branches are denoted by '**' in the figure below
 
-NOTE: Tree is UNROOTED although outgroup taxon 'BGC0000148.region001' is drawn at root
+NOTE: Tree is UNROOTED although outgroup taxon 'NZ_GL877879.1.region004' is drawn at root
 
-+--BGC0000148.region001
++**NZ_GL877879.1.region004
 |
-|  +**NZ_CP061007.1.region006
+|                                             +---------------NZ_CP040605.1.region011
+|  +------------------------------------------|
+|  |                                          +---------------NZ_CP031142.1.region026
 +**|
-|  +**NZ_PJNB01000001.1.region031
+|  +--BGC0000148.region001
 |
-|                                          +---------------NZ_CP040605.1.region011
-+------------------------------------------|
-                                           +---------------NZ_CP031142.1.region026
++**NZ_CP061007.1.region006
 
 Tree in newick format:
 
-(BGC0000148.region001:0.0013184306,(NZ_CP061007.1.region006:0.0000010000,NZ_PJNB01000001.1.region031:0.0000010000):0.0000010000,(NZ_CP040605.1.region011:0.0144992564,NZ_CP031142.1.region026:0.0142711754):0.0384335882);
+(NZ_GL877879.1.region004:0.0000010000,((NZ_CP040605.1.region011:0.0144988922,NZ_CP031142.1.region026:0.0142704550):0.0384336084,BGC0000148.region001:0.0013184320):0.0000010000,NZ_CP061007.1.region006:0.0000010000);
 
 ALISIM COMMAND
 --------------
@@ -335,7 +335,7 @@ For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
 TIME STAMP
 ----------
 
-Date and time: Thu May 25 14:19:39 2023
-Total CPU time used: 0.226768 seconds (0h:0m:0s)
-Total wall-clock time used: 0.263518 seconds (0h:0m:0s)
+Date and time: Mon Jun 12 06:27:42 2023
+Total CPU time used: 0.215227 seconds (0h:0m:0s)
+Total wall-clock time used: 0.261929 seconds (0h:0m:0s)
 
