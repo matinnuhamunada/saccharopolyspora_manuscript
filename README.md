@@ -1,5 +1,5 @@
-# README (TO DO)
-This repository contains the scripts (in jupyter notebooks) to generate the figure in the upcoming BGCFlow publication.
+# README
+This repository contains the scripts (in jupyter notebooks) to generate the figure in the manuscript **"BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets"**.
 
 # USAGE
 ## 1. Clone this repository
@@ -21,14 +21,14 @@ bgcflow clone bgcflow
 ```
 
 ## 2. Download the dataset
-- TODO - make data accessible in zenodo
+- Donwload the dataset containing the BGCFlow runs from [Zenodo](https://doi.org/10.5281/zenodo.8018055)
 
 ```bash
 # move to bgcflow dir
 cd bgcflow
 
 # download and extract dataset
-wget <zenodo link>
+wget https://zenodo.org/record/8018055/files/saccharopolyspora_dataset.zip
 unzip saccharopolyspora_dataset.zip
 ```
 
@@ -41,14 +41,17 @@ cd ../saccharopolyspora_manuscript/
 nano config.yaml
 ```
 
-## 4. Run the notebooks
-- There are two kind of notebooks, R (*.R.ipynb) and python (*.python.ipynb)
-- Run the notebook using the corresponding conda environment: `python_notebook.yaml` or `r_notebook.yaml`
-- Install the conda environment:
+## 4. Setting up Conda Environments
+Install these conda environments:
 ```bash
 mamba env create -f python_notebook.yaml
 mamba env create -f r_notebook.yaml
+mamba env create -f <bgcflow_dir>/workflow/envs/cblaster.yaml
 ```
+
+## 4. Run the notebooks
+- There are two kind of notebooks, R (*.R.ipynb) and python (*.python.ipynb)
+- Run the notebook using the corresponding conda environment: `python_notebook` or `r_notebook`
 - Start jupyter session
 ```bash
 # for python
@@ -61,3 +64,9 @@ conda activate r_notebook
 jupyter lab
 ```
 - Run the notebooks in order
+
+# Citation
+> Matin Nuhamunada, Omkar S. Mohite, Patrick V. Phaneuf, Bernhard O. Palsson, and Tilmann Weber. 2023. BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets.
+
+> Nuhamunada, Matin, & Mohite, Omkar Satyavan. (2023). BGCFlow Analysis of Saccharopolyspora Genomes (0.1.0) [Data set]. Zenodo. [https://doi.org/10.5281/zenodo.8018055](https://doi.org/10.5281/zenodo.8018055
+)
