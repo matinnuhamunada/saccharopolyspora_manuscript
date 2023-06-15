@@ -1,0 +1,9 @@
+
+In the integrated BiG-SCAPE network with (0.40 cutoff), there are 980 nodes and 2575 edges.
+From these, 724 are BGCs, 19 are MIBIG entries identified with BiG-SCAPE, and 139 are MIBIG entries identified with KnownClusterBlast.
+In these network, there are 190 connected components (GCFs), with 97 singleton BGCs (41 true singletons). 
+Of these, there are 609 BGCs that belongs to 126 GCFs with similariy to MIBIG nodes.
+
+total_gcf : 190 ; total_bgc : 724 ; MIBIG_bigscape_gcf : 10 ; MIBIG_bigscape_bgc : 109 ; MIBIG_knownclusterblast_gcf : 116 ; MIBIG_knownclusterblast_bgc : 500 ; MIBIG_knownclusterblast_above_80_gcf : 8 ; MIBIG_knownclusterblast_above_80_bgc : 53 ; MIBIG_knownclusterblast_below_80_gcf : 108 ; MIBIG_knownclusterblast_below_80_bgc : 447 ; unknown_gcf : 64 ; unknown_bgc : 115
+    
+    
