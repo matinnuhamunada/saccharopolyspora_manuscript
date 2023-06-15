@@ -49,7 +49,7 @@ mamba env create -f r_notebook.yaml
 mamba env create -f <bgcflow_dir>/workflow/envs/cblaster.yaml
 ```
 
-## 4. Run the notebooks
+## 5. Run the notebooks
 - There are two kind of notebooks, R (*.R.ipynb) and python (*.python.ipynb)
 - Run the notebook using the corresponding conda environment: `python_notebook` or `r_notebook`
 - Start jupyter session
