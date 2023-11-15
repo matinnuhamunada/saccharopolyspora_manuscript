@@ -61,6 +61,7 @@ jupyter lab
 ```bash
 # for R
 conda activate r_notebook
+Rscript r_notebook_env.R
 jupyter lab
 ```
 - Run the notebooks in order
