@@ -60,7 +60,7 @@ jupyter lab
 ```
 ```bash
 # for R
-conda activate r_notebook
+conda activate r_notebook_manuscript
 Rscript r_notebook_env.R
 jupyter lab
 ```
