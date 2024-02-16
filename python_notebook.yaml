@@ -1,4 +1,4 @@
-name: python_notebook
+name: python_notebook_manuscript
 channels:
   - conda-forge
   - bioconda
@@ -8,7 +8,6 @@ dependencies:
   - jupyterlab>3
   - ipywidgets>=7.6
   - jupyter-dash
-  - jupyter_contrib_nbextensions
   - jupyter_highlight_selected_word
   - seaborn
   - pandas
