@@ -1,5 +1,5 @@
 # README
-This repository contains the scripts (in jupyter notebooks) to generate the figure in the manuscript **"[BGCFlow: Systematic pangenome workflow for the analysis of biosynthetic gene clusters across large genomic datasets](https://doi.org/10.1101/2023.06.14.545018)"**.
+This repository contains the scripts (in jupyter notebooks) to generate the figure for the analysis of *Saccharopolyspora* genomes in *[Nuhamunada, M., O.S. Mohite et al. (2023)](https://doi.org/10.1101/2023.06.14.545018)* using [BGCFlow](https://github.com/NBChub/bgcflow).
 
 # USAGE
 ## 1. Clone this repository
@@ -60,7 +60,8 @@ jupyter lab
 ```
 ```bash
 # for R
-conda activate r_notebook
+conda activate r_notebook_manuscript
+Rscript r_notebook_env.R
 jupyter lab
 ```
 - Run the notebooks in order
